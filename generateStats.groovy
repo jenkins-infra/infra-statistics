@@ -28,6 +28,19 @@ class Generator {
         }.join()
     }
 
+    /**
+     * Utility method to write a map to a CSV file
+     * @param file The file to write to
+     * @param data Map containing the data to write
+     */
+    def writeCSV(File file, Map data) {
+        file.withPrintWriter { w ->
+            data.each { key, value ->
+                w.println("\"${key}\",\"${value}\"")
+            }
+        }
+    }
+
     def generateStats(file, targetDir) {
 
         JenkinsMetricParser p = new JenkinsMetricParser()
@@ -134,12 +147,7 @@ class Generator {
         }
         item2number = item2number.sort(order)
 
-        new File(fileStem.path+".csv").withPrintWriter { w ->
-            item2number.each { item, number ->
-                w.println("\"${item}\",\"${number}\"")
-            }
-        }
-
+        writeCSV(new File(fileStem.path+".csv"), item2number)
 
         def higestNr = item2number.inject(0){ input, version, number -> number > input ? number : input }
         def viewWidth = (item2number.size() * 15) + 50
@@ -184,12 +192,11 @@ class Generator {
      *   lx, ly: the upper-left corner of the chart legend
      */
     def createPieSVG(def title, def fileStem, List<Integer> data,def cx,def cy,def r,def colors, List<String> labels,def lx,def ly) {
-
-        new File(fileStem.path+".csv").withPrintWriter { w ->
-            for(def i = 0; i < data.size(); i++) {
-                w.println("\"${data[i]}\",\"${labels[i]}\"")
-            }
+        def csvData = [:]
+        for(def i = 0; i < data.size(); i++) {
+            csvData[labels[i]] = data[i]
         }
+        writeCSV(new File(fileStem.path+".csv"), csvData)
 
         // Add up the data values so we know how big the pie is
         def total = 0;
