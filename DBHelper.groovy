@@ -1,5 +1,6 @@
 import org.sqlite.*
 import java.sql.*
+import groovy.sql.Sql
 
 class DBHelper {
 
@@ -34,17 +35,29 @@ class DBHelper {
 
 
     /**
-     * is the file with the given name already imported?
+     * Checks if a file with the given name has already been imported into the database
+     * @param db Database connection
+     * @param fileName Name of the file to check
+     * @return true if the file should be imported (hasn't been imported yet), false otherwise
+     * @throws SQLException if there is a database error
      */
-    static boolean doImport(db, fileName){
-        if(db){
-            def filePrefix = fileName.substring(0, fileName.indexOf("."))+"%"
-            def rows = db.rows("select name from importedfile where name like $filePrefix;")
-            return rows.size() == 0
+    static boolean doImport(db, fileName) {
+        if (!db) {
+            throw new IllegalArgumentException("Database connection cannot be null")
         }
-        true
-    }
+        if (!fileName) {
+            throw new IllegalArgumentException("Filename cannot be null")
+        }
 
+        try {
+            def filePrefix = fileName.substring(0, fileName.indexOf(".")) + "%"
+            def rows = db.rows("select name from importedfile where name like ?", [filePrefix])
+            return rows.size() == 0
+        } catch (Exception e) {
+            println "Error checking if file ${fileName} was already imported: ${e.message}"
+            throw e // Re-throw to let caller handle it
+        }
+    }
 }
 
 
