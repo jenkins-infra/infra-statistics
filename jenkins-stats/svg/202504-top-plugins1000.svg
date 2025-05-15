@@ -1,0 +1,1433 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 10775 3114.2">
+  <rect fill="blue" height="10.0" stroke="black" width="12" x="15" y="2804.2"/>
+  <text x="15" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 15,2819.2)" text-rendering="optimizeSpeed" fill="#000000">custom-checkbox-parameter (1002)</text>
+  <rect fill="blue" height="10.0" stroke="black" width="12" x="30" y="2804.2"/>
+  <text x="30" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 30,2819.2)" text-rendering="optimizeSpeed" fill="#000000">crowd2 (1003)</text>
+  <rect fill="blue" height="10.0" stroke="black" width="12" x="45" y="2804.2"/>
+  <text x="45" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 45,2819.2)" text-rendering="optimizeSpeed" fill="#000000">rake (1003)</text>
+  <rect fill="blue" height="10.1" stroke="black" width="12" x="60" y="2804.2"/>
+  <text x="60" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 60,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dry (1006)</text>
+  <rect fill="blue" height="10.1" stroke="black" width="12" x="75" y="2804.1"/>
+  <text x="75" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 75,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ignore-committer-strategy (1009)</text>
+  <rect fill="blue" height="10.1" stroke="black" width="12" x="90" y="2804.1"/>
+  <text x="90" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 90,2819.2)" text-rendering="optimizeSpeed" fill="#000000">test-stability (1009)</text>
+  <rect fill="blue" height="10.1" stroke="black" width="12" x="105" y="2804.1"/>
+  <text x="105" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 105,2819.2)" text-rendering="optimizeSpeed" fill="#000000">disable-github-multibranch-status (1012)</text>
+  <rect fill="blue" height="10.1" stroke="black" width="12" x="120" y="2804.1"/>
+  <text x="120" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 120,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hipchat (1013)</text>
+  <rect fill="blue" height="10.2" stroke="black" width="12" x="135" y="2804.1"/>
+  <text x="135" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 135,2819.2)" text-rendering="optimizeSpeed" fill="#000000">awseb-deployment-plugin (1017)</text>
+  <rect fill="blue" height="10.2" stroke="black" width="12" x="150" y="2804.1"/>
+  <text x="150" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 150,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pagerduty (1017)</text>
+  <rect fill="blue" height="10.2" stroke="black" width="12" x="165" y="2804.1"/>
+  <text x="165" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 165,2819.2)" text-rendering="optimizeSpeed" fill="#000000">rocketchatnotifier (1018)</text>
+  <rect fill="blue" height="10.2" stroke="black" width="12" x="180" y="2804.1"/>
+  <text x="180" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 180,2819.2)" text-rendering="optimizeSpeed" fill="#000000">openshift-sync (1019)</text>
+  <rect fill="blue" height="10.2" stroke="black" width="12" x="195" y="2804.0"/>
+  <text x="195" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 195,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-flow-plugin (1022)</text>
+  <rect fill="blue" height="10.3" stroke="black" width="12" x="210" y="2803.9"/>
+  <text x="210" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 210,2819.2)" text-rendering="optimizeSpeed" fill="#000000">changelog-history (1029)</text>
+  <rect fill="blue" height="10.3" stroke="black" width="12" x="225" y="2803.9"/>
+  <text x="225" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 225,2819.2)" text-rendering="optimizeSpeed" fill="#000000">change-assembly-version-plugin (1032)</text>
+  <rect fill="blue" height="10.3" stroke="black" width="12" x="240" y="2803.9"/>
+  <text x="240" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 240,2819.2)" text-rendering="optimizeSpeed" fill="#000000">parallel-test-executor (1033)</text>
+  <rect fill="blue" height="10.4" stroke="black" width="12" x="255" y="2803.9"/>
+  <text x="255" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 255,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-kubernetes-engine (1036)</text>
+  <rect fill="blue" height="10.4" stroke="black" width="12" x="270" y="2803.8"/>
+  <text x="270" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 270,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-container-registry-auth (1040)</text>
+  <rect fill="blue" height="10.4" stroke="black" width="12" x="285" y="2803.8"/>
+  <text x="285" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 285,2819.2)" text-rendering="optimizeSpeed" fill="#000000">windows-exe-runner (1041)</text>
+  <rect fill="blue" height="10.4" stroke="black" width="12" x="300" y="2803.8"/>
+  <text x="300" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 300,2819.2)" text-rendering="optimizeSpeed" fill="#000000">zap (1043)</text>
+  <rect fill="blue" height="10.5" stroke="black" width="12" x="315" y="2803.8"/>
+  <text x="315" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 315,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-history-manager (1048)</text>
+  <rect fill="blue" height="10.5" stroke="black" width="12" x="330" y="2803.7"/>
+  <text x="330" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 330,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-time-blame (1054)</text>
+  <rect fill="blue" height="10.6" stroke="black" width="12" x="345" y="2803.6"/>
+  <text x="345" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 345,2819.2)" text-rendering="optimizeSpeed" fill="#000000">markdown-formatter (1062)</text>
+  <rect fill="blue" height="10.7" stroke="black" width="12" x="360" y="2803.5"/>
+  <text x="360" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 360,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-cause-run-condition (1071)</text>
+  <rect fill="blue" height="10.9" stroke="black" width="12" x="375" y="2803.4"/>
+  <text x="375" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 375,2819.2)" text-rendering="optimizeSpeed" fill="#000000">stash-pullrequest-builder (1086)</text>
+  <rect fill="blue" height="10.9" stroke="black" width="12" x="390" y="2803.4"/>
+  <text x="390" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 390,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cucumber-trends-report (1087)</text>
+  <rect fill="blue" height="10.9" stroke="black" width="12" x="405" y="2803.3"/>
+  <text x="405" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 405,2819.2)" text-rendering="optimizeSpeed" fill="#000000">global-post-script (1091)</text>
+  <rect fill="blue" height="10.9" stroke="black" width="12" x="420" y="2803.3"/>
+  <text x="420" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 420,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-snapshot-check (1093)</text>
+  <rect fill="blue" height="10.9" stroke="black" width="12" x="435" y="2803.3"/>
+  <text x="435" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 435,2819.2)" text-rendering="optimizeSpeed" fill="#000000">testInProgress (1095)</text>
+  <rect fill="blue" height="11.1" stroke="black" width="12" x="450" y="2803.1"/>
+  <text x="450" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 450,2819.2)" text-rendering="optimizeSpeed" fill="#000000">tfs (1111)</text>
+  <rect fill="blue" height="11.2" stroke="black" width="12" x="465" y="2803.0"/>
+  <text x="465" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 465,2819.2)" text-rendering="optimizeSpeed" fill="#000000">flaky-test-handler (1120)</text>
+  <rect fill="blue" height="11.2" stroke="black" width="12" x="480" y="2803.0"/>
+  <text x="480" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 480,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jobcopy-builder (1121)</text>
+  <rect fill="blue" height="11.3" stroke="black" width="12" x="495" y="2802.9"/>
+  <text x="495" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 495,2819.2)" text-rendering="optimizeSpeed" fill="#000000">create-fingerprint (1134)</text>
+  <rect fill="blue" height="11.4" stroke="black" width="12" x="510" y="2802.9"/>
+  <text x="510" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 510,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dynamic-axis (1137)</text>
+  <rect fill="blue" height="11.4" stroke="black" width="12" x="525" y="2802.9"/>
+  <text x="525" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 525,2819.2)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code-secret-ssm (1138)</text>
+  <rect fill="blue" height="11.4" stroke="black" width="12" x="540" y="2802.9"/>
+  <text x="540" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 540,2819.2)" text-rendering="optimizeSpeed" fill="#000000">poll-mailbox-trigger-plugin (1138)</text>
+  <rect fill="blue" height="11.4" stroke="black" width="12" x="555" y="2802.8"/>
+  <text x="555" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 555,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scm-filter-branch-pr (1140)</text>
+  <rect fill="blue" height="11.4" stroke="black" width="12" x="570" y="2802.8"/>
+  <text x="570" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 570,2819.2)" text-rendering="optimizeSpeed" fill="#000000">anything-goes-formatter (1142)</text>
+  <rect fill="blue" height="11.5" stroke="black" width="12" x="585" y="2802.8"/>
+  <text x="585" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 585,2819.2)" text-rendering="optimizeSpeed" fill="#000000">content-replace (1149)</text>
+  <rect fill="blue" height="11.6" stroke="black" width="12" x="600" y="2802.6"/>
+  <text x="600" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 600,2819.2)" text-rendering="optimizeSpeed" fill="#000000">perfpublisher (1164)</text>
+  <rect fill="blue" height="11.7" stroke="black" width="12" x="615" y="2802.6"/>
+  <text x="615" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 615,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jobgenerator (1167)</text>
+  <rect fill="blue" height="11.7" stroke="black" width="12" x="630" y="2802.5"/>
+  <text x="630" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 630,2819.2)" text-rendering="optimizeSpeed" fill="#000000">selenium (1172)</text>
+  <rect fill="blue" height="11.8" stroke="black" width="12" x="645" y="2802.5"/>
+  <text x="645" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 645,2819.2)" text-rendering="optimizeSpeed" fill="#000000">qtest (1177)</text>
+  <rect fill="blue" height="11.8" stroke="black" width="12" x="660" y="2802.4"/>
+  <text x="660" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 660,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multibranch-action-triggers (1180)</text>
+  <rect fill="blue" height="11.8" stroke="black" width="12" x="675" y="2802.4"/>
+  <text x="675" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 675,2819.2)" text-rendering="optimizeSpeed" fill="#000000">TestComplete (1185)</text>
+  <rect fill="blue" height="11.9" stroke="black" width="12" x="690" y="2802.4"/>
+  <text x="690" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 690,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xvnc (1188)</text>
+  <rect fill="blue" height="11.9" stroke="black" width="12" x="705" y="2802.3"/>
+  <text x="705" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 705,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-deployment-linker (1195)</text>
+  <rect fill="blue" height="12.0" stroke="black" width="12" x="720" y="2802.3"/>
+  <text x="720" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 720,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitbucket (1196)</text>
+  <rect fill="blue" height="12.1" stroke="black" width="12" x="735" y="2802.2"/>
+  <text x="735" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 735,2819.2)" text-rendering="optimizeSpeed" fill="#000000">logfilesizechecker (1207)</text>
+  <rect fill="blue" height="12.2" stroke="black" width="12" x="750" y="2802.1"/>
+  <text x="750" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 750,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dynamicparameter (1217)</text>
+  <rect fill="blue" height="12.3" stroke="black" width="12" x="765" y="2802.0"/>
+  <text x="765" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 765,2819.2)" text-rendering="optimizeSpeed" fill="#000000">shared-workspace (1227)</text>
+  <rect fill="blue" height="12.3" stroke="black" width="12" x="780" y="2801.9"/>
+  <text x="780" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 780,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jqs-monitoring (1230)</text>
+  <rect fill="blue" height="12.3" stroke="black" width="12" x="795" y="2801.9"/>
+  <text x="795" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 795,2819.2)" text-rendering="optimizeSpeed" fill="#000000">project-build-times (1231)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="810" y="2801.9"/>
+  <text x="810" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 810,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ftppublisher (1237)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="825" y="2801.8"/>
+  <text x="825" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 825,2819.2)" text-rendering="optimizeSpeed" fill="#000000">external-workspace-manager (1240)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="840" y="2801.8"/>
+  <text x="840" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 840,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gravatar (1240)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="855" y="2801.8"/>
+  <text x="855" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 855,2819.2)" text-rendering="optimizeSpeed" fill="#000000">progress-bar-column-plugin (1240)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="870" y="2801.8"/>
+  <text x="870" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 870,2819.2)" text-rendering="optimizeSpeed" fill="#000000">yet-another-docker-plugin (1241)</text>
+  <rect fill="blue" height="12.5" stroke="black" width="12" x="885" y="2801.7"/>
+  <text x="885" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 885,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jira-ext (1250)</text>
+  <rect fill="blue" height="12.5" stroke="black" width="12" x="900" y="2801.7"/>
+  <text x="900" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 900,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-scm-trait-commit-skip (1253)</text>
+  <rect fill="blue" height="12.5" stroke="black" width="12" x="915" y="2801.7"/>
+  <text x="915" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 915,2819.2)" text-rendering="optimizeSpeed" fill="#000000">doxygen (1253)</text>
+  <rect fill="blue" height="12.5" stroke="black" width="12" x="930" y="2801.7"/>
+  <text x="930" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 930,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-codepipeline (1254)</text>
+  <rect fill="blue" height="12.7" stroke="black" width="12" x="945" y="2801.6"/>
+  <text x="945" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 945,2819.2)" text-rendering="optimizeSpeed" fill="#000000">packer (1267)</text>
+  <rect fill="blue" height="12.7" stroke="black" width="12" x="960" y="2801.6"/>
+  <text x="960" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 960,2819.2)" text-rendering="optimizeSpeed" fill="#000000">postgresql-api (1269)</text>
+  <rect fill="blue" height="12.7" stroke="black" width="12" x="975" y="2801.5"/>
+  <text x="975" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 975,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-parameter-store (1270)</text>
+  <rect fill="blue" height="12.8" stroke="black" width="12" x="990" y="2801.5"/>
+  <text x="990" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 990,2819.2)" text-rendering="optimizeSpeed" fill="#000000">JiraTestResultReporter (1276)</text>
+  <rect fill="blue" height="12.8" stroke="black" width="12" x="1005" y="2801.5"/>
+  <text x="1005" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1005,2819.2)" text-rendering="optimizeSpeed" fill="#000000">skip-notifications-trait (1278)</text>
+  <rect fill="blue" height="12.8" stroke="black" width="12" x="1020" y="2801.4"/>
+  <text x="1020" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1020,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-secrets-manager-secret-source (1283)</text>
+  <rect fill="blue" height="12.8" stroke="black" width="12" x="1035" y="2801.4"/>
+  <text x="1035" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1035,2819.2)" text-rendering="optimizeSpeed" fill="#000000">copy-project-link (1284)</text>
+  <rect fill="blue" height="12.9" stroke="black" width="12" x="1050" y="2801.4"/>
+  <text x="1050" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1050,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gogs-webhook (1288)</text>
+  <rect fill="blue" height="13.0" stroke="black" width="12" x="1065" y="2801.3"/>
+  <text x="1065" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1065,2819.2)" text-rendering="optimizeSpeed" fill="#000000">toolenv (1296)</text>
+  <rect fill="blue" height="13.1" stroke="black" width="12" x="1080" y="2801.1"/>
+  <text x="1080" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1080,2819.2)" text-rendering="optimizeSpeed" fill="#000000">changes-since-last-success (1309)</text>
+  <rect fill="blue" height="13.1" stroke="black" width="12" x="1095" y="2801.1"/>
+  <text x="1095" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1095,2819.2)" text-rendering="optimizeSpeed" fill="#000000">label-linked-jobs (1310)</text>
+  <rect fill="blue" height="13.1" stroke="black" width="12" x="1110" y="2801.1"/>
+  <text x="1110" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1110,2819.2)" text-rendering="optimizeSpeed" fill="#000000">buildgraph-view (1312)</text>
+  <rect fill="blue" height="13.2" stroke="black" width="12" x="1125" y="2801.1"/>
+  <text x="1125" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1125,2819.2)" text-rendering="optimizeSpeed" fill="#000000">filesystem_scm (1318)</text>
+  <rect fill="blue" height="13.2" stroke="black" width="12" x="1140" y="2801.0"/>
+  <text x="1140" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1140,2819.2)" text-rendering="optimizeSpeed" fill="#000000">database-postgresql (1321)</text>
+  <rect fill="blue" height="13.3" stroke="black" width="12" x="1155" y="2801.0"/>
+  <text x="1155" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1155,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-keeper-plugin (1328)</text>
+  <rect fill="blue" height="13.4" stroke="black" width="12" x="1170" y="2800.9"/>
+  <text x="1170" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1170,2819.2)" text-rendering="optimizeSpeed" fill="#000000">inline-pipeline (1339)</text>
+  <rect fill="blue" height="13.4" stroke="black" width="12" x="1185" y="2800.8"/>
+  <text x="1185" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1185,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scmskip (1341)</text>
+  <rect fill="blue" height="13.6" stroke="black" width="12" x="1200" y="2800.7"/>
+  <text x="1200" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1200,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sauce-ondemand (1357)</text>
+  <rect fill="blue" height="13.6" stroke="black" width="12" x="1215" y="2800.7"/>
+  <text x="1215" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1215,2819.2)" text-rendering="optimizeSpeed" fill="#000000">all-changes (1358)</text>
+  <rect fill="blue" height="13.6" stroke="black" width="12" x="1230" y="2800.7"/>
+  <text x="1230" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1230,2819.2)" text-rendering="optimizeSpeed" fill="#000000">svn-workspace-cleaner (1358)</text>
+  <rect fill="blue" height="13.7" stroke="black" width="12" x="1245" y="2800.6"/>
+  <text x="1245" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1245,2819.2)" text-rendering="optimizeSpeed" fill="#000000">copy-to-slave (1366)</text>
+  <rect fill="blue" height="13.7" stroke="black" width="12" x="1260" y="2800.5"/>
+  <text x="1260" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1260,2819.2)" text-rendering="optimizeSpeed" fill="#000000">compress-artifacts (1371)</text>
+  <rect fill="blue" height="13.7" stroke="black" width="12" x="1275" y="2800.5"/>
+  <text x="1275" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1275,2819.2)" text-rendering="optimizeSpeed" fill="#000000">tap (1371)</text>
+  <rect fill="blue" height="13.7" stroke="black" width="12" x="1290" y="2800.5"/>
+  <text x="1290" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1290,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-scm-trait-commit-skip (1372)</text>
+  <rect fill="blue" height="13.7" stroke="black" width="12" x="1305" y="2800.5"/>
+  <text x="1305" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1305,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sonarqube-generic-coverage (1372)</text>
+  <rect fill="blue" height="13.8" stroke="black" width="12" x="1320" y="2800.4"/>
+  <text x="1320" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1320,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gradle-repo (1382)</text>
+  <rect fill="blue" height="13.8" stroke="black" width="12" x="1335" y="2800.4"/>
+  <text x="1335" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1335,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gerrit-code-review (1384)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1350" y="2800.4"/>
+  <text x="1350" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1350,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-vm-agents (1387)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1365" y="2800.4"/>
+  <text x="1365" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1365,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dependencyanalyzer (1388)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1380" y="2800.3"/>
+  <text x="1380" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1380,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-compute-engine (1392)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1395" y="2800.3"/>
+  <text x="1395" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1395,2819.2)" text-rendering="optimizeSpeed" fill="#000000">synopsys-coverity (1392)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1410" y="2800.3"/>
+  <text x="1410" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1410,2819.2)" text-rendering="optimizeSpeed" fill="#000000">analysis-collector (1393)</text>
+  <rect fill="blue" height="13.9" stroke="black" width="12" x="1425" y="2800.3"/>
+  <text x="1425" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1425,2819.2)" text-rendering="optimizeSpeed" fill="#000000">veracode-scan (1393)</text>
+  <rect fill="blue" height="14.0" stroke="black" width="12" x="1440" y="2800.2"/>
+  <text x="1440" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1440,2819.2)" text-rendering="optimizeSpeed" fill="#000000">declarative-pipeline-migration-assistant (1399)</text>
+  <rect fill="blue" height="14.0" stroke="black" width="12" x="1455" y="2800.2"/>
+  <text x="1455" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1455,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mysql-api (1401)</text>
+  <rect fill="blue" height="14.2" stroke="black" width="12" x="1470" y="2800.1"/>
+  <text x="1470" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1470,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-scm-trait-notification-context (1416)</text>
+  <rect fill="blue" height="14.2" stroke="black" width="12" x="1485" y="2800.1"/>
+  <text x="1485" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1485,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ownership (1417)</text>
+  <rect fill="blue" height="14.2" stroke="black" width="12" x="1500" y="2800.1"/>
+  <text x="1500" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1500,2819.2)" text-rendering="optimizeSpeed" fill="#000000">update-sites-manager (1417)</text>
+  <rect fill="blue" height="14.3" stroke="black" width="12" x="1515" y="2799.9"/>
+  <text x="1515" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1515,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dockerhub-notification (1434)</text>
+  <rect fill="blue" height="14.4" stroke="black" width="12" x="1530" y="2799.8"/>
+  <text x="1530" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1530,2819.2)" text-rendering="optimizeSpeed" fill="#000000">slack-uploader (1440)</text>
+  <rect fill="blue" height="14.4" stroke="black" width="12" x="1545" y="2799.8"/>
+  <text x="1545" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1545,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hp-application-automation-tools-plugin (1445)</text>
+  <rect fill="blue" height="14.5" stroke="black" width="12" x="1560" y="2799.8"/>
+  <text x="1560" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1560,2819.2)" text-rendering="optimizeSpeed" fill="#000000">readonly-parameters (1448)</text>
+  <rect fill="blue" height="14.6" stroke="black" width="12" x="1575" y="2799.7"/>
+  <text x="1575" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1575,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-bucket-credentials (1457)</text>
+  <rect fill="blue" height="14.6" stroke="black" width="12" x="1590" y="2799.6"/>
+  <text x="1590" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1590,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jobcacher (1461)</text>
+  <rect fill="blue" height="15.0" stroke="black" width="12" x="1605" y="2799.2"/>
+  <text x="1605" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1605,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-codebuild (1501)</text>
+  <rect fill="blue" height="15.1" stroke="black" width="12" x="1620" y="2799.1"/>
+  <text x="1620" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1620,2819.2)" text-rendering="optimizeSpeed" fill="#000000">disable-job-button (1509)</text>
+  <rect fill="blue" height="15.1" stroke="black" width="12" x="1635" y="2799.1"/>
+  <text x="1635" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1635,2819.2)" text-rendering="optimizeSpeed" fill="#000000">modernstatus (1509)</text>
+  <rect fill="blue" height="15.2" stroke="black" width="12" x="1650" y="2799.1"/>
+  <text x="1650" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1650,2819.2)" text-rendering="optimizeSpeed" fill="#000000">windows-azure-storage (1517)</text>
+  <rect fill="blue" height="15.3" stroke="black" width="12" x="1665" y="2799.0"/>
+  <text x="1665" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1665,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-pr-coverage-status (1528)</text>
+  <rect fill="blue" height="15.3" stroke="black" width="12" x="1680" y="2798.9"/>
+  <text x="1680" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1680,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sonar-gerrit (1533)</text>
+  <rect fill="blue" height="15.4" stroke="black" width="12" x="1695" y="2798.8"/>
+  <text x="1695" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1695,2819.2)" text-rendering="optimizeSpeed" fill="#000000">instant-messaging (1543)</text>
+  <rect fill="blue" height="15.4" stroke="black" width="12" x="1710" y="2798.8"/>
+  <text x="1710" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1710,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nant (1544)</text>
+  <rect fill="blue" height="15.5" stroke="black" width="12" x="1725" y="2798.8"/>
+  <text x="1725" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1725,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-keyvault (1548)</text>
+  <rect fill="blue" height="15.5" stroke="black" width="12" x="1740" y="2798.8"/>
+  <text x="1740" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1740,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-kubernetes-credentials (1549)</text>
+  <rect fill="blue" height="15.5" stroke="black" width="12" x="1755" y="2798.7"/>
+  <text x="1755" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1755,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multiselect-parameter (1554)</text>
+  <rect fill="blue" height="15.6" stroke="black" width="12" x="1770" y="2798.6"/>
+  <text x="1770" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1770,2819.2)" text-rendering="optimizeSpeed" fill="#000000">summary_report (1560)</text>
+  <rect fill="blue" height="15.6" stroke="black" width="12" x="1785" y="2798.6"/>
+  <text x="1785" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1785,2819.2)" text-rendering="optimizeSpeed" fill="#000000">groovy-label-assignment (1564)</text>
+  <rect fill="blue" height="15.7" stroke="black" width="12" x="1800" y="2798.5"/>
+  <text x="1800" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1800,2819.2)" text-rendering="optimizeSpeed" fill="#000000">repository (1570)</text>
+  <rect fill="blue" height="15.7" stroke="black" width="12" x="1815" y="2798.5"/>
+  <text x="1815" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1815,2819.2)" text-rendering="optimizeSpeed" fill="#000000">clearcase (1574)</text>
+  <rect fill="blue" height="15.8" stroke="black" width="12" x="1830" y="2798.4"/>
+  <text x="1830" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1830,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-cli (1585)</text>
+  <rect fill="blue" height="15.9" stroke="black" width="12" x="1845" y="2798.3"/>
+  <text x="1845" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1845,2819.2)" text-rendering="optimizeSpeed" fill="#000000">artifact-promotion (1591)</text>
+  <rect fill="blue" height="16.0" stroke="black" width="12" x="1860" y="2798.3"/>
+  <text x="1860" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1860,2819.2)" text-rendering="optimizeSpeed" fill="#000000">any-buildstep (1596)</text>
+  <rect fill="blue" height="16.0" stroke="black" width="12" x="1875" y="2798.2"/>
+  <text x="1875" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1875,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sloccount (1604)</text>
+  <rect fill="blue" height="16.1" stroke="black" width="12" x="1890" y="2798.1"/>
+  <text x="1890" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1890,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sqlplus-script-runner (1609)</text>
+  <rect fill="blue" height="16.3" stroke="black" width="12" x="1905" y="2798.0"/>
+  <text x="1905" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1905,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scm-sync-configuration (1626)</text>
+  <rect fill="blue" height="16.4" stroke="black" width="12" x="1920" y="2797.9"/>
+  <text x="1920" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1920,2819.2)" text-rendering="optimizeSpeed" fill="#000000">vstestrunner (1635)</text>
+  <rect fill="blue" height="16.4" stroke="black" width="12" x="1935" y="2797.9"/>
+  <text x="1935" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1935,2819.2)" text-rendering="optimizeSpeed" fill="#000000">codesonar (1636)</text>
+  <rect fill="blue" height="16.4" stroke="black" width="12" x="1950" y="2797.8"/>
+  <text x="1950" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1950,2819.2)" text-rendering="optimizeSpeed" fill="#000000">test-results-aggregator (1642)</text>
+  <rect fill="blue" height="16.4" stroke="black" width="12" x="1965" y="2797.8"/>
+  <text x="1965" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1965,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scoring-load-balancer (1643)</text>
+  <rect fill="blue" height="16.5" stroke="black" width="12" x="1980" y="2797.8"/>
+  <text x="1980" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1980,2819.2)" text-rendering="optimizeSpeed" fill="#000000">custom-folder-icon (1648)</text>
+  <rect fill="blue" height="16.5" stroke="black" width="12" x="1995" y="2797.8"/>
+  <text x="1995" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 1995,2819.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-ext (1649)</text>
+  <rect fill="blue" height="16.6" stroke="black" width="12" x="2010" y="2797.6"/>
+  <text x="2010" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2010,2819.2)" text-rendering="optimizeSpeed" fill="#000000">templating-engine (1661)</text>
+  <rect fill="blue" height="16.7" stroke="black" width="12" x="2025" y="2797.6"/>
+  <text x="2025" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2025,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-config-history (1667)</text>
+  <rect fill="blue" height="16.7" stroke="black" width="12" x="2040" y="2797.5"/>
+  <text x="2040" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2040,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pollscm (1671)</text>
+  <rect fill="blue" height="16.9" stroke="black" width="12" x="2055" y="2797.3"/>
+  <text x="2055" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2055,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-cps-http (1691)</text>
+  <rect fill="blue" height="17.0" stroke="black" width="12" x="2070" y="2797.3"/>
+  <text x="2070" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2070,2819.2)" text-rendering="optimizeSpeed" fill="#000000">template-project (1696)</text>
+  <rect fill="blue" height="17.4" stroke="black" width="12" x="2085" y="2796.9"/>
+  <text x="2085" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2085,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-notifications (1735)</text>
+  <rect fill="blue" height="17.4" stroke="black" width="12" x="2100" y="2796.8"/>
+  <text x="2100" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2100,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-storage-plugin (1741)</text>
+  <rect fill="blue" height="17.4" stroke="black" width="12" x="2115" y="2796.8"/>
+  <text x="2115" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2115,2819.2)" text-rendering="optimizeSpeed" fill="#000000">svncompat14 (1745)</text>
+  <rect fill="blue" height="17.6" stroke="black" width="12" x="2130" y="2796.6"/>
+  <text x="2130" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2130,2819.2)" text-rendering="optimizeSpeed" fill="#000000">keycloak (1764)</text>
+  <rect fill="blue" height="17.7" stroke="black" width="12" x="2145" y="2796.5"/>
+  <text x="2145" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2145,2819.2)" text-rendering="optimizeSpeed" fill="#000000">android-emulator (1771)</text>
+  <rect fill="blue" height="17.7" stroke="black" width="12" x="2160" y="2796.5"/>
+  <text x="2160" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2160,2819.2)" text-rendering="optimizeSpeed" fill="#000000">clone-workspace-scm (1772)</text>
+  <rect fill="blue" height="17.8" stroke="black" width="12" x="2175" y="2796.4"/>
+  <text x="2175" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2175,2819.2)" text-rendering="optimizeSpeed" fill="#000000">filesystem-list-parameter-plugin (1783)</text>
+  <rect fill="blue" height="18.0" stroke="black" width="12" x="2190" y="2796.3"/>
+  <text x="2190" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2190,2819.2)" text-rendering="optimizeSpeed" fill="#000000">buildresult-trigger (1798)</text>
+  <rect fill="blue" height="18.1" stroke="black" width="12" x="2205" y="2796.2"/>
+  <text x="2205" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2205,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ez-templates (1806)</text>
+  <rect fill="blue" height="18.1" stroke="black" width="12" x="2220" y="2796.1"/>
+  <text x="2220" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2220,2819.2)" text-rendering="optimizeSpeed" fill="#000000">yet-another-build-visualizer (1809)</text>
+  <rect fill="blue" height="18.1" stroke="black" width="12" x="2235" y="2796.1"/>
+  <text x="2235" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2235,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-history-metrics-plugin (1812)</text>
+  <rect fill="blue" height="18.2" stroke="black" width="12" x="2250" y="2796.0"/>
+  <text x="2250" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2250,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xray-connector (1823)</text>
+  <rect fill="blue" height="18.3" stroke="black" width="12" x="2265" y="2795.9"/>
+  <text x="2265" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2265,2819.2)" text-rendering="optimizeSpeed" fill="#000000">splunk-devops-extend (1829)</text>
+  <rect fill="blue" height="18.4" stroke="black" width="12" x="2280" y="2795.9"/>
+  <text x="2280" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2280,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-lambda (1836)</text>
+  <rect fill="blue" height="18.4" stroke="black" width="12" x="2295" y="2795.8"/>
+  <text x="2295" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2295,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-repo-cleaner (1842)</text>
+  <rect fill="blue" height="18.4" stroke="black" width="12" x="2310" y="2795.8"/>
+  <text x="2310" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2310,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sonargraph-integration (1844)</text>
+  <rect fill="blue" height="18.6" stroke="black" width="12" x="2325" y="2795.7"/>
+  <text x="2325" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2325,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-metrics (1855)</text>
+  <rect fill="blue" height="18.6" stroke="black" width="12" x="2340" y="2795.7"/>
+  <text x="2340" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2340,2819.2)" text-rendering="optimizeSpeed" fill="#000000">discord-notifier (1855)</text>
+  <rect fill="blue" height="18.6" stroke="black" width="12" x="2355" y="2795.6"/>
+  <text x="2355" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2355,2819.2)" text-rendering="optimizeSpeed" fill="#000000">slave-status (1862)</text>
+  <rect fill="blue" height="18.7" stroke="black" width="12" x="2370" y="2795.6"/>
+  <text x="2370" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2370,2819.2)" text-rendering="optimizeSpeed" fill="#000000">run-condition-extras (1868)</text>
+  <rect fill="blue" height="18.7" stroke="black" width="12" x="2385" y="2795.5"/>
+  <text x="2385" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2385,2819.2)" text-rendering="optimizeSpeed" fill="#000000">secondary-timestamper-plugin (1873)</text>
+  <rect fill="blue" height="18.9" stroke="black" width="12" x="2400" y="2795.4"/>
+  <text x="2400" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2400,2819.2)" text-rendering="optimizeSpeed" fill="#000000">image-tag-parameter (1885)</text>
+  <rect fill="blue" height="18.9" stroke="black" width="12" x="2415" y="2795.4"/>
+  <text x="2415" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2415,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pmd (1887)</text>
+  <rect fill="blue" height="18.9" stroke="black" width="12" x="2430" y="2795.4"/>
+  <text x="2430" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2430,2819.2)" text-rendering="optimizeSpeed" fill="#000000">compact-columns (1889)</text>
+  <rect fill="blue" height="18.9" stroke="black" width="12" x="2445" y="2795.3"/>
+  <text x="2445" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2445,2819.2)" text-rendering="optimizeSpeed" fill="#000000">envfile (1895)</text>
+  <rect fill="blue" height="19.0" stroke="black" width="12" x="2460" y="2795.3"/>
+  <text x="2460" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2460,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-play-android-publisher (1898)</text>
+  <rect fill="blue" height="19.0" stroke="black" width="12" x="2475" y="2795.2"/>
+  <text x="2475" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2475,2819.2)" text-rendering="optimizeSpeed" fill="#000000">vsphere-cloud (1904)</text>
+  <rect fill="blue" height="19.1" stroke="black" width="12" x="2490" y="2795.2"/>
+  <text x="2490" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2490,2819.2)" text-rendering="optimizeSpeed" fill="#000000">declarative-pipeline-migration-assistant-api (1908)</text>
+  <rect fill="blue" height="19.1" stroke="black" width="12" x="2505" y="2795.1"/>
+  <text x="2505" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2505,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-cd (1910)</text>
+  <rect fill="blue" height="19.1" stroke="black" width="12" x="2520" y="2795.1"/>
+  <text x="2520" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2520,2819.2)" text-rendering="optimizeSpeed" fill="#000000">fortify (1911)</text>
+  <rect fill="blue" height="19.3" stroke="black" width="12" x="2535" y="2794.9"/>
+  <text x="2535" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2535,2819.2)" text-rendering="optimizeSpeed" fill="#000000">unity3d-plugin (1932)</text>
+  <rect fill="blue" height="19.3" stroke="black" width="12" x="2550" y="2794.9"/>
+  <text x="2550" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2550,2819.2)" text-rendering="optimizeSpeed" fill="#000000">database-mysql (1933)</text>
+  <rect fill="blue" height="19.6" stroke="black" width="12" x="2565" y="2794.7"/>
+  <text x="2565" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2565,2819.2)" text-rendering="optimizeSpeed" fill="#000000">findbugs (1955)</text>
+  <rect fill="blue" height="19.6" stroke="black" width="12" x="2580" y="2794.6"/>
+  <text x="2580" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2580,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jenkins-jira-issue-updater (1959)</text>
+  <rect fill="blue" height="19.6" stroke="black" width="12" x="2595" y="2794.6"/>
+  <text x="2595" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2595,2819.2)" text-rendering="optimizeSpeed" fill="#000000">violation-comments-to-gitlab (1960)</text>
+  <rect fill="blue" height="19.8" stroke="black" width="12" x="2610" y="2794.4"/>
+  <text x="2610" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2610,2819.2)" text-rendering="optimizeSpeed" fill="#000000">codedeploy (1981)</text>
+  <rect fill="blue" height="19.9" stroke="black" width="12" x="2625" y="2794.4"/>
+  <text x="2625" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2625,2819.2)" text-rendering="optimizeSpeed" fill="#000000">browserstack-integration (1987)</text>
+  <rect fill="blue" height="20.0" stroke="black" width="12" x="2640" y="2794.2"/>
+  <text x="2640" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2640,2819.2)" text-rendering="optimizeSpeed" fill="#000000">junit-realtime-test-reporter (2002)</text>
+  <rect fill="blue" height="20.0" stroke="black" width="12" x="2655" y="2794.2"/>
+  <text x="2655" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2655,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kpp-management-plugin (2003)</text>
+  <rect fill="blue" height="20.2" stroke="black" width="12" x="2670" y="2794.1"/>
+  <text x="2670" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2670,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-dependency-update-trigger (2016)</text>
+  <rect fill="blue" height="20.2" stroke="black" width="12" x="2685" y="2794.0"/>
+  <text x="2685" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2685,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-chat-notification (2023)</text>
+  <rect fill="blue" height="20.3" stroke="black" width="12" x="2700" y="2794.0"/>
+  <text x="2700" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2700,2819.2)" text-rendering="optimizeSpeed" fill="#000000">console-column-plugin (2028)</text>
+  <rect fill="blue" height="20.3" stroke="black" width="12" x="2715" y="2793.9"/>
+  <text x="2715" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2715,2819.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-build-cache (2032)</text>
+  <rect fill="blue" height="20.6" stroke="black" width="12" x="2730" y="2793.6"/>
+  <text x="2730" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2730,2819.2)" text-rendering="optimizeSpeed" fill="#000000">calendar-view (2063)</text>
+  <rect fill="blue" height="20.6" stroke="black" width="12" x="2745" y="2793.6"/>
+  <text x="2745" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2745,2819.2)" text-rendering="optimizeSpeed" fill="#000000">chromedriver (2064)</text>
+  <rect fill="blue" height="20.7" stroke="black" width="12" x="2760" y="2793.6"/>
+  <text x="2760" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2760,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ldapemail (2067)</text>
+  <rect fill="blue" height="20.8" stroke="black" width="12" x="2775" y="2793.5"/>
+  <text x="2775" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2775,2819.2)" text-rendering="optimizeSpeed" fill="#000000">chucknorris (2076)</text>
+  <rect fill="blue" height="20.8" stroke="black" width="12" x="2790" y="2793.5"/>
+  <text x="2790" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2790,2819.2)" text-rendering="optimizeSpeed" fill="#000000">confluence-publisher (2076)</text>
+  <rect fill="blue" height="20.8" stroke="black" width="12" x="2805" y="2793.5"/>
+  <text x="2805" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2805,2819.2)" text-rendering="optimizeSpeed" fill="#000000">text-file-operations (2078)</text>
+  <rect fill="blue" height="20.9" stroke="black" width="12" x="2820" y="2793.4"/>
+  <text x="2820" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2820,2819.2)" text-rendering="optimizeSpeed" fill="#000000">people-view (2087)</text>
+  <rect fill="blue" height="20.9" stroke="black" width="12" x="2835" y="2793.3"/>
+  <text x="2835" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2835,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cron_column (2091)</text>
+  <rect fill="blue" height="20.9" stroke="black" width="12" x="2850" y="2793.3"/>
+  <text x="2850" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2850,2819.2)" text-rendering="optimizeSpeed" fill="#000000">text-finder-run-condition (2095)</text>
+  <rect fill="blue" height="21.1" stroke="black" width="12" x="2865" y="2793.2"/>
+  <text x="2865" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2865,2819.2)" text-rendering="optimizeSpeed" fill="#000000">openshift-client (2108)</text>
+  <rect fill="blue" height="21.2" stroke="black" width="12" x="2880" y="2793.0"/>
+  <text x="2880" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2880,2819.2)" text-rendering="optimizeSpeed" fill="#000000">global-variable-string-parameter (2123)</text>
+  <rect fill="blue" height="21.2" stroke="black" width="12" x="2895" y="2793.0"/>
+  <text x="2895" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2895,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-remote-loader (2123)</text>
+  <rect fill="blue" height="21.5" stroke="black" width="12" x="2910" y="2792.8"/>
+  <text x="2910" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2910,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-metadata-plugin (2149)</text>
+  <rect fill="blue" height="21.6" stroke="black" width="12" x="2925" y="2792.6"/>
+  <text x="2925" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2925,2819.2)" text-rendering="optimizeSpeed" fill="#000000">project-stats-plugin (2159)</text>
+  <rect fill="blue" height="21.6" stroke="black" width="12" x="2940" y="2792.6"/>
+  <text x="2940" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2940,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-tag-message (2162)</text>
+  <rect fill="blue" height="21.6" stroke="black" width="12" x="2955" y="2792.6"/>
+  <text x="2955" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2955,2819.2)" text-rendering="optimizeSpeed" fill="#000000">violations (2163)</text>
+  <rect fill="blue" height="21.7" stroke="black" width="12" x="2970" y="2792.5"/>
+  <text x="2970" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2970,2819.2)" text-rendering="optimizeSpeed" fill="#000000">seleniumhtmlreport (2170)</text>
+  <rect fill="blue" height="21.7" stroke="black" width="12" x="2985" y="2792.5"/>
+  <text x="2985" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 2985,2819.2)" text-rendering="optimizeSpeed" fill="#000000">fail-the-build-plugin (2172)</text>
+  <rect fill="blue" height="21.8" stroke="black" width="12" x="3000" y="2792.4"/>
+  <text x="3000" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3000,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nuget (2181)</text>
+  <rect fill="blue" height="21.9" stroke="black" width="12" x="3015" y="2792.4"/>
+  <text x="3015" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3015,2819.2)" text-rendering="optimizeSpeed" fill="#000000">opentelemetry (2188)</text>
+  <rect fill="blue" height="22.0" stroke="black" width="12" x="3030" y="2792.2"/>
+  <text x="3030" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3030,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multi-branch-project-plugin (2200)</text>
+  <rect fill="blue" height="22.3" stroke="black" width="12" x="3045" y="2792.0"/>
+  <text x="3045" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3045,2819.2)" text-rendering="optimizeSpeed" fill="#000000">shelve-project-plugin (2228)</text>
+  <rect fill="blue" height="22.3" stroke="black" width="12" x="3060" y="2791.9"/>
+  <text x="3060" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3060,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mattermost (2230)</text>
+  <rect fill="blue" height="22.4" stroke="black" width="12" x="3075" y="2791.9"/>
+  <text x="3075" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3075,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-metadata-plugin (2236)</text>
+  <rect fill="blue" height="22.5" stroke="black" width="12" x="3090" y="2791.8"/>
+  <text x="3090" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3090,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-pr-comment-build (2249)</text>
+  <rect fill="blue" height="22.5" stroke="black" width="12" x="3105" y="2791.7"/>
+  <text x="3105" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3105,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sbt (2252)</text>
+  <rect fill="blue" height="22.6" stroke="black" width="12" x="3120" y="2791.7"/>
+  <text x="3120" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3120,2819.2)" text-rendering="optimizeSpeed" fill="#000000">matrix-combinations-parameter (2256)</text>
+  <rect fill="blue" height="22.7" stroke="black" width="12" x="3135" y="2791.5"/>
+  <text x="3135" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3135,2819.2)" text-rendering="optimizeSpeed" fill="#000000">warnings (2271)</text>
+  <rect fill="blue" height="22.8" stroke="black" width="12" x="3150" y="2791.5"/>
+  <text x="3150" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3150,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cucumber-testresult-plugin (2277)</text>
+  <rect fill="blue" height="22.8" stroke="black" width="12" x="3165" y="2791.5"/>
+  <text x="3165" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3165,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-custom-build-environment (2278)</text>
+  <rect fill="blue" height="23.0" stroke="black" width="12" x="3180" y="2791.3"/>
+  <text x="3180" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3180,2819.2)" text-rendering="optimizeSpeed" fill="#000000">fstrigger (2296)</text>
+  <rect fill="blue" height="23.0" stroke="black" width="12" x="3195" y="2791.3"/>
+  <text x="3195" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3195,2819.2)" text-rendering="optimizeSpeed" fill="#000000">rich-text-publisher-plugin (2298)</text>
+  <rect fill="blue" height="23.0" stroke="black" width="12" x="3210" y="2791.2"/>
+  <text x="3210" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3210,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cmakebuilder (2301)</text>
+  <rect fill="blue" height="23.2" stroke="black" width="12" x="3225" y="2791.0"/>
+  <text x="3225" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3225,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ec2-fleet (2324)</text>
+  <rect fill="blue" height="23.2" stroke="black" width="12" x="3240" y="2791.0"/>
+  <text x="3240" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3240,2819.2)" text-rendering="optimizeSpeed" fill="#000000">port-allocator (2324)</text>
+  <rect fill="blue" height="23.3" stroke="black" width="12" x="3255" y="2791.0"/>
+  <text x="3255" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3255,2819.2)" text-rendering="optimizeSpeed" fill="#000000">slave-setup (2326)</text>
+  <rect fill="blue" height="23.4" stroke="black" width="12" x="3270" y="2790.8"/>
+  <text x="3270" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3270,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mstestrunner (2340)</text>
+  <rect fill="blue" height="23.6" stroke="black" width="12" x="3285" y="2790.7"/>
+  <text x="3285" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3285,2819.2)" text-rendering="optimizeSpeed" fill="#000000">release (2358)</text>
+  <rect fill="blue" height="23.6" stroke="black" width="12" x="3300" y="2790.6"/>
+  <text x="3300" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3300,2819.2)" text-rendering="optimizeSpeed" fill="#000000">urltrigger (2359)</text>
+  <rect fill="blue" height="23.7" stroke="black" width="12" x="3315" y="2790.5"/>
+  <text x="3315" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3315,2819.2)" text-rendering="optimizeSpeed" fill="#000000">npm-yarn-wrapper-steps (2370)</text>
+  <rect fill="blue" height="23.7" stroke="black" width="12" x="3330" y="2790.5"/>
+  <text x="3330" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3330,2819.2)" text-rendering="optimizeSpeed" fill="#000000">downstream-buildview (2374)</text>
+  <rect fill="blue" height="23.8" stroke="black" width="12" x="3345" y="2790.4"/>
+  <text x="3345" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3345,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-autostatus (2381)</text>
+  <rect fill="blue" height="23.9" stroke="black" width="12" x="3360" y="2790.4"/>
+  <text x="3360" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3360,2819.2)" text-rendering="optimizeSpeed" fill="#000000">zentimestamp (2389)</text>
+  <rect fill="blue" height="24.1" stroke="black" width="12" x="3375" y="2790.2"/>
+  <text x="3375" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3375,2819.2)" text-rendering="optimizeSpeed" fill="#000000">leastload (2407)</text>
+  <rect fill="blue" height="24.1" stroke="black" width="12" x="3390" y="2790.1"/>
+  <text x="3390" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3390,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-credentials (2415)</text>
+  <rect fill="blue" height="24.2" stroke="black" width="12" x="3405" y="2790.0"/>
+  <text x="3405" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3405,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-token-trigger (2421)</text>
+  <rect fill="blue" height="24.8" stroke="black" width="12" x="3420" y="2789.5"/>
+  <text x="3420" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3420,2819.2)" text-rendering="optimizeSpeed" fill="#000000">artifact-manager-s3 (2477)</text>
+  <rect fill="blue" height="24.9" stroke="black" width="12" x="3435" y="2789.3"/>
+  <text x="3435" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3435,2819.2)" text-rendering="optimizeSpeed" fill="#000000">byte-buddy-api (2495)</text>
+  <rect fill="blue" height="24.9" stroke="black" width="12" x="3450" y="2789.3"/>
+  <text x="3450" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3450,2819.2)" text-rendering="optimizeSpeed" fill="#000000">project-description-setter (2495)</text>
+  <rect fill="blue" height="25.1" stroke="black" width="12" x="3465" y="2789.2"/>
+  <text x="3465" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3465,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-forensics (2506)</text>
+  <rect fill="blue" height="25.1" stroke="black" width="12" x="3480" y="2789.2"/>
+  <text x="3480" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3480,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xml-job-to-job-dsl (2506)</text>
+  <rect fill="blue" height="25.5" stroke="black" width="12" x="3495" y="2788.7"/>
+  <text x="3495" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3495,2819.2)" text-rendering="optimizeSpeed" fill="#000000">reverse-proxy-auth-plugin (2551)</text>
+  <rect fill="blue" height="25.6" stroke="black" width="12" x="3510" y="2788.6"/>
+  <text x="3510" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3510,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blackduck-detect (2562)</text>
+  <rect fill="blue" height="25.7" stroke="black" width="12" x="3525" y="2788.6"/>
+  <text x="3525" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3525,2819.2)" text-rendering="optimizeSpeed" fill="#000000">openJDK-native-plugin (2569)</text>
+  <rect fill="blue" height="26.2" stroke="black" width="12" x="3540" y="2788.1"/>
+  <text x="3540" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3540,2819.2)" text-rendering="optimizeSpeed" fill="#000000">miniorange-saml-sp (2618)</text>
+  <rect fill="blue" height="26.2" stroke="black" width="12" x="3555" y="2788.0"/>
+  <text x="3555" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3555,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-executor-info (2621)</text>
+  <rect fill="blue" height="26.2" stroke="black" width="12" x="3570" y="2788.0"/>
+  <text x="3570" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3570,2819.2)" text-rendering="optimizeSpeed" fill="#000000">snyk-security-scanner (2624)</text>
+  <rect fill="blue" height="26.3" stroke="black" width="12" x="3585" y="2788.0"/>
+  <text x="3585" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3585,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dotnet-sdk (2626)</text>
+  <rect fill="blue" height="26.4" stroke="black" width="12" x="3600" y="2787.9"/>
+  <text x="3600" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3600,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-invoker-plugin (2638)</text>
+  <rect fill="blue" height="26.6" stroke="black" width="12" x="3615" y="2787.7"/>
+  <text x="3615" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3615,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-timeline (2655)</text>
+  <rect fill="blue" height="26.6" stroke="black" width="12" x="3630" y="2787.6"/>
+  <text x="3630" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3630,2819.2)" text-rendering="optimizeSpeed" fill="#000000">last-changes (2662)</text>
+  <rect fill="blue" height="27.4" stroke="black" width="12" x="3645" y="2786.8"/>
+  <text x="3645" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3645,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk2-ecr (2742)</text>
+  <rect fill="blue" height="27.6" stroke="black" width="12" x="3660" y="2786.6"/>
+  <text x="3660" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3660,2819.2)" text-rendering="optimizeSpeed" fill="#000000">repository-connector (2761)</text>
+  <rect fill="blue" height="27.7" stroke="black" width="12" x="3675" y="2786.5"/>
+  <text x="3675" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3675,2819.2)" text-rendering="optimizeSpeed" fill="#000000">environment-script (2772)</text>
+  <rect fill="blue" height="27.9" stroke="black" width="12" x="3690" y="2786.3"/>
+  <text x="3690" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3690,2819.2)" text-rendering="optimizeSpeed" fill="#000000">clover (2793)</text>
+  <rect fill="blue" height="28.3" stroke="black" width="12" x="3705" y="2785.9"/>
+  <text x="3705" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3705,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-discarder (2830)</text>
+  <rect fill="blue" height="28.3" stroke="black" width="12" x="3720" y="2785.9"/>
+  <text x="3720" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3720,2819.2)" text-rendering="optimizeSpeed" fill="#000000">quality-gates (2834)</text>
+  <rect fill="blue" height="28.4" stroke="black" width="12" x="3735" y="2785.9"/>
+  <text x="3735" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3735,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cppcheck (2839)</text>
+  <rect fill="blue" height="28.4" stroke="black" width="12" x="3750" y="2785.8"/>
+  <text x="3750" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3750,2819.2)" text-rendering="optimizeSpeed" fill="#000000">depgraph-view (2841)</text>
+  <rect fill="blue" height="28.8" stroke="black" width="12" x="3765" y="2785.5"/>
+  <text x="3765" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3765,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-oauth (2875)</text>
+  <rect fill="blue" height="28.9" stroke="black" width="12" x="3780" y="2785.3"/>
+  <text x="3780" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3780,2819.2)" text-rendering="optimizeSpeed" fill="#000000">checkstyle (2893)</text>
+  <rect fill="blue" height="29.2" stroke="black" width="12" x="3795" y="2785.0"/>
+  <text x="3795" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3795,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ansible-tower (2925)</text>
+  <rect fill="blue" height="29.3" stroke="black" width="12" x="3810" y="2784.9"/>
+  <text x="3810" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3810,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multibranch-build-strategy-extension (2934)</text>
+  <rect fill="blue" height="29.5" stroke="black" width="12" x="3825" y="2784.8"/>
+  <text x="3825" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3825,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gatling (2947)</text>
+  <rect fill="blue" height="29.5" stroke="black" width="12" x="3840" y="2784.7"/>
+  <text x="3840" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3840,2819.2)" text-rendering="optimizeSpeed" fill="#000000">convert-to-pipeline (2951)</text>
+  <rect fill="blue" height="29.8" stroke="black" width="12" x="3855" y="2784.4"/>
+  <text x="3855" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3855,2819.2)" text-rendering="optimizeSpeed" fill="#000000">solarized-theme (2984)</text>
+  <rect fill="blue" height="30.0" stroke="black" width="12" x="3870" y="2784.3"/>
+  <text x="3870" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3870,2819.2)" text-rendering="optimizeSpeed" fill="#000000">datadog (2996)</text>
+  <rect fill="blue" height="30.0" stroke="black" width="12" x="3885" y="2784.2"/>
+  <text x="3885" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3885,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cors-filter (3001)</text>
+  <rect fill="blue" height="30.0" stroke="black" width="12" x="3900" y="2784.2"/>
+  <text x="3900" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3900,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hashicorp-vault-pipeline (3002)</text>
+  <rect fill="blue" height="30.0" stroke="black" width="12" x="3915" y="2784.2"/>
+  <text x="3915" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3915,2819.2)" text-rendering="optimizeSpeed" fill="#000000">remote-file (3002)</text>
+  <rect fill="blue" height="30.1" stroke="black" width="12" x="3930" y="2784.2"/>
+  <text x="3930" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3930,2819.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext-recipients-column (3008)</text>
+  <rect fill="blue" height="30.2" stroke="black" width="12" x="3945" y="2784.0"/>
+  <text x="3945" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3945,2819.2)" text-rendering="optimizeSpeed" fill="#000000">show-build-parameters (3020)</text>
+  <rect fill="blue" height="30.7" stroke="black" width="12" x="3960" y="2783.6"/>
+  <text x="3960" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3960,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nvm-wrapper (3066)</text>
+  <rect fill="blue" height="30.7" stroke="black" width="12" x="3975" y="2783.6"/>
+  <text x="3975" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3975,2819.2)" text-rendering="optimizeSpeed" fill="#000000">splunk-devops (3068)</text>
+  <rect fill="blue" height="31.6" stroke="black" width="12" x="3990" y="2782.6"/>
+  <text x="3990" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 3990,2819.2)" text-rendering="optimizeSpeed" fill="#000000">qy-wechat-notification (3159)</text>
+  <rect fill="blue" height="31.6" stroke="black" width="12" x="4005" y="2782.6"/>
+  <text x="4005" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4005,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jira-trigger (3165)</text>
+  <rect fill="blue" height="31.7" stroke="black" width="12" x="4020" y="2782.5"/>
+  <text x="4020" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4020,2819.2)" text-rendering="optimizeSpeed" fill="#000000">influxdb (3172)</text>
+  <rect fill="blue" height="31.9" stroke="black" width="12" x="4035" y="2782.4"/>
+  <text x="4035" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4035,2819.2)" text-rendering="optimizeSpeed" fill="#000000">next-executions (3186)</text>
+  <rect fill="blue" height="31.9" stroke="black" width="12" x="4050" y="2782.4"/>
+  <text x="4050" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4050,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scp (3186)</text>
+  <rect fill="blue" height="32.3" stroke="black" width="12" x="4065" y="2781.9"/>
+  <text x="4065" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4065,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hudson-wsclean-plugin (3230)</text>
+  <rect fill="blue" height="32.7" stroke="black" width="12" x="4080" y="2781.5"/>
+  <text x="4080" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4080,2819.2)" text-rendering="optimizeSpeed" fill="#000000">logstash (3272)</text>
+  <rect fill="blue" height="32.8" stroke="black" width="12" x="4095" y="2781.5"/>
+  <text x="4095" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4095,2819.2)" text-rendering="optimizeSpeed" fill="#000000">artifactdeployer (3276)</text>
+  <rect fill="blue" height="32.8" stroke="black" width="12" x="4110" y="2781.4"/>
+  <text x="4110" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4110,2819.2)" text-rendering="optimizeSpeed" fill="#000000">repo (3281)</text>
+  <rect fill="blue" height="32.9" stroke="black" width="12" x="4125" y="2781.4"/>
+  <text x="4125" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4125,2819.2)" text-rendering="optimizeSpeed" fill="#000000">async-http-client (3285)</text>
+  <rect fill="blue" height="33.1" stroke="black" width="12" x="4140" y="2781.1"/>
+  <text x="4140" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4140,2819.2)" text-rendering="optimizeSpeed" fill="#000000">folder-auth (3315)</text>
+  <rect fill="blue" height="33.4" stroke="black" width="12" x="4155" y="2780.9"/>
+  <text x="4155" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4155,2819.2)" text-rendering="optimizeSpeed" fill="#000000">webhook-step (3335)</text>
+  <rect fill="blue" height="33.6" stroke="black" width="12" x="4170" y="2780.6"/>
+  <text x="4170" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4170,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xtrigger-api (3365)</text>
+  <rect fill="blue" height="33.8" stroke="black" width="12" x="4185" y="2780.4"/>
+  <text x="4185" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4185,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-hook (3381)</text>
+  <rect fill="blue" height="33.9" stroke="black" width="12" x="4200" y="2780.4"/>
+  <text x="4200" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4200,2819.2)" text-rendering="optimizeSpeed" fill="#000000">opentelemetry-api (3389)</text>
+  <rect fill="blue" height="34.5" stroke="black" width="12" x="4215" y="2779.7"/>
+  <text x="4215" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4215,2819.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over-cifs (3453)</text>
+  <rect fill="blue" height="34.6" stroke="black" width="12" x="4230" y="2779.6"/>
+  <text x="4230" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4230,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-pipeline-devops-steps (3459)</text>
+  <rect fill="blue" height="34.7" stroke="black" width="12" x="4245" y="2779.5"/>
+  <text x="4245" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4245,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-secrets-manager-credentials-provider (3472)</text>
+  <rect fill="blue" height="34.7" stroke="black" width="12" x="4260" y="2779.5"/>
+  <text x="4260" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4260,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-artifact-choicelistprovider (3472)</text>
+  <rect fill="blue" height="34.9" stroke="black" width="12" x="4275" y="2779.4"/>
+  <text x="4275" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4275,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sectioned-view (3489)</text>
+  <rect fill="blue" height="35.0" stroke="black" width="12" x="4290" y="2779.2"/>
+  <text x="4290" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4290,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-pullrequest-builder (3505)</text>
+  <rect fill="blue" height="35.3" stroke="black" width="12" x="4305" y="2778.9"/>
+  <text x="4305" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4305,2819.2)" text-rendering="optimizeSpeed" fill="#000000">buildtriggerbadge (3530)</text>
+  <rect fill="blue" height="35.3" stroke="black" width="12" x="4320" y="2778.9"/>
+  <text x="4320" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4320,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-checks (3531)</text>
+  <rect fill="blue" height="35.4" stroke="black" width="12" x="4335" y="2778.8"/>
+  <text x="4335" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4335,2819.2)" text-rendering="optimizeSpeed" fill="#000000">shiningpanda (3543)</text>
+  <rect fill="blue" height="35.9" stroke="black" width="12" x="4350" y="2778.3"/>
+  <text x="4350" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4350,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-info (3590)</text>
+  <rect fill="blue" height="36.0" stroke="black" width="12" x="4365" y="2778.2"/>
+  <text x="4365" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4365,2819.2)" text-rendering="optimizeSpeed" fill="#000000">purge-build-queue-plugin (3604)</text>
+  <rect fill="blue" height="36.1" stroke="black" width="12" x="4380" y="2778.2"/>
+  <text x="4380" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4380,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps-global-lib-http (3607)</text>
+  <rect fill="blue" height="36.2" stroke="black" width="12" x="4395" y="2778.0"/>
+  <text x="4395" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4395,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-global-configuration (3621)</text>
+  <rect fill="blue" height="36.3" stroke="black" width="12" x="4410" y="2777.9"/>
+  <text x="4410" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4410,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitee (3629)</text>
+  <rect fill="blue" height="36.8" stroke="black" width="12" x="4425" y="2777.4"/>
+  <text x="4425" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4425,2819.2)" text-rendering="optimizeSpeed" fill="#000000">managed-scripts (3681)</text>
+  <rect fill="blue" height="37.4" stroke="black" width="12" x="4440" y="2776.9"/>
+  <text x="4440" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4440,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jfrog (3735)</text>
+  <rect fill="blue" height="38.0" stroke="black" width="12" x="4455" y="2776.2"/>
+  <text x="4455" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4455,2819.2)" text-rendering="optimizeSpeed" fill="#000000">atlassian-jira-software-cloud (3801)</text>
+  <rect fill="blue" height="38.4" stroke="black" width="12" x="4470" y="2775.8"/>
+  <text x="4470" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4470,2819.2)" text-rendering="optimizeSpeed" fill="#000000">material-theme (3841)</text>
+  <rect fill="blue" height="38.5" stroke="black" width="12" x="4485" y="2775.7"/>
+  <text x="4485" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4485,2819.2)" text-rendering="optimizeSpeed" fill="#000000">versioncolumn (3852)</text>
+  <rect fill="blue" height="38.6" stroke="black" width="12" x="4500" y="2775.6"/>
+  <text x="4500" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4500,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-aggregator-view (3865)</text>
+  <rect fill="blue" height="38.7" stroke="black" width="12" x="4515" y="2775.6"/>
+  <text x="4515" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4515,2819.2)" text-rendering="optimizeSpeed" fill="#000000">adoptopenjdk (3869)</text>
+  <rect fill="blue" height="38.9" stroke="black" width="12" x="4530" y="2775.4"/>
+  <text x="4530" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4530,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dynamic_extended_choice_parameter (3888)</text>
+  <rect fill="blue" height="39.0" stroke="black" width="12" x="4545" y="2775.3"/>
+  <text x="4545" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4545,2819.2)" text-rendering="optimizeSpeed" fill="#000000">custom-tools-plugin (3895)</text>
+  <rect fill="blue" height="39.0" stroke="black" width="12" x="4560" y="2775.2"/>
+  <text x="4560" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4560,2819.2)" text-rendering="optimizeSpeed" fill="#000000">claim (3900)</text>
+  <rect fill="blue" height="39.1" stroke="black" width="12" x="4575" y="2775.1"/>
+  <text x="4575" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4575,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mail-watcher-plugin (3909)</text>
+  <rect fill="blue" height="39.3" stroke="black" width="12" x="4590" y="2774.9"/>
+  <text x="4590" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4590,2819.2)" text-rendering="optimizeSpeed" fill="#000000">notification (3932)</text>
+  <rect fill="blue" height="39.4" stroke="black" width="12" x="4605" y="2774.8"/>
+  <text x="4605" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4605,2819.2)" text-rendering="optimizeSpeed" fill="#000000">periodicbackup (3941)</text>
+  <rect fill="blue" height="39.4" stroke="black" width="12" x="4620" y="2774.8"/>
+  <text x="4620" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4620,2819.2)" text-rendering="optimizeSpeed" fill="#000000">customizable-header (3942)</text>
+  <rect fill="blue" height="39.6" stroke="black" width="12" x="4635" y="2774.6"/>
+  <text x="4635" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4635,2819.2)" text-rendering="optimizeSpeed" fill="#000000">join (3959)</text>
+  <rect fill="blue" height="39.7" stroke="black" width="12" x="4650" y="2774.6"/>
+  <text x="4650" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4650,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xcode-plugin (3966)</text>
+  <rect fill="blue" height="40.0" stroke="black" width="12" x="4665" y="2774.2"/>
+  <text x="4665" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4665,2819.2)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecs (4001)</text>
+  <rect fill="blue" height="40.4" stroke="black" width="12" x="4680" y="2773.8"/>
+  <text x="4680" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4680,2819.2)" text-rendering="optimizeSpeed" fill="#000000">support-core (4042)</text>
+  <rect fill="blue" height="40.6" stroke="black" width="12" x="4695" y="2773.6"/>
+  <text x="4695" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4695,2819.2)" text-rendering="optimizeSpeed" fill="#000000">checkmarx (4062)</text>
+  <rect fill="blue" height="42.0" stroke="black" width="12" x="4710" y="2772.3"/>
+  <text x="4710" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4710,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-push (4195)</text>
+  <rect fill="blue" height="42.0" stroke="black" width="12" x="4725" y="2772.2"/>
+  <text x="4725" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4725,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-commons (4203)</text>
+  <rect fill="blue" height="42.0" stroke="black" width="12" x="4740" y="2772.2"/>
+  <text x="4740" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4740,2819.2)" text-rendering="optimizeSpeed" fill="#000000">persistent-parameter (4204)</text>
+  <rect fill="blue" height="42.2" stroke="black" width="12" x="4755" y="2772.0"/>
+  <text x="4755" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4755,2819.2)" text-rendering="optimizeSpeed" fill="#000000">purge-job-history (4220)</text>
+  <rect fill="blue" height="42.2" stroke="black" width="12" x="4770" y="2772.0"/>
+  <text x="4770" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4770,2819.2)" text-rendering="optimizeSpeed" fill="#000000">categorized-view (4221)</text>
+  <rect fill="blue" height="42.8" stroke="black" width="12" x="4785" y="2771.4"/>
+  <text x="4785" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4785,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-build-status-notifier (4281)</text>
+  <rect fill="blue" height="43.0" stroke="black" width="12" x="4800" y="2771.3"/>
+  <text x="4800" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4800,2819.2)" text-rendering="optimizeSpeed" fill="#000000">list-git-branches-parameter (4296)</text>
+  <rect fill="blue" height="43.2" stroke="black" width="12" x="4815" y="2771.0"/>
+  <text x="4815" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4815,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nexus-jenkins-plugin (4320)</text>
+  <rect fill="blue" height="43.5" stroke="black" width="12" x="4830" y="2770.8"/>
+  <text x="4830" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4830,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dependency-track (4347)</text>
+  <rect fill="blue" height="43.5" stroke="black" width="12" x="4845" y="2770.8"/>
+  <text x="4845" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4845,2819.2)" text-rendering="optimizeSpeed" fill="#000000">database (4348)</text>
+  <rect fill="blue" height="44.4" stroke="black" width="12" x="4860" y="2769.9"/>
+  <text x="4860" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4860,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitea (4436)</text>
+  <rect fill="blue" height="44.6" stroke="black" width="12" x="4875" y="2769.7"/>
+  <text x="4875" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4875,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nunit (4458)</text>
+  <rect fill="blue" height="44.6" stroke="black" width="12" x="4890" y="2769.6"/>
+  <text x="4890" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4890,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mstest (4460)</text>
+  <rect fill="blue" height="44.6" stroke="black" width="12" x="4905" y="2769.6"/>
+  <text x="4905" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4905,2819.2)" text-rendering="optimizeSpeed" fill="#000000">PrioritySorter (4462)</text>
+  <rect fill="blue" height="45.1" stroke="black" width="12" x="4920" y="2769.1"/>
+  <text x="4920" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4920,2819.2)" text-rendering="optimizeSpeed" fill="#000000">junit-attachments (4512)</text>
+  <rect fill="blue" height="45.2" stroke="black" width="12" x="4935" y="2769.0"/>
+  <text x="4935" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4935,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pyenv-pipeline (4521)</text>
+  <rect fill="blue" height="45.6" stroke="black" width="12" x="4950" y="2768.6"/>
+  <text x="4950" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4950,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mina-sshd-api-scp (4562)</text>
+  <rect fill="blue" height="45.8" stroke="black" width="12" x="4965" y="2768.4"/>
+  <text x="4965" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4965,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-slaves (4580)</text>
+  <rect fill="blue" height="46.9" stroke="black" width="12" x="4980" y="2767.4"/>
+  <text x="4980" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4980,2819.2)" text-rendering="optimizeSpeed" fill="#000000">terraform (4688)</text>
+  <rect fill="blue" height="46.9" stroke="black" width="12" x="4995" y="2767.3"/>
+  <text x="4995" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 4995,2819.2)" text-rendering="optimizeSpeed" fill="#000000">backup (4692)</text>
+  <rect fill="blue" height="47.1" stroke="black" width="12" x="5010" y="2767.2"/>
+  <text x="5010" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5010,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-login (4707)</text>
+  <rect fill="blue" height="47.5" stroke="black" width="12" x="5025" y="2766.8"/>
+  <text x="5025" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5025,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xvfb (4746)</text>
+  <rect fill="blue" height="47.8" stroke="black" width="12" x="5040" y="2766.5"/>
+  <text x="5040" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5040,2819.2)" text-rendering="optimizeSpeed" fill="#000000">date-parameter (4776)</text>
+  <rect fill="blue" height="47.9" stroke="black" width="12" x="5055" y="2766.4"/>
+  <text x="5055" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5055,2819.2)" text-rendering="optimizeSpeed" fill="#000000">folder-properties (4788)</text>
+  <rect fill="blue" height="48.2" stroke="black" width="12" x="5070" y="2766.0"/>
+  <text x="5070" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5070,2819.2)" text-rendering="optimizeSpeed" fill="#000000">JDK_Parameter_Plugin (4822)</text>
+  <rect fill="blue" height="48.8" stroke="black" width="12" x="5085" y="2765.4"/>
+  <text x="5085" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5085,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-logo (4882)</text>
+  <rect fill="blue" height="48.8" stroke="black" width="12" x="5100" y="2765.4"/>
+  <text x="5100" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5100,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-environment (4884)</text>
+  <rect fill="blue" height="49.0" stroke="black" width="12" x="5115" y="2765.3"/>
+  <text x="5115" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5115,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket-push-and-pull-request (4896)</text>
+  <rect fill="blue" height="51.0" stroke="black" width="12" x="5130" y="2763.2"/>
+  <text x="5130" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5130,2819.2)" text-rendering="optimizeSpeed" fill="#000000">golang (5105)</text>
+  <rect fill="blue" height="51.3" stroke="black" width="12" x="5145" y="2763.0"/>
+  <text x="5145" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5145,2819.2)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code-groovy (5128)</text>
+  <rect fill="blue" height="51.5" stroke="black" width="12" x="5160" y="2762.7"/>
+  <text x="5160" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5160,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jira-steps (5151)</text>
+  <rect fill="blue" height="51.5" stroke="black" width="12" x="5175" y="2762.7"/>
+  <text x="5175" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5175,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-githubnotify-step (5152)</text>
+  <rect fill="blue" height="51.7" stroke="black" width="12" x="5190" y="2762.6"/>
+  <text x="5190" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5190,2819.2)" text-rendering="optimizeSpeed" fill="#000000">preSCMbuildstep (5166)</text>
+  <rect fill="blue" height="52.5" stroke="black" width="12" x="5205" y="2761.8"/>
+  <text x="5205" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5205,2819.2)" text-rendering="optimizeSpeed" fill="#000000">global-slack-notifier (5246)</text>
+  <rect fill="blue" height="52.8" stroke="black" width="12" x="5220" y="2761.4"/>
+  <text x="5220" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5220,2819.2)" text-rendering="optimizeSpeed" fill="#000000">versionnumber (5281)</text>
+  <rect fill="blue" height="53.5" stroke="black" width="12" x="5235" y="2760.7"/>
+  <text x="5235" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5235,2819.2)" text-rendering="optimizeSpeed" fill="#000000">login-theme (5351)</text>
+  <rect fill="blue" height="53.8" stroke="black" width="12" x="5250" y="2760.4"/>
+  <text x="5250" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5250,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-compose-build-step (5380)</text>
+  <rect fill="blue" height="54.4" stroke="black" width="12" x="5265" y="2759.8"/>
+  <text x="5265" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5265,2819.2)" text-rendering="optimizeSpeed" fill="#000000">plot (5441)</text>
+  <rect fill="blue" height="54.9" stroke="black" width="12" x="5280" y="2759.3"/>
+  <text x="5280" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5280,2819.2)" text-rendering="optimizeSpeed" fill="#000000">global-build-stats (5494)</text>
+  <rect fill="blue" height="55.2" stroke="black" width="12" x="5295" y="2759.0"/>
+  <text x="5295" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5295,2819.2)" text-rendering="optimizeSpeed" fill="#000000">job-restrictions (5522)</text>
+  <rect fill="blue" height="56.1" stroke="black" width="12" x="5310" y="2758.1"/>
+  <text x="5310" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5310,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sonar-quality-gates (5615)</text>
+  <rect fill="blue" height="56.3" stroke="black" width="12" x="5325" y="2758.0"/>
+  <text x="5325" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5325,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh2easy (5628)</text>
+  <rect fill="blue" height="56.4" stroke="black" width="12" x="5340" y="2757.8"/>
+  <text x="5340" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5340,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multibranch-scan-webhook-trigger (5640)</text>
+  <rect fill="blue" height="57.0" stroke="black" width="12" x="5355" y="2757.2"/>
+  <text x="5355" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5355,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ruby-runtime (5704)</text>
+  <rect fill="blue" height="57.2" stroke="black" width="12" x="5370" y="2757.0"/>
+  <text x="5370" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5370,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-ad (5721)</text>
+  <rect fill="blue" height="59.3" stroke="black" width="12" x="5385" y="2755.0"/>
+  <text x="5385" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5385,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-credentials (5926)</text>
+  <rect fill="blue" height="59.4" stroke="black" width="12" x="5400" y="2754.9"/>
+  <text x="5400" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5400,2819.2)" text-rendering="optimizeSpeed" fill="#000000">startup-trigger-plugin (5935)</text>
+  <rect fill="blue" height="60.1" stroke="black" width="12" x="5415" y="2754.2"/>
+  <text x="5415" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5415,2819.2)" text-rendering="optimizeSpeed" fill="#000000">schedule-build (6008)</text>
+  <rect fill="blue" height="60.1" stroke="black" width="12" x="5430" y="2754.1"/>
+  <text x="5430" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5430,2819.2)" text-rendering="optimizeSpeed" fill="#000000">emoji-symbols-api (6009)</text>
+  <rect fill="blue" height="60.4" stroke="black" width="12" x="5445" y="2753.8"/>
+  <text x="5445" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5445,2819.2)" text-rendering="optimizeSpeed" fill="#000000">p4 (6043)</text>
+  <rect fill="blue" height="61.0" stroke="black" width="12" x="5460" y="2753.2"/>
+  <text x="5460" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5460,2819.2)" text-rendering="optimizeSpeed" fill="#000000">skip-certificate-check (6104)</text>
+  <rect fill="blue" height="62.1" stroke="black" width="12" x="5475" y="2752.1"/>
+  <text x="5475" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5475,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-merge-request-jenkins (6214)</text>
+  <rect fill="blue" height="62.6" stroke="black" width="12" x="5490" y="2751.7"/>
+  <text x="5490" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5490,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-failure-analyzer (6256)</text>
+  <rect fill="blue" height="62.7" stroke="black" width="12" x="5505" y="2751.6"/>
+  <text x="5505" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5505,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sidebar-link (6269)</text>
+  <rect fill="blue" height="63.5" stroke="black" width="12" x="5520" y="2750.7"/>
+  <text x="5520" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5520,2819.2)" text-rendering="optimizeSpeed" fill="#000000">flexible-publish (6352)</text>
+  <rect fill="blue" height="63.8" stroke="black" width="12" x="5535" y="2750.4"/>
+  <text x="5535" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5535,2819.2)" text-rendering="optimizeSpeed" fill="#000000">discard-old-build (6384)</text>
+  <rect fill="blue" height="63.9" stroke="black" width="12" x="5550" y="2750.3"/>
+  <text x="5550" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5550,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-npm (6391)</text>
+  <rect fill="blue" height="64.1" stroke="black" width="12" x="5565" y="2750.2"/>
+  <text x="5565" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5565,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dingding-notifications (6408)</text>
+  <rect fill="blue" height="64.2" stroke="black" width="12" x="5580" y="2750.0"/>
+  <text x="5580" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5580,2819.2)" text-rendering="optimizeSpeed" fill="#000000">swarm (6420)</text>
+  <rect fill="blue" height="64.4" stroke="black" width="12" x="5595" y="2749.8"/>
+  <text x="5595" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5595,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-cloudwatch (6442)</text>
+  <rect fill="blue" height="65.7" stroke="black" width="12" x="5610" y="2748.6"/>
+  <text x="5610" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5610,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gerrit-trigger (6565)</text>
+  <rect fill="blue" height="66.6" stroke="black" width="12" x="5625" y="2747.6"/>
+  <text x="5625" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5625,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scriptler (6662)</text>
+  <rect fill="blue" height="66.9" stroke="black" width="12" x="5640" y="2747.3"/>
+  <text x="5640" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5640,2819.2)" text-rendering="optimizeSpeed" fill="#000000">oic-auth (6692)</text>
+  <rect fill="blue" height="67.0" stroke="black" width="12" x="5655" y="2747.2"/>
+  <text x="5655" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5655,2819.2)" text-rendering="optimizeSpeed" fill="#000000">delivery-pipeline-plugin (6703)</text>
+  <rect fill="blue" height="67.7" stroke="black" width="12" x="5670" y="2746.5"/>
+  <text x="5670" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5670,2819.2)" text-rendering="optimizeSpeed" fill="#000000">extra-columns (6772)</text>
+  <rect fill="blue" height="68.1" stroke="black" width="12" x="5685" y="2746.1"/>
+  <text x="5685" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5685,2819.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ftp (6810)</text>
+  <rect fill="blue" height="69.4" stroke="black" width="12" x="5700" y="2744.9"/>
+  <text x="5700" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5700,2819.2)" text-rendering="optimizeSpeed" fill="#000000">permissive-script-security (6937)</text>
+  <rect fill="blue" height="69.6" stroke="black" width="12" x="5715" y="2744.7"/>
+  <text x="5715" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5715,2819.2)" text-rendering="optimizeSpeed" fill="#000000">strict-crumb-issuer (6957)</text>
+  <rect fill="blue" height="69.8" stroke="black" width="12" x="5730" y="2744.4"/>
+  <text x="5730" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5730,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-organization-folder (6979)</text>
+  <rect fill="blue" height="70.4" stroke="black" width="12" x="5745" y="2743.8"/>
+  <text x="5745" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5745,2819.2)" text-rendering="optimizeSpeed" fill="#000000">stashNotifier (7040)</text>
+  <rect fill="blue" height="71.4" stroke="black" width="12" x="5760" y="2742.8"/>
+  <text x="5760" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5760,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-credentials-provider (7140)</text>
+  <rect fill="blue" height="71.5" stroke="black" width="12" x="5775" y="2742.7"/>
+  <text x="5775" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5775,2819.2)" text-rendering="optimizeSpeed" fill="#000000">text-finder (7151)</text>
+  <rect fill="blue" height="72.6" stroke="black" width="12" x="5790" y="2741.7"/>
+  <text x="5790" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5790,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-changelog (7256)</text>
+  <rect fill="blue" height="73.1" stroke="black" width="12" x="5805" y="2741.2"/>
+  <text x="5805" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5805,2819.2)" text-rendering="optimizeSpeed" fill="#000000">analysis-core (7308)</text>
+  <rect fill="blue" height="74.9" stroke="black" width="12" x="5820" y="2739.3"/>
+  <text x="5820" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5820,2819.2)" text-rendering="optimizeSpeed" fill="#000000">configurationslicing (7491)</text>
+  <rect fill="blue" height="75.3" stroke="black" width="12" x="5835" y="2738.9"/>
+  <text x="5835" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5835,2819.2)" text-rendering="optimizeSpeed" fill="#000000">testng-plugin (7531)</text>
+  <rect fill="blue" height="75.8" stroke="black" width="12" x="5850" y="2738.5"/>
+  <text x="5850" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5850,2819.2)" text-rendering="optimizeSpeed" fill="#000000">test-results-analyzer (7575)</text>
+  <rect fill="blue" height="75.8" stroke="black" width="12" x="5865" y="2738.4"/>
+  <text x="5865" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5865,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nexus-artifact-uploader (7585)</text>
+  <rect fill="blue" height="75.9" stroke="black" width="12" x="5880" y="2738.4"/>
+  <text x="5880" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5880,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nested-view (7589)</text>
+  <rect fill="blue" height="76.2" stroke="black" width="12" x="5895" y="2738.0"/>
+  <text x="5895" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5895,2819.2)" text-rendering="optimizeSpeed" fill="#000000">atlassian-bitbucket-server-integration (7621)</text>
+  <rect fill="blue" height="76.4" stroke="black" width="12" x="5910" y="2737.8"/>
+  <text x="5910" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5910,2819.2)" text-rendering="optimizeSpeed" fill="#000000">parameter-separator (7643)</text>
+  <rect fill="blue" height="77.7" stroke="black" width="12" x="5925" y="2736.6"/>
+  <text x="5925" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5925,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-build-publish (7767)</text>
+  <rect fill="blue" height="78.5" stroke="black" width="12" x="5940" y="2735.8"/>
+  <text x="5940" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5940,2819.2)" text-rendering="optimizeSpeed" fill="#000000">s3 (7848)</text>
+  <rect fill="blue" height="80.7" stroke="black" width="12" x="5955" y="2733.5"/>
+  <text x="5955" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5955,2819.2)" text-rendering="optimizeSpeed" fill="#000000">file-parameters (8074)</text>
+  <rect fill="blue" height="80.9" stroke="black" width="12" x="5970" y="2733.3"/>
+  <text x="5970" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5970,2819.2)" text-rendering="optimizeSpeed" fill="#000000">validating-string-parameter (8093)</text>
+  <rect fill="blue" height="81.2" stroke="black" width="12" x="5985" y="2733.0"/>
+  <text x="5985" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 5985,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ghprb (8121)</text>
+  <rect fill="blue" height="81.4" stroke="black" width="12" x="6000" y="2732.8"/>
+  <text x="6000" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6000,2819.2)" text-rendering="optimizeSpeed" fill="#000000">amazon-ecr (8141)</text>
+  <rect fill="blue" height="82.0" stroke="black" width="12" x="6015" y="2732.2"/>
+  <text x="6015" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6015,2819.2)" text-rendering="optimizeSpeed" fill="#000000">robot (8204)</text>
+  <rect fill="blue" height="82.5" stroke="black" width="12" x="6030" y="2731.8"/>
+  <text x="6030" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6030,2819.2)" text-rendering="optimizeSpeed" fill="#000000">flatpickr-api (8248)</text>
+  <rect fill="blue" height="82.6" stroke="black" width="12" x="6045" y="2731.7"/>
+  <text x="6045" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6045,2819.2)" text-rendering="optimizeSpeed" fill="#000000">plugin-usage-plugin (8257)</text>
+  <rect fill="blue" height="82.9" stroke="black" width="12" x="6060" y="2731.3"/>
+  <text x="6060" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6060,2819.2)" text-rendering="optimizeSpeed" fill="#000000">m2release (8293)</text>
+  <rect fill="blue" height="83.9" stroke="black" width="12" x="6075" y="2730.4"/>
+  <text x="6075" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6075,2819.2)" text-rendering="optimizeSpeed" fill="#000000">next-build-number (8387)</text>
+  <rect fill="blue" height="84.7" stroke="black" width="12" x="6090" y="2729.5"/>
+  <text x="6090" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6090,2819.2)" text-rendering="optimizeSpeed" fill="#000000">file-operations (8471)</text>
+  <rect fill="blue" height="86.8" stroke="black" width="12" x="6105" y="2727.5"/>
+  <text x="6105" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6105,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jquery-ui (8678)</text>
+  <rect fill="blue" height="86.8" stroke="black" width="12" x="6120" y="2727.4"/>
+  <text x="6120" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6120,2819.2)" text-rendering="optimizeSpeed" fill="#000000">promoted-builds (8682)</text>
+  <rect fill="blue" height="88.4" stroke="black" width="12" x="6135" y="2725.9"/>
+  <text x="6135" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6135,2819.2)" text-rendering="optimizeSpeed" fill="#000000">disk-usage (8837)</text>
+  <rect fill="blue" height="90.2" stroke="black" width="12" x="6150" y="2724.1"/>
+  <text x="6150" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6150,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-multibranch-defaults (9019)</text>
+  <rect fill="blue" height="92.9" stroke="black" width="12" x="6165" y="2721.3"/>
+  <text x="6165" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6165,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hidden-parameter (9291)</text>
+  <rect fill="blue" height="95.2" stroke="black" width="12" x="6180" y="2719.0"/>
+  <text x="6180" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6180,2819.2)" text-rendering="optimizeSpeed" fill="#000000">hashicorp-vault-plugin (9523)</text>
+  <rect fill="blue" height="98.1" stroke="black" width="12" x="6195" y="2716.1"/>
+  <text x="6195" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6195,2819.2)" text-rendering="optimizeSpeed" fill="#000000">description-setter (9812)</text>
+  <rect fill="blue" height="98.8" stroke="black" width="12" x="6210" y="2715.5"/>
+  <text x="6210" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6210,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dependency-check-jenkins-plugin (9878)</text>
+  <rect fill="blue" height="99.7" stroke="black" width="12" x="6225" y="2714.6"/>
+  <text x="6225" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6225,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cucumber-reports (9965)</text>
+  <rect fill="blue" height="101.3" stroke="black" width="12" x="6240" y="2713.0"/>
+  <text x="6240" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6240,2819.2)" text-rendering="optimizeSpeed" fill="#000000">audit-trail (10126)</text>
+  <rect fill="blue" height="102.5" stroke="black" width="12" x="6255" y="2711.8"/>
+  <text x="6255" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6255,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-token-root (10248)</text>
+  <rect fill="blue" height="102.5" stroke="black" width="12" x="6270" y="2711.8"/>
+  <text x="6270" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6270,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-github (10248)</text>
+  <rect fill="blue" height="102.9" stroke="black" width="12" x="6285" y="2711.4"/>
+  <text x="6285" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6285,2819.2)" text-rendering="optimizeSpeed" fill="#000000">azure-sdk (10288)</text>
+  <rect fill="blue" height="103.9" stroke="black" width="12" x="6300" y="2710.4"/>
+  <text x="6300" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6300,2819.2)" text-rendering="optimizeSpeed" fill="#000000">python (10389)</text>
+  <rect fill="blue" height="104.8" stroke="black" width="12" x="6315" y="2709.5"/>
+  <text x="6315" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6315,2819.2)" text-rendering="optimizeSpeed" fill="#000000">log-parser (10478)</text>
+  <rect fill="blue" height="106.7" stroke="black" width="12" x="6330" y="2707.6"/>
+  <text x="6330" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6330,2819.2)" text-rendering="optimizeSpeed" fill="#000000">deploy (10669)</text>
+  <rect fill="blue" height="109.5" stroke="black" width="12" x="6345" y="2704.8"/>
+  <text x="6345" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6345,2819.2)" text-rendering="optimizeSpeed" fill="#000000">saferestart (10947)</text>
+  <rect fill="blue" height="109.8" stroke="black" width="12" x="6360" y="2704.4"/>
+  <text x="6360" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6360,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ec2 (10985)</text>
+  <rect fill="blue" height="110.9" stroke="black" width="12" x="6375" y="2703.4"/>
+  <text x="6375" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6375,2819.2)" text-rendering="optimizeSpeed" fill="#000000">google-oauth-plugin (11088)</text>
+  <rect fill="blue" height="111.9" stroke="black" width="12" x="6390" y="2702.3"/>
+  <text x="6390" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6390,2819.2)" text-rendering="optimizeSpeed" fill="#000000">naginator (11192)</text>
+  <rect fill="blue" height="113.2" stroke="black" width="12" x="6405" y="2701.1"/>
+  <text x="6405" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6405,2819.2)" text-rendering="optimizeSpeed" fill="#000000">performance (11319)</text>
+  <rect fill="blue" height="114.9" stroke="black" width="12" x="6420" y="2699.3"/>
+  <text x="6420" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6420,2819.2)" text-rendering="optimizeSpeed" fill="#000000">translation (11493)</text>
+  <rect fill="blue" height="115.2" stroke="black" width="12" x="6435" y="2699.0"/>
+  <text x="6435" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6435,2819.2)" text-rendering="optimizeSpeed" fill="#000000">view-job-filters (11525)</text>
+  <rect fill="blue" height="115.8" stroke="black" width="12" x="6450" y="2698.5"/>
+  <text x="6450" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6450,2819.2)" text-rendering="optimizeSpeed" fill="#000000">postbuildscript (11578)</text>
+  <rect fill="blue" height="116.1" stroke="black" width="12" x="6465" y="2698.2"/>
+  <text x="6465" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6465,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-cli (11606)</text>
+  <rect fill="blue" height="118.9" stroke="black" width="12" x="6480" y="2695.3"/>
+  <text x="6480" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6480,2819.2)" text-rendering="optimizeSpeed" fill="#000000">greenballs (11892)</text>
+  <rect fill="blue" height="119.0" stroke="black" width="12" x="6495" y="2695.2"/>
+  <text x="6495" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6495,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-branch-source (11905)</text>
+  <rect fill="blue" height="119.2" stroke="black" width="12" x="6510" y="2695.1"/>
+  <text x="6510" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6510,2819.2)" text-rendering="optimizeSpeed" fill="#000000">basic-branch-build-strategies (11917)</text>
+  <rect fill="blue" height="119.3" stroke="black" width="12" x="6525" y="2694.9"/>
+  <text x="6525" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6525,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-disk-usage-simple (11930)</text>
+  <rect fill="blue" height="120.2" stroke="black" width="12" x="6540" y="2694.1"/>
+  <text x="6540" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6540,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-blocker-plugin (12018)</text>
+  <rect fill="blue" height="122.9" stroke="black" width="12" x="6555" y="2691.4"/>
+  <text x="6555" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6555,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-oauth (12286)</text>
+  <rect fill="blue" height="123.8" stroke="black" width="12" x="6570" y="2690.4"/>
+  <text x="6570" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6570,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-build-step (12381)</text>
+  <rect fill="blue" height="125.3" stroke="black" width="12" x="6585" y="2688.9"/>
+  <text x="6585" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6585,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jsoup (12535)</text>
+  <rect fill="blue" height="127.9" stroke="black" width="12" x="6600" y="2686.4"/>
+  <text x="6600" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6600,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-autoscaling (12788)</text>
+  <rect fill="blue" height="131.1" stroke="black" width="12" x="6615" y="2683.2"/>
+  <text x="6615" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6615,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-monitor-plugin (13107)</text>
+  <rect fill="blue" height="132.8" stroke="black" width="12" x="6630" y="2681.4"/>
+  <text x="6630" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6630,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dtkit-api (13282)</text>
+  <rect fill="blue" height="133.3" stroke="black" width="12" x="6645" y="2681.0"/>
+  <text x="6645" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6645,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-with-parameters (13327)</text>
+  <rect fill="blue" height="133.4" stroke="black" width="12" x="6660" y="2680.8"/>
+  <text x="6660" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6660,2819.2)" text-rendering="optimizeSpeed" fill="#000000">oauth-credentials (13341)</text>
+  <rect fill="blue" height="133.4" stroke="black" width="12" x="6675" y="2680.8"/>
+  <text x="6675" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6675,2819.2)" text-rendering="optimizeSpeed" fill="#000000">embeddable-build-status (13343)</text>
+  <rect fill="blue" height="135.4" stroke="black" width="12" x="6690" y="2678.8"/>
+  <text x="6690" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6690,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jenkins-multijob-plugin (13543)</text>
+  <rect fill="blue" height="138.5" stroke="black" width="12" x="6705" y="2675.8"/>
+  <text x="6705" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6705,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-pullrequest (13848)</text>
+  <rect fill="blue" height="139.5" stroke="black" width="12" x="6720" y="2674.7"/>
+  <text x="6720" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6720,2819.2)" text-rendering="optimizeSpeed" fill="#000000">xunit (13953)</text>
+  <rect fill="blue" height="140.8" stroke="black" width="12" x="6735" y="2673.4"/>
+  <text x="6735" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6735,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-oauth (14079)</text>
+  <rect fill="blue" height="143.0" stroke="black" width="12" x="6750" y="2671.2"/>
+  <text x="6750" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6750,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk2-ec2 (14301)</text>
+  <rect fill="blue" height="143.1" stroke="black" width="12" x="6765" y="2671.1"/>
+  <text x="6765" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6765,2819.2)" text-rendering="optimizeSpeed" fill="#000000">Parameterized-Remote-Trigger (14309)</text>
+  <rect fill="blue" height="143.4" stroke="black" width="12" x="6780" y="2670.9"/>
+  <text x="6780" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6780,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk2-core (14336)</text>
+  <rect fill="blue" height="144.4" stroke="black" width="12" x="6795" y="2669.9"/>
+  <text x="6795" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6795,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-aws (14436)</text>
+  <rect fill="blue" height="147.3" stroke="black" width="12" x="6810" y="2667.0"/>
+  <text x="6810" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6810,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-timestamp (14726)</text>
+  <rect fill="blue" height="148.3" stroke="black" width="12" x="6825" y="2665.9"/>
+  <text x="6825" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6825,2819.2)" text-rendering="optimizeSpeed" fill="#000000">node-iterator-api (14834)</text>
+  <rect fill="blue" height="148.6" stroke="black" width="12" x="6840" y="2665.6"/>
+  <text x="6840" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6840,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ivy (14860)</text>
+  <rect fill="blue" height="155.5" stroke="black" width="12" x="6855" y="2658.8"/>
+  <text x="6855" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6855,2819.2)" text-rendering="optimizeSpeed" fill="#000000">extensible-choice-parameter (15546)</text>
+  <rect fill="blue" height="156.3" stroke="black" width="12" x="6870" y="2658.0"/>
+  <text x="6870" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6870,2819.2)" text-rendering="optimizeSpeed" fill="#000000">job-import-plugin (15628)</text>
+  <rect fill="blue" height="156.8" stroke="black" width="12" x="6885" y="2657.5"/>
+  <text x="6885" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6885,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cvs (15675)</text>
+  <rect fill="blue" height="158.8" stroke="black" width="12" x="6900" y="2655.4"/>
+  <text x="6900" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6900,2819.2)" text-rendering="optimizeSpeed" fill="#000000">icon-shim (15884)</text>
+  <rect fill="blue" height="160.1" stroke="black" width="12" x="6915" y="2654.2"/>
+  <text x="6915" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6915,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-api-gateway (16006)</text>
+  <rect fill="blue" height="160.1" stroke="black" width="12" x="6930" y="2654.1"/>
+  <text x="6930" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6930,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-codedeploy (16012)</text>
+  <rect fill="blue" height="160.2" stroke="black" width="12" x="6945" y="2654.1"/>
+  <text x="6945" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6945,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-organizations (16018)</text>
+  <rect fill="blue" height="160.2" stroke="black" width="12" x="6960" y="2654.0"/>
+  <text x="6960" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6960,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-cloudfront (16021)</text>
+  <rect fill="blue" height="160.2" stroke="black" width="12" x="6975" y="2654.0"/>
+  <text x="6975" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6975,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-elasticloadbalancingv2 (16023)</text>
+  <rect fill="blue" height="160.2" stroke="black" width="12" x="6990" y="2654.0"/>
+  <text x="6990" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 6990,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-lambda (16023)</text>
+  <rect fill="blue" height="162.5" stroke="black" width="12" x="7005" y="2651.7"/>
+  <text x="7005" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7005,2819.2)" text-rendering="optimizeSpeed" fill="#000000">allure-jenkins-plugin (16253)</text>
+  <rect fill="blue" height="163.2" stroke="black" width="12" x="7020" y="2651.1"/>
+  <text x="7020" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7020,2819.2)" text-rendering="optimizeSpeed" fill="#000000">coverage (16315)</text>
+  <rect fill="blue" height="164.3" stroke="black" width="12" x="7035" y="2649.9"/>
+  <text x="7035" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7035,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-kinesis (16433)</text>
+  <rect fill="blue" height="164.7" stroke="black" width="12" x="7050" y="2649.5"/>
+  <text x="7050" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7050,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cobertura (16471)</text>
+  <rect fill="blue" height="165.4" stroke="black" width="12" x="7065" y="2648.9"/>
+  <text x="7065" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7065,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-secretsmanager (16538)</text>
+  <rect fill="blue" height="168.0" stroke="black" width="12" x="7080" y="2646.2"/>
+  <text x="7080" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7080,2819.2)" text-rendering="optimizeSpeed" fill="#000000">h2-api (16802)</text>
+  <rect fill="blue" height="169.1" stroke="black" width="12" x="7095" y="2645.1"/>
+  <text x="7095" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7095,2819.2)" text-rendering="optimizeSpeed" fill="#000000">postbuild-task (16909)</text>
+  <rect fill="blue" height="172.3" stroke="black" width="12" x="7110" y="2642.0"/>
+  <text x="7110" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7110,2819.2)" text-rendering="optimizeSpeed" fill="#000000">multiple-scms (17228)</text>
+  <rect fill="blue" height="175.1" stroke="black" width="12" x="7125" y="2639.1"/>
+  <text x="7125" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7125,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-pipeline-plugin (17514)</text>
+  <rect fill="blue" height="175.3" stroke="black" width="12" x="7140" y="2638.9"/>
+  <text x="7140" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7140,2819.2)" text-rendering="optimizeSpeed" fill="#000000">groovy-postbuild (17533)</text>
+  <rect fill="blue" height="175.5" stroke="black" width="12" x="7155" y="2638.7"/>
+  <text x="7155" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7155,2819.2)" text-rendering="optimizeSpeed" fill="#000000">saml (17553)</text>
+  <rect fill="blue" height="176.6" stroke="black" width="12" x="7170" y="2637.6"/>
+  <text x="7170" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7170,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nodelabelparameter (17663)</text>
+  <rect fill="blue" height="179.0" stroke="black" width="12" x="7185" y="2635.2"/>
+  <text x="7185" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7185,2819.2)" text-rendering="optimizeSpeed" fill="#000000">built-on-column (17900)</text>
+  <rect fill="blue" height="179.4" stroke="black" width="12" x="7200" y="2634.8"/>
+  <text x="7200" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7200,2819.2)" text-rendering="optimizeSpeed" fill="#000000">prometheus (17945)</text>
+  <rect fill="blue" height="179.9" stroke="black" width="12" x="7215" y="2634.4"/>
+  <text x="7215" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7215,2819.2)" text-rendering="optimizeSpeed" fill="#000000">msbuild (17987)</text>
+  <rect fill="blue" height="180.2" stroke="black" width="12" x="7230" y="2634.0"/>
+  <text x="7230" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7230,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jacoco (18023)</text>
+  <rect fill="blue" height="183.6" stroke="black" width="12" x="7245" y="2630.7"/>
+  <text x="7245" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7245,2819.2)" text-rendering="optimizeSpeed" fill="#000000">code-coverage-api (18356)</text>
+  <rect fill="blue" height="184.4" stroke="black" width="12" x="7260" y="2629.9"/>
+  <text x="7260" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7260,2819.2)" text-rendering="optimizeSpeed" fill="#000000">Office-365-Connector (18437)</text>
+  <rect fill="blue" height="185.1" stroke="black" width="12" x="7275" y="2629.2"/>
+  <text x="7275" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7275,2819.2)" text-rendering="optimizeSpeed" fill="#000000">commons-httpclient3-api (18508)</text>
+  <rect fill="blue" height="188.2" stroke="black" width="12" x="7290" y="2626.1"/>
+  <text x="7290" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7290,2819.2)" text-rendering="optimizeSpeed" fill="#000000">powershell (18819)</text>
+  <rect fill="blue" height="189.8" stroke="black" width="12" x="7305" y="2624.4"/>
+  <text x="7305" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7305,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ansible (18983)</text>
+  <rect fill="blue" height="190.2" stroke="black" width="12" x="7320" y="2624.0"/>
+  <text x="7320" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7320,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-efs (19022)</text>
+  <rect fill="blue" height="190.7" stroke="black" width="12" x="7335" y="2623.5"/>
+  <text x="7335" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7335,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-maven-api (19074)</text>
+  <rect fill="blue" height="191.2" stroke="black" width="12" x="7350" y="2623.1"/>
+  <text x="7350" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7350,2819.2)" text-rendering="optimizeSpeed" fill="#000000">parameterized-scheduler (19116)</text>
+  <rect fill="blue" height="191.9" stroke="black" width="12" x="7365" y="2622.4"/>
+  <text x="7365" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7365,2819.2)" text-rendering="optimizeSpeed" fill="#000000">monitoring (19189)</text>
+  <rect fill="blue" height="196.3" stroke="black" width="12" x="7380" y="2617.9"/>
+  <text x="7380" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7380,2819.2)" text-rendering="optimizeSpeed" fill="#000000">throttle-concurrents (19634)</text>
+  <rect fill="blue" height="197.1" stroke="black" width="12" x="7395" y="2617.1"/>
+  <text x="7395" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7395,2819.2)" text-rendering="optimizeSpeed" fill="#000000">extended-read-permission (19711)</text>
+  <rect fill="blue" height="198.2" stroke="black" width="12" x="7410" y="2616.0"/>
+  <text x="7410" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7410,2819.2)" text-rendering="optimizeSpeed" fill="#000000">badge (19820)</text>
+  <rect fill="blue" height="202.6" stroke="black" width="12" x="7425" y="2611.6"/>
+  <text x="7425" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7425,2819.2)" text-rendering="optimizeSpeed" fill="#000000">artifactory (20263)</text>
+  <rect fill="blue" height="203.5" stroke="black" width="12" x="7440" y="2610.7"/>
+  <text x="7440" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7440,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-logs (20354)</text>
+  <rect fill="blue" height="203.7" stroke="black" width="12" x="7455" y="2610.6"/>
+  <text x="7455" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7455,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-codebuild (20369)</text>
+  <rect fill="blue" height="203.7" stroke="black" width="12" x="7470" y="2610.5"/>
+  <text x="7470" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7470,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-ssm (20370)</text>
+  <rect fill="blue" height="205.3" stroke="black" width="12" x="7485" y="2608.9"/>
+  <text x="7485" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7485,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mask-passwords (20532)</text>
+  <rect fill="blue" height="206.2" stroke="black" width="12" x="7500" y="2608.0"/>
+  <text x="7500" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7500,2819.2)" text-rendering="optimizeSpeed" fill="#000000">emailext-template (20620)</text>
+  <rect fill="blue" height="209.4" stroke="black" width="12" x="7515" y="2604.8"/>
+  <text x="7515" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7515,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-ecs (20945)</text>
+  <rect fill="blue" height="210.5" stroke="black" width="12" x="7530" y="2603.7"/>
+  <text x="7530" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7530,2819.2)" text-rendering="optimizeSpeed" fill="#000000">warnings-ng (21053)</text>
+  <rect fill="blue" height="214.5" stroke="black" width="12" x="7545" y="2599.7"/>
+  <text x="7545" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7545,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bitbucket (21452)</text>
+  <rect fill="blue" height="219.9" stroke="black" width="12" x="7560" y="2594.4"/>
+  <text x="7560" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7560,2819.2)" text-rendering="optimizeSpeed" fill="#000000">authorize-project (21986)</text>
+  <rect fill="blue" height="219.9" stroke="black" width="12" x="7575" y="2594.4"/>
+  <text x="7575" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7575,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-sns (21986)</text>
+  <rect fill="blue" height="220.2" stroke="black" width="12" x="7590" y="2594.1"/>
+  <text x="7590" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7590,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-sqs (22017)</text>
+  <rect fill="blue" height="220.8" stroke="black" width="12" x="7605" y="2593.4"/>
+  <text x="7605" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7605,2819.2)" text-rendering="optimizeSpeed" fill="#000000">analysis-model-api (22081)</text>
+  <rect fill="blue" height="223.8" stroke="black" width="12" x="7620" y="2590.4"/>
+  <text x="7620" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7620,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-api (22381)</text>
+  <rect fill="blue" height="226.1" stroke="black" width="12" x="7635" y="2588.1"/>
+  <text x="7635" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7635,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jnr-posix-api (22611)</text>
+  <rect fill="blue" height="229.0" stroke="black" width="12" x="7650" y="2585.3"/>
+  <text x="7650" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7650,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-jira (22896)</text>
+  <rect fill="blue" height="232.9" stroke="black" width="12" x="7665" y="2581.3"/>
+  <text x="7665" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7665,2819.2)" text-rendering="optimizeSpeed" fill="#000000">simple-theme-plugin (23295)</text>
+  <rect fill="blue" height="234.7" stroke="black" width="12" x="7680" y="2579.6"/>
+  <text x="7680" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7680,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-elasticbeanstalk (23467)</text>
+  <rect fill="blue" height="234.8" stroke="black" width="12" x="7695" y="2579.5"/>
+  <text x="7695" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7695,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-cloudformation (23478)</text>
+  <rect fill="blue" height="235.2" stroke="black" width="12" x="7710" y="2579.1"/>
+  <text x="7710" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7710,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-iam (23517)</text>
+  <rect fill="blue" height="237.0" stroke="black" width="12" x="7725" y="2577.2"/>
+  <text x="7725" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7725,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh-steps (23703)</text>
+  <rect fill="blue" height="237.9" stroke="black" width="12" x="7740" y="2576.4"/>
+  <text x="7740" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7740,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk (23789)</text>
+  <rect fill="blue" height="251.0" stroke="black" width="12" x="7755" y="2563.2"/>
+  <text x="7755" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7755,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-ecr (25102)</text>
+  <rect fill="blue" height="256.4" stroke="black" width="12" x="7770" y="2557.8"/>
+  <text x="7770" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7770,2819.2)" text-rendering="optimizeSpeed" fill="#000000">locale (25641)</text>
+  <rect fill="blue" height="265.1" stroke="black" width="12" x="7785" y="2549.2"/>
+  <text x="7785" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7785,2819.2)" text-rendering="optimizeSpeed" fill="#000000">groovy (26505)</text>
+  <rect fill="blue" height="267.7" stroke="black" width="12" x="7800" y="2546.6"/>
+  <text x="7800" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7800,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-maven (26768)</text>
+  <rect fill="blue" height="290.7" stroke="black" width="12" x="7815" y="2523.6"/>
+  <text x="7815" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7815,2819.2)" text-rendering="optimizeSpeed" fill="#000000">thinBackup (29066)</text>
+  <rect fill="blue" height="294.6" stroke="black" width="12" x="7830" y="2519.7"/>
+  <text x="7830" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7830,2819.2)" text-rendering="optimizeSpeed" fill="#000000">oss-symbols-api (29457)</text>
+  <rect fill="blue" height="305.4" stroke="black" width="12" x="7845" y="2508.8"/>
+  <text x="7845" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7845,2819.2)" text-rendering="optimizeSpeed" fill="#000000">http_request (30542)</text>
+  <rect fill="blue" height="305.6" stroke="black" width="12" x="7860" y="2508.7"/>
+  <text x="7860" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7860,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dashboard-view (30557)</text>
+  <rect fill="blue" height="307.7" stroke="black" width="12" x="7875" y="2506.5"/>
+  <text x="7875" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7875,2819.2)" text-rendering="optimizeSpeed" fill="#000000">active-directory (30773)</text>
+  <rect fill="blue" height="309.6" stroke="black" width="12" x="7890" y="2504.7"/>
+  <text x="7890" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7890,2819.2)" text-rendering="optimizeSpeed" fill="#000000">extended-choice-parameter (30958)</text>
+  <rect fill="blue" height="310.5" stroke="black" width="12" x="7905" y="2503.7"/>
+  <text x="7905" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7905,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-name-setter (31050)</text>
+  <rect fill="blue" height="321.7" stroke="black" width="12" x="7920" y="2492.6"/>
+  <text x="7920" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7920,2819.2)" text-rendering="optimizeSpeed" fill="#000000">forensics-api (32167)</text>
+  <rect fill="blue" height="327.6" stroke="black" width="12" x="7935" y="2486.6"/>
+  <text x="7935" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7935,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh (32761)</text>
+  <rect fill="blue" height="348.6" stroke="black" width="12" x="7950" y="2465.6"/>
+  <text x="7950" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7950,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jobConfigHistory (34860)</text>
+  <rect fill="blue" height="351.3" stroke="black" width="12" x="7965" y="2462.9"/>
+  <text x="7965" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7965,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-ec2 (35134)</text>
+  <rect fill="blue" height="352.0" stroke="black" width="12" x="7980" y="2462.2"/>
+  <text x="7980" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7980,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jira (35202)</text>
+  <rect fill="blue" height="352.1" stroke="black" width="12" x="7995" y="2462.2"/>
+  <text x="7995" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 7995,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-autofavorite (35206)</text>
+  <rect fill="blue" height="354.4" stroke="black" width="12" x="8010" y="2459.9"/>
+  <text x="8010" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8010,2819.2)" text-rendering="optimizeSpeed" fill="#000000">generic-webhook-trigger (35436)</text>
+  <rect fill="blue" height="356.9" stroke="black" width="12" x="8025" y="2457.3"/>
+  <text x="8025" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8025,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-model-declarative-agent (35692)</text>
+  <rect fill="blue" height="357.3" stroke="black" width="12" x="8040" y="2456.9"/>
+  <text x="8040" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8040,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-credentials (35730)</text>
+  <rect fill="blue" height="359.4" stroke="black" width="12" x="8055" y="2454.9"/>
+  <text x="8055" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8055,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-user-vars-plugin (35937)</text>
+  <rect fill="blue" height="365.7" stroke="black" width="12" x="8070" y="2448.5"/>
+  <text x="8070" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8070,2819.2)" text-rendering="optimizeSpeed" fill="#000000">aws-java-sdk-minimal (36574)</text>
+  <rect fill="blue" height="372.2" stroke="black" width="12" x="8085" y="2442.0"/>
+  <text x="8085" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8085,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes (37225)</text>
+  <rect fill="blue" height="378.0" stroke="black" width="12" x="8100" y="2436.2"/>
+  <text x="8100" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8100,2819.2)" text-rendering="optimizeSpeed" fill="#000000">job-dsl (37800)</text>
+  <rect fill="blue" height="378.6" stroke="black" width="12" x="8115" y="2435.7"/>
+  <text x="8115" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8115,2819.2)" text-rendering="optimizeSpeed" fill="#000000">slack (37856)</text>
+  <rect fill="blue" height="398.1" stroke="black" width="12" x="8130" y="2416.1"/>
+  <text x="8130" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8130,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cloud-stats (39809)</text>
+  <rect fill="blue" height="401.1" stroke="black" width="12" x="8145" y="2413.1"/>
+  <text x="8145" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8145,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-credentials (40115)</text>
+  <rect fill="blue" height="402.9" stroke="black" width="12" x="8160" y="2411.3"/>
+  <text x="8160" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8160,2819.2)" text-rendering="optimizeSpeed" fill="#000000">configuration-as-code (40295)</text>
+  <rect fill="blue" height="408.6" stroke="black" width="12" x="8175" y="2405.6"/>
+  <text x="8175" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8175,2819.2)" text-rendering="optimizeSpeed" fill="#000000">kubernetes-client-api (40862)</text>
+  <rect fill="blue" height="412.1" stroke="black" width="12" x="8190" y="2402.1"/>
+  <text x="8190" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8190,2819.2)" text-rendering="optimizeSpeed" fill="#000000">uno-choice (41212)</text>
+  <rect fill="blue" height="424.7" stroke="black" width="12" x="8205" y="2389.6"/>
+  <text x="8205" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8205,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mercurial (42466)</text>
+  <rect fill="blue" height="433.4" stroke="black" width="12" x="8220" y="2380.9"/>
+  <text x="8220" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8220,2819.2)" text-rendering="optimizeSpeed" fill="#000000">copyartifact (43335)</text>
+  <rect fill="blue" height="434.7" stroke="black" width="12" x="8235" y="2379.5"/>
+  <text x="8235" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8235,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-plugin (43473)</text>
+  <rect fill="blue" height="455.3" stroke="black" width="12" x="8250" y="2358.9"/>
+  <text x="8250" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8250,2819.2)" text-rendering="optimizeSpeed" fill="#000000">rebuild (45529)</text>
+  <rect fill="blue" height="481.8" stroke="black" width="12" x="8265" y="2332.4"/>
+  <text x="8265" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8265,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ansicolor (48180)</text>
+  <rect fill="blue" height="484.9" stroke="black" width="12" x="8280" y="2329.4"/>
+  <text x="8280" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8280,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-java-api (48488)</text>
+  <rect fill="blue" height="504.8" stroke="black" width="12" x="8295" y="2309.5"/>
+  <text x="8295" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8295,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sonar (50476)</text>
+  <rect fill="blue" height="510.8" stroke="black" width="12" x="8310" y="2303.4"/>
+  <text x="8310" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8310,2819.2)" text-rendering="optimizeSpeed" fill="#000000">prism-api (51080)</text>
+  <rect fill="blue" height="519.7" stroke="black" width="12" x="8325" y="2294.5"/>
+  <text x="8325" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8325,2819.2)" text-rendering="optimizeSpeed" fill="#000000">envinject (51973)</text>
+  <rect fill="blue" height="520.7" stroke="black" width="12" x="8340" y="2293.5"/>
+  <text x="8340" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8340,2819.2)" text-rendering="optimizeSpeed" fill="#000000">commons-compress-api (52071)</text>
+  <rect fill="blue" height="530.1" stroke="black" width="12" x="8355" y="2284.1"/>
+  <text x="8355" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8355,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gitlab-plugin (53010)</text>
+  <rect fill="blue" height="545.9" stroke="black" width="12" x="8370" y="2268.3"/>
+  <text x="8370" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8370,2819.2)" text-rendering="optimizeSpeed" fill="#000000">envinject-api (54592)</text>
+  <rect fill="blue" height="550.0" stroke="black" width="12" x="8385" y="2264.2"/>
+  <text x="8385" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8385,2819.2)" text-rendering="optimizeSpeed" fill="#000000">conditional-buildstep (55000)</text>
+  <rect fill="blue" height="556.0" stroke="black" width="12" x="8400" y="2258.2"/>
+  <text x="8400" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8400,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jquery-detached (55600)</text>
+  <rect fill="blue" height="566.8" stroke="black" width="12" x="8415" y="2247.5"/>
+  <text x="8415" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8415,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean (56676)</text>
+  <rect fill="blue" height="584.2" stroke="black" width="12" x="8430" y="2230.1"/>
+  <text x="8430" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8430,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-parameter (58419)</text>
+  <rect fill="blue" height="587.0" stroke="black" width="12" x="8445" y="2227.2"/>
+  <text x="8445" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8445,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-events (58700)</text>
+  <rect fill="blue" height="591.4" stroke="black" width="12" x="8460" y="2222.9"/>
+  <text x="8460" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8460,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-bitbucket-pipeline (59138)</text>
+  <rect fill="blue" height="592.5" stroke="black" width="12" x="8475" y="2221.7"/>
+  <text x="8475" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8475,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-pipeline-editor (59251)</text>
+  <rect fill="blue" height="595.4" stroke="black" width="12" x="8490" y="2218.9"/>
+  <text x="8490" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8490,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-config (59538)</text>
+  <rect fill="blue" height="596.5" stroke="black" width="12" x="8505" y="2217.8"/>
+  <text x="8505" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8505,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-personalization (59647)</text>
+  <rect fill="blue" height="597.9" stroke="black" width="12" x="8520" y="2216.3"/>
+  <text x="8520" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8520,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-display-url (59794)</text>
+  <rect fill="blue" height="598.8" stroke="black" width="12" x="8535" y="2215.4"/>
+  <text x="8535" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8535,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-i18n (59884)</text>
+  <rect fill="blue" height="600.6" stroke="black" width="12" x="8550" y="2213.6"/>
+  <text x="8550" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8550,2819.2)" text-rendering="optimizeSpeed" fill="#000000">run-condition (60063)</text>
+  <rect fill="blue" height="601.2" stroke="black" width="12" x="8565" y="2213.1"/>
+  <text x="8565" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8565,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bootstrap4-api (60116)</text>
+  <rect fill="blue" height="609.1" stroke="black" width="12" x="8580" y="2205.1"/>
+  <text x="8580" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8580,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-github-pipeline (60910)</text>
+  <rect fill="blue" height="610.3" stroke="black" width="12" x="8595" y="2204.0"/>
+  <text x="8595" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8595,2819.2)" text-rendering="optimizeSpeed" fill="#000000">windows-slaves (61028)</text>
+  <rect fill="blue" height="610.4" stroke="black" width="12" x="8610" y="2203.8"/>
+  <text x="8610" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8610,2819.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over-ssh (61041)</text>
+  <rect fill="blue" height="616.1" stroke="black" width="12" x="8625" y="2198.2"/>
+  <text x="8625" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8625,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-dashboard (61606)</text>
+  <rect fill="blue" height="617.5" stroke="black" width="12" x="8640" y="2196.7"/>
+  <text x="8640" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8640,2819.2)" text-rendering="optimizeSpeed" fill="#000000">localization-zh-cn (61752)</text>
+  <rect fill="blue" height="618.2" stroke="black" width="12" x="8655" y="2196.0"/>
+  <text x="8655" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8655,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-utility-steps (61823)</text>
+  <rect fill="blue" height="618.8" stroke="black" width="12" x="8670" y="2195.4"/>
+  <text x="8670" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8670,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-git-pipeline (61884)</text>
+  <rect fill="blue" height="625.7" stroke="black" width="12" x="8685" y="2188.6"/>
+  <text x="8685" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8685,2819.2)" text-rendering="optimizeSpeed" fill="#000000">apache-httpcomponents-client-5-api (62569)</text>
+  <rect fill="blue" height="627.5" stroke="black" width="12" x="8700" y="2186.8"/>
+  <text x="8700" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8700,2819.2)" text-rendering="optimizeSpeed" fill="#000000">localization-support (62747)</text>
+  <rect fill="blue" height="634.5" stroke="black" width="12" x="8715" y="2179.8"/>
+  <text x="8715" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8715,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh-agent (63449)</text>
+  <rect fill="blue" height="636.7" stroke="black" width="12" x="8730" y="2177.6"/>
+  <text x="8730" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8730,2819.2)" text-rendering="optimizeSpeed" fill="#000000">popper-api (63669)</text>
+  <rect fill="blue" height="645.5" stroke="black" width="12" x="8745" y="2168.7"/>
+  <text x="8745" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8745,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-pipeline-api-impl (64554)</text>
+  <rect fill="blue" height="646.1" stroke="black" width="12" x="8760" y="2168.1"/>
+  <text x="8760" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8760,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sse-gateway (64611)</text>
+  <rect fill="blue" height="652.7" stroke="black" width="12" x="8775" y="2161.6"/>
+  <text x="8775" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8775,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-rest-impl (65266)</text>
+  <rect fill="blue" height="661.0" stroke="black" width="12" x="8790" y="2153.3"/>
+  <text x="8790" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8790,2819.2)" text-rendering="optimizeSpeed" fill="#000000">nodejs (66096)</text>
+  <rect fill="blue" height="662.2" stroke="black" width="12" x="8805" y="2152.1"/>
+  <text x="8805" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8805,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-jwt (66216)</text>
+  <rect fill="blue" height="662.4" stroke="black" width="12" x="8820" y="2151.9"/>
+  <text x="8820" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8820,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-pipeline-scm-api (66237)</text>
+  <rect fill="blue" height="666.6" stroke="black" width="12" x="8835" y="2147.6"/>
+  <text x="8835" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8835,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-web (66659)</text>
+  <rect fill="blue" height="666.8" stroke="black" width="12" x="8850" y="2147.4"/>
+  <text x="8850" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8850,2819.2)" text-rendering="optimizeSpeed" fill="#000000">publish-over (66680)</text>
+  <rect fill="blue" height="669.5" stroke="black" width="12" x="8865" y="2144.8"/>
+  <text x="8865" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8865,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-core-js (66949)</text>
+  <rect fill="blue" height="670.0" stroke="black" width="12" x="8880" y="2144.2"/>
+  <text x="8880" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8880,2819.2)" text-rendering="optimizeSpeed" fill="#000000">data-tables-api (67001)</text>
+  <rect fill="blue" height="671.4" stroke="black" width="12" x="8895" y="2142.9"/>
+  <text x="8895" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8895,2819.2)" text-rendering="optimizeSpeed" fill="#000000">parameterized-trigger (67139)</text>
+  <rect fill="blue" height="691.2" stroke="black" width="12" x="8910" y="2123.0"/>
+  <text x="8910" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8910,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jquery (69122)</text>
+  <rect fill="blue" height="692.0" stroke="black" width="12" x="8925" y="2122.2"/>
+  <text x="8925" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8925,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-rest (69203)</text>
+  <rect fill="blue" height="693.1" stroke="black" width="12" x="8940" y="2121.2"/>
+  <text x="8940" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8940,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jenkins-design-language (69308)</text>
+  <rect fill="blue" height="695.7" stroke="black" width="12" x="8955" y="2118.5"/>
+  <text x="8955" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8955,2819.2)" text-rendering="optimizeSpeed" fill="#000000">blueocean-commons (69570)</text>
+  <rect fill="blue" height="699.4" stroke="black" width="12" x="8970" y="2114.9"/>
+  <text x="8970" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8970,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-bitbucket-branch-source (69935)</text>
+  <rect fill="blue" height="713.3" stroke="black" width="12" x="8985" y="2100.9"/>
+  <text x="8985" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 8985,2819.2)" text-rendering="optimizeSpeed" fill="#000000">external-monitor-job (71329)</text>
+  <rect fill="blue" height="718.3" stroke="black" width="12" x="9000" y="2096.0"/>
+  <text x="9000" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9000,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pubsub-light (71828)</text>
+  <rect fill="blue" height="719.9" stroke="black" width="12" x="9015" y="2094.3"/>
+  <text x="9015" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9015,2819.2)" text-rendering="optimizeSpeed" fill="#000000">favorite (71993)</text>
+  <rect fill="blue" height="722.8" stroke="black" width="12" x="9030" y="2091.5"/>
+  <text x="9030" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9030,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jersey2-api (72276)</text>
+  <rect fill="blue" height="728.1" stroke="black" width="12" x="9045" y="2086.1"/>
+  <text x="9045" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9045,2819.2)" text-rendering="optimizeSpeed" fill="#000000">subversion (72810)</text>
+  <rect fill="blue" height="782.4" stroke="black" width="12" x="9060" y="2031.8"/>
+  <text x="9060" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9060,2819.2)" text-rendering="optimizeSpeed" fill="#000000">popper2-api (78242)</text>
+  <rect fill="blue" height="788.5" stroke="black" width="12" x="9075" y="2025.8"/>
+  <text x="9075" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9075,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mapdb-api (78845)</text>
+  <rect fill="blue" height="790.6" stroke="black" width="12" x="9090" y="2023.6"/>
+  <text x="9090" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9090,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps-global-lib (79063)</text>
+  <rect fill="blue" height="822.4" stroke="black" width="12" x="9105" y="1991.8"/>
+  <text x="9105" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9105,2819.2)" text-rendering="optimizeSpeed" fill="#000000">handy-uri-templates-2-api (82241)</text>
+  <rect fill="blue" height="843.8" stroke="black" width="12" x="9120" y="1970.4"/>
+  <text x="9120" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9120,2819.2)" text-rendering="optimizeSpeed" fill="#000000">handlebars (84381)</text>
+  <rect fill="blue" height="893.6" stroke="black" width="12" x="9135" y="1920.7"/>
+  <text x="9135" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9135,2819.2)" text-rendering="optimizeSpeed" fill="#000000">role-strategy (89357)</text>
+  <rect fill="blue" height="920.9" stroke="black" width="12" x="9150" y="1893.4"/>
+  <text x="9150" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9150,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-graph-view (92088)</text>
+  <rect fill="blue" height="922.0" stroke="black" width="12" x="9165" y="1892.2"/>
+  <text x="9165" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9165,2819.2)" text-rendering="optimizeSpeed" fill="#000000">lockable-resources (92201)</text>
+  <rect fill="blue" height="934.5" stroke="black" width="12" x="9180" y="1879.8"/>
+  <text x="9180" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9180,2819.2)" text-rendering="optimizeSpeed" fill="#000000">momentjs (93449)</text>
+  <rect fill="blue" height="939.2" stroke="black" width="12" x="9195" y="1875.1"/>
+  <text x="9195" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9195,2819.2)" text-rendering="optimizeSpeed" fill="#000000">htmlpublisher (93918)</text>
+  <rect fill="blue" height="1004.8" stroke="black" width="12" x="9210" y="1809.5"/>
+  <text x="9210" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9210,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ace-editor (100477)</text>
+  <rect fill="blue" height="1020.9" stroke="black" width="12" x="9225" y="1793.4"/>
+  <text x="9225" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9225,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-workflow (102085)</text>
+  <rect fill="blue" height="1045.3" stroke="black" width="12" x="9240" y="1768.9"/>
+  <text x="9240" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9240,2819.2)" text-rendering="optimizeSpeed" fill="#000000">dark-theme (104532)</text>
+  <rect fill="blue" height="1067.7" stroke="black" width="12" x="9255" y="1746.5"/>
+  <text x="9255" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9255,2819.2)" text-rendering="optimizeSpeed" fill="#000000">config-file-provider (106774)</text>
+  <rect fill="blue" height="1087.1" stroke="black" width="12" x="9270" y="1727.2"/>
+  <text x="9270" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9270,2819.2)" text-rendering="optimizeSpeed" fill="#000000">theme-manager (108706)</text>
+  <rect fill="blue" height="1102.8" stroke="black" width="12" x="9285" y="1711.4"/>
+  <text x="9285" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9285,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-server (110281)</text>
+  <rect fill="blue" height="1161.3" stroke="black" width="12" x="9300" y="1653.0"/>
+  <text x="9300" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9300,2819.2)" text-rendering="optimizeSpeed" fill="#000000">docker-commons (116128)</text>
+  <rect fill="blue" height="1173.7" stroke="black" width="12" x="9315" y="1640.5"/>
+  <text x="9315" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9315,2819.2)" text-rendering="optimizeSpeed" fill="#000000">maven-plugin (117373)</text>
+  <rect fill="blue" height="1286.6" stroke="black" width="12" x="9330" y="1527.6"/>
+  <text x="9330" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9330,2819.2)" text-rendering="optimizeSpeed" fill="#000000">javadoc (128664)</text>
+  <rect fill="blue" height="1365.6" stroke="black" width="12" x="9345" y="1448.7"/>
+  <text x="9345" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9345,2819.2)" text-rendering="optimizeSpeed" fill="#000000">metrics (136557)</text>
+  <rect fill="blue" height="1485.6" stroke="black" width="12" x="9360" y="1328.7"/>
+  <text x="9360" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9360,2819.2)" text-rendering="optimizeSpeed" fill="#000000">authentication-tokens (148559)</text>
+  <rect fill="blue" height="1664.7" stroke="black" width="12" x="9375" y="1149.5"/>
+  <text x="9375" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9375,2819.2)" text-rendering="optimizeSpeed" fill="#000000">eddsa-api (166474)</text>
+  <rect fill="blue" height="1781.6" stroke="black" width="12" x="9390" y="1032.6"/>
+  <text x="9390" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9390,2819.2)" text-rendering="optimizeSpeed" fill="#000000">asm-api (178164)</text>
+  <rect fill="blue" height="1799.8" stroke="black" width="12" x="9405" y="1014.4"/>
+  <text x="9405" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9405,2819.2)" text-rendering="optimizeSpeed" fill="#000000">joda-time-api (179981)</text>
+  <rect fill="blue" height="1817.4" stroke="black" width="12" x="9420" y="996.8"/>
+  <text x="9420" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9420,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-stage-view (181739)</text>
+  <rect fill="blue" height="1845.3" stroke="black" width="12" x="9435" y="968.9"/>
+  <text x="9435" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9435,2819.2)" text-rendering="optimizeSpeed" fill="#000000">json-api (184534)</text>
+  <rect fill="blue" height="1852.9" stroke="black" width="12" x="9450" y="961.4"/>
+  <text x="9450" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9450,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jsch (185288)</text>
+  <rect fill="blue" height="1853.4" stroke="black" width="12" x="9465" y="960.8"/>
+  <text x="9465" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9465,2819.2)" text-rendering="optimizeSpeed" fill="#000000">json-path-api (185343)</text>
+  <rect fill="blue" height="1861.9" stroke="black" width="12" x="9480" y="952.3"/>
+  <text x="9480" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9480,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-rest-api (186194)</text>
+  <rect fill="blue" height="1873.8" stroke="black" width="12" x="9495" y="940.5"/>
+  <text x="9495" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9495,2819.2)" text-rendering="optimizeSpeed" fill="#000000">sshd (187375)</text>
+  <rect fill="blue" height="1898.5" stroke="black" width="12" x="9510" y="915.8"/>
+  <text x="9510" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9510,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jdk-tool (189846)</text>
+  <rect fill="blue" height="1899.8" stroke="black" width="12" x="9525" y="914.4"/>
+  <text x="9525" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9525,2819.2)" text-rendering="optimizeSpeed" fill="#000000">command-launcher (189984)</text>
+  <rect fill="blue" height="1910.5" stroke="black" width="12" x="9540" y="903.7"/>
+  <text x="9540" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9540,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gson-api (191053)</text>
+  <rect fill="blue" height="2018.5" stroke="black" width="12" x="9555" y="795.8"/>
+  <text x="9555" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9555,2819.2)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (201846)</text>
+  <rect fill="blue" height="2087.6" stroke="black" width="12" x="9570" y="726.6"/>
+  <text x="9570" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9570,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-github-lib (208760)</text>
+  <rect fill="blue" height="2175.2" stroke="black" width="12" x="9585" y="639.0"/>
+  <text x="9585" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9585,2819.2)" text-rendering="optimizeSpeed" fill="#000000">gradle (217525)</text>
+  <rect fill="blue" height="2184.9" stroke="black" width="12" x="9600" y="629.3"/>
+  <text x="9600" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9600,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jjwt-api (218491)</text>
+  <rect fill="blue" height="2216.1" stroke="black" width="12" x="9615" y="598.1"/>
+  <text x="9615" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9615,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-groovy-lib (221614)</text>
+  <rect fill="blue" height="2223.1" stroke="black" width="12" x="9630" y="591.1"/>
+  <text x="9630" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9630,2819.2)" text-rendering="optimizeSpeed" fill="#000000">commons-text-api (222314)</text>
+  <rect fill="blue" height="2236.8" stroke="black" width="12" x="9645" y="577.4"/>
+  <text x="9645" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9645,2819.2)" text-rendering="optimizeSpeed" fill="#000000">instance-identity (223684)</text>
+  <rect fill="blue" height="2255.0" stroke="black" width="12" x="9660" y="559.3"/>
+  <text x="9660" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9660,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ionicons-api (225497)</text>
+  <rect fill="blue" height="2264.9" stroke="black" width="12" x="9675" y="549.3"/>
+  <text x="9675" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9675,2819.2)" text-rendering="optimizeSpeed" fill="#000000">commons-lang3-api (226490)</text>
+  <rect fill="blue" height="2270.6" stroke="black" width="12" x="9690" y="543.7"/>
+  <text x="9690" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9690,2819.2)" text-rendering="optimizeSpeed" fill="#000000">build-timeout (227056)</text>
+  <rect fill="blue" height="2288.1" stroke="black" width="12" x="9705" y="526.1"/>
+  <text x="9705" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9705,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mina-sshd-api-core (228814)</text>
+  <rect fill="blue" height="2292.6" stroke="black" width="12" x="9720" y="521.7"/>
+  <text x="9720" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9720,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ant (229258)</text>
+  <rect fill="blue" height="2301.8" stroke="black" width="12" x="9735" y="512.4"/>
+  <text x="9735" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9735,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jakarta-mail-api (230184)</text>
+  <rect fill="blue" height="2302.3" stroke="black" width="12" x="9750" y="511.9"/>
+  <text x="9750" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9750,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jakarta-activation-api (230231)</text>
+  <rect fill="blue" height="2305.4" stroke="black" width="12" x="9765" y="508.8"/>
+  <text x="9765" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9765,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mina-sshd-api-common (230545)</text>
+  <rect fill="blue" height="2317.4" stroke="black" width="12" x="9780" y="496.8"/>
+  <text x="9780" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9780,2819.2)" text-rendering="optimizeSpeed" fill="#000000">email-ext (231744)</text>
+  <rect fill="blue" height="2323.5" stroke="black" width="12" x="9795" y="490.8"/>
+  <text x="9795" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9795,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-branch-source (232348)</text>
+  <rect fill="blue" height="2336.8" stroke="black" width="12" x="9810" y="477.5"/>
+  <text x="9810" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9810,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pam-auth (233677)</text>
+  <rect fill="blue" height="2367.8" stroke="black" width="12" x="9825" y="446.4"/>
+  <text x="9825" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9825,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ldap (236783)</text>
+  <rect fill="blue" height="2371.5" stroke="black" width="12" x="9840" y="442.8"/>
+  <text x="9840" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9840,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github (237149)</text>
+  <rect fill="blue" height="2386.3" stroke="black" width="12" x="9855" y="427.9"/>
+  <text x="9855" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9855,2819.2)" text-rendering="optimizeSpeed" fill="#000000">okhttp-api (238633)</text>
+  <rect fill="blue" height="2387.8" stroke="black" width="12" x="9870" y="426.4"/>
+  <text x="9870" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9870,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ws-cleanup (238783)</text>
+  <rect fill="blue" height="2398.3" stroke="black" width="12" x="9885" y="416.0"/>
+  <text x="9885" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9885,2819.2)" text-rendering="optimizeSpeed" fill="#000000">timestamper (239826)</text>
+  <rect fill="blue" height="2408.7" stroke="black" width="12" x="9900" y="405.6"/>
+  <text x="9900" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9900,2819.2)" text-rendering="optimizeSpeed" fill="#000000">github-api (240865)</text>
+  <rect fill="blue" height="2420.7" stroke="black" width="12" x="9915" y="393.6"/>
+  <text x="9915" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9915,2819.2)" text-rendering="optimizeSpeed" fill="#000000">resource-disposer (242069)</text>
+  <rect fill="blue" height="2443.3" stroke="black" width="12" x="9930" y="370.9"/>
+  <text x="9930" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9930,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bootstrap5-api (244333)</text>
+  <rect fill="blue" height="2443.4" stroke="black" width="12" x="9945" y="370.8"/>
+  <text x="9945" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9945,2819.2)" text-rendering="optimizeSpeed" fill="#000000">javax-activation-api (244342)</text>
+  <rect fill="blue" height="2444.2" stroke="black" width="12" x="9960" y="370.0"/>
+  <text x="9960" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9960,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh-slaves (244425)</text>
+  <rect fill="blue" height="2454.2" stroke="black" width="12" x="9975" y="360.0"/>
+  <text x="9975" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9975,2819.2)" text-rendering="optimizeSpeed" fill="#000000">variant (245425)</text>
+  <rect fill="blue" height="2457.6" stroke="black" width="12" x="9990" y="356.7"/>
+  <text x="9990" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 9990,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jaxb (245755)</text>
+  <rect fill="blue" height="2496.5" stroke="black" width="12" x="10005" y="317.7"/>
+  <text x="10005" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10005,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-aggregator (249653)</text>
+  <rect fill="blue" height="2512.1" stroke="black" width="12" x="10020" y="302.1"/>
+  <text x="10020" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10020,2819.2)" text-rendering="optimizeSpeed" fill="#000000">checks-api (251213)</text>
+  <rect fill="blue" height="2523.9" stroke="black" width="12" x="10035" y="290.3"/>
+  <text x="10035" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10035,2819.2)" text-rendering="optimizeSpeed" fill="#000000">caffeine-api (252390)</text>
+  <rect fill="blue" height="2526.3" stroke="black" width="12" x="10050" y="287.9"/>
+  <text x="10050" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10050,2819.2)" text-rendering="optimizeSpeed" fill="#000000">echarts-api (252632)</text>
+  <rect fill="blue" height="2532.8" stroke="black" width="12" x="10065" y="281.4"/>
+  <text x="10065" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10065,2819.2)" text-rendering="optimizeSpeed" fill="#000000">matrix-auth (253282)</text>
+  <rect fill="blue" height="2535.2" stroke="black" width="12" x="10080" y="279.0"/>
+  <text x="10080" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10080,2819.2)" text-rendering="optimizeSpeed" fill="#000000">font-awesome-api (253520)</text>
+  <rect fill="blue" height="2540.4" stroke="black" width="12" x="10095" y="273.8"/>
+  <text x="10095" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10095,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-graph-analysis (254041)</text>
+  <rect fill="blue" height="2542.5" stroke="black" width="12" x="10110" y="271.7"/>
+  <text x="10110" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10110,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jquery3-api (254250)</text>
+  <rect fill="blue" height="2545.4" stroke="black" width="12" x="10125" y="268.9"/>
+  <text x="10125" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10125,2819.2)" text-rendering="optimizeSpeed" fill="#000000">plugin-util-api (254537)</text>
+  <rect fill="blue" height="2565.8" stroke="black" width="12" x="10140" y="248.4"/>
+  <text x="10140" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10140,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-model-definition (256579)</text>
+  <rect fill="blue" height="2583.8" stroke="black" width="12" x="10155" y="230.4"/>
+  <text x="10155" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10155,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-milestone-step (258380)</text>
+  <rect fill="blue" height="2584.6" stroke="black" width="12" x="10170" y="229.7"/>
+  <text x="10170" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10170,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-model-extensions (258456)</text>
+  <rect fill="blue" height="2590.8" stroke="black" width="12" x="10185" y="223.4"/>
+  <text x="10185" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10185,2819.2)" text-rendering="optimizeSpeed" fill="#000000">snakeyaml-api (259085)</text>
+  <rect fill="blue" height="2597.7" stroke="black" width="12" x="10200" y="216.6"/>
+  <text x="10200" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10200,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-build-step (259769)</text>
+  <rect fill="blue" height="2601.6" stroke="black" width="12" x="10215" y="212.6"/>
+  <text x="10215" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10215,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-model-api (260163)</text>
+  <rect fill="blue" height="2602.8" stroke="black" width="12" x="10230" y="211.5"/>
+  <text x="10230" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10230,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-stage-tags-metadata (260276)</text>
+  <rect fill="blue" height="2612.4" stroke="black" width="12" x="10245" y="201.8"/>
+  <text x="10245" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10245,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-multibranch (261245)</text>
+  <rect fill="blue" height="2614.0" stroke="black" width="12" x="10260" y="200.2"/>
+  <text x="10260" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10260,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-input-step (261404)</text>
+  <rect fill="blue" height="2620.3" stroke="black" width="12" x="10275" y="193.9"/>
+  <text x="10275" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10275,2819.2)" text-rendering="optimizeSpeed" fill="#000000">pipeline-stage-step (262033)</text>
+  <rect fill="blue" height="2623.0" stroke="black" width="12" x="10290" y="191.3"/>
+  <text x="10290" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10290,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-basic-steps (262297)</text>
+  <rect fill="blue" height="2634.6" stroke="black" width="12" x="10305" y="179.7"/>
+  <text x="10305" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10305,2819.2)" text-rendering="optimizeSpeed" fill="#000000">trilead-api (263455)</text>
+  <rect fill="blue" height="2635.6" stroke="black" width="12" x="10320" y="178.6"/>
+  <text x="10320" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10320,2819.2)" text-rendering="optimizeSpeed" fill="#000000">branch-api (263562)</text>
+  <rect fill="blue" height="2636.9" stroke="black" width="12" x="10335" y="177.4"/>
+  <text x="10335" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10335,2819.2)" text-rendering="optimizeSpeed" fill="#000000">antisamy-markup-formatter (263688)</text>
+  <rect fill="blue" height="2641.4" stroke="black" width="12" x="10350" y="172.8"/>
+  <text x="10350" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10350,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-durable-task-step (264144)</text>
+  <rect fill="blue" height="2650.8" stroke="black" width="12" x="10365" y="163.4"/>
+  <text x="10365" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10365,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-cps (265079)</text>
+  <rect fill="blue" height="2660.2" stroke="black" width="12" x="10380" y="154.1"/>
+  <text x="10380" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10380,2819.2)" text-rendering="optimizeSpeed" fill="#000000">durable-task (266015)</text>
+  <rect fill="blue" height="2669.8" stroke="black" width="12" x="10395" y="144.5"/>
+  <text x="10395" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10395,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-job (266978)</text>
+  <rect fill="blue" height="2670.3" stroke="black" width="12" x="10410" y="143.9"/>
+  <text x="10410" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10410,2819.2)" text-rendering="optimizeSpeed" fill="#000000">token-macro (267029)</text>
+  <rect fill="blue" height="2676.0" stroke="black" width="12" x="10425" y="138.2"/>
+  <text x="10425" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10425,2819.2)" text-rendering="optimizeSpeed" fill="#000000">cloudbees-folder (267603)</text>
+  <rect fill="blue" height="2676.1" stroke="black" width="12" x="10440" y="138.1"/>
+  <text x="10440" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10440,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git (267611)</text>
+  <rect fill="blue" height="2681.6" stroke="black" width="12" x="10455" y="132.7"/>
+  <text x="10455" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10455,2819.2)" text-rendering="optimizeSpeed" fill="#000000">matrix-project (268158)</text>
+  <rect fill="blue" height="2692.8" stroke="black" width="12" x="10470" y="121.4"/>
+  <text x="10470" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10470,2819.2)" text-rendering="optimizeSpeed" fill="#000000">credentials-binding (269283)</text>
+  <rect fill="blue" height="2697.0" stroke="black" width="12" x="10485" y="117.3"/>
+  <text x="10485" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10485,2819.2)" text-rendering="optimizeSpeed" fill="#000000">git-client (269698)</text>
+  <rect fill="blue" height="2705.8" stroke="black" width="12" x="10500" y="108.4"/>
+  <text x="10500" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10500,2819.2)" text-rendering="optimizeSpeed" fill="#000000">junit (270584)</text>
+  <rect fill="blue" height="2709.2" stroke="black" width="12" x="10515" y="105.1"/>
+  <text x="10515" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10515,2819.2)" text-rendering="optimizeSpeed" fill="#000000">plain-credentials (270915)</text>
+  <rect fill="blue" height="2714.9" stroke="black" width="12" x="10530" y="99.4"/>
+  <text x="10530" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10530,2819.2)" text-rendering="optimizeSpeed" fill="#000000">jackson2-api (271487)</text>
+  <rect fill="blue" height="2724.3" stroke="black" width="12" x="10545" y="90.0"/>
+  <text x="10545" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10545,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-support (272428)</text>
+  <rect fill="blue" height="2729.4" stroke="black" width="12" x="10560" y="84.8"/>
+  <text x="10560" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10560,2819.2)" text-rendering="optimizeSpeed" fill="#000000">apache-httpcomponents-client-4-api (272942)</text>
+  <rect fill="blue" height="2731.6" stroke="black" width="12" x="10575" y="82.7"/>
+  <text x="10575" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10575,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-scm-step (273157)</text>
+  <rect fill="blue" height="2737.4" stroke="black" width="12" x="10590" y="76.8"/>
+  <text x="10590" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10590,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-api (273745)</text>
+  <rect fill="blue" height="2746.7" stroke="black" width="12" x="10605" y="67.5"/>
+  <text x="10605" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10605,2819.2)" text-rendering="optimizeSpeed" fill="#000000">ssh-credentials (274670)</text>
+  <rect fill="blue" height="2751.6" stroke="black" width="12" x="10620" y="62.6"/>
+  <text x="10620" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10620,2819.2)" text-rendering="optimizeSpeed" fill="#000000">display-url-api (275160)</text>
+  <rect fill="blue" height="2751.7" stroke="black" width="12" x="10635" y="62.5"/>
+  <text x="10635" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10635,2819.2)" text-rendering="optimizeSpeed" fill="#000000">credentials (275172)</text>
+  <rect fill="blue" height="2751.8" stroke="black" width="12" x="10650" y="62.4"/>
+  <text x="10650" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10650,2819.2)" text-rendering="optimizeSpeed" fill="#000000">bouncycastle-api (275180)</text>
+  <rect fill="blue" height="2755.2" stroke="black" width="12" x="10665" y="59.1"/>
+  <text x="10665" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10665,2819.2)" text-rendering="optimizeSpeed" fill="#000000">mailer (275517)</text>
+  <rect fill="blue" height="2755.8" stroke="black" width="12" x="10680" y="58.5"/>
+  <text x="10680" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10680,2819.2)" text-rendering="optimizeSpeed" fill="#000000">workflow-step-api (275578)</text>
+  <rect fill="blue" height="2756.0" stroke="black" width="12" x="10695" y="58.2"/>
+  <text x="10695" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10695,2819.2)" text-rendering="optimizeSpeed" fill="#000000">scm-api (275604)</text>
+  <rect fill="blue" height="2759.2" stroke="black" width="12" x="10710" y="55.0"/>
+  <text x="10710" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10710,2819.2)" text-rendering="optimizeSpeed" fill="#000000">structs (275922)</text>
+  <rect fill="blue" height="2764.2" stroke="black" width="12" x="10725" y="50.0"/>
+  <text x="10725" y="2819.2" font-family="Tahoma" font-size="12" transform="rotate(90 10725,2819.2)" text-rendering="optimizeSpeed" fill="#000000">script-security (276424)</text>
+  <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Plugin installations (installations &gt; 1000)</text>
+</svg>

@@ -1,0 +1,13 @@
+{
+    "name": "s3-jobcacher-storage",
+    "installations": {
+        "1743465600000": 15,
+        "1746057600000": 14
+    },
+    "installationsPercentage": {
+        "1743465600000": 0.0053539304,
+        "1746057600000": 0.006837206
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

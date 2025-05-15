@@ -1,0 +1,17 @@
+{
+    "name": "aws-java-sdk2-apigateway",
+    "installations": {
+        "1738368000000": 8,
+        "1740787200000": 26,
+        "1743465600000": 29,
+        "1746057600000": 23
+    },
+    "installationsPercentage": {
+        "1738368000000": 0.0029407872,
+        "1740787200000": 0.009251089,
+        "1743465600000": 0.010350932,
+        "1746057600000": 0.011232553
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

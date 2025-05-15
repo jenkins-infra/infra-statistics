@@ -1,0 +1,13 @@
+{
+    "name": "global-pipeline-parameters",
+    "installations": {
+        "1743465600000": 4,
+        "1746057600000": 3
+    },
+    "installationsPercentage": {
+        "1743465600000": 0.0014277148,
+        "1746057600000": 0.0014651156
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

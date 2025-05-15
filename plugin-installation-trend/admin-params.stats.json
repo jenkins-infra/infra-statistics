@@ -1,0 +1,15 @@
+{
+    "name": "admin-params",
+    "installations": {
+        "1740787200000": 1,
+        "1743465600000": 9,
+        "1746057600000": 7
+    },
+    "installationsPercentage": {
+        "1740787200000": 0.00035581112,
+        "1743465600000": 0.0032123583,
+        "1746057600000": 0.003418603
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

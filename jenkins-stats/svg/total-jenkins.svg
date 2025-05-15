@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2915 3557.7">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3020 3557.7">
   <rect fill="blue" height="12.8" stroke="black" width="12" x="15" y="3245.0"/>
   <text x="15" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,3262.7)" text-rendering="optimizeSpeed" fill="#000000">200812 (1278)</text>
   <rect fill="blue" height="47.2" stroke="black" width="12" x="30" y="3210.5"/>
@@ -379,7 +379,21 @@
   <text x="2835" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2835,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202408 (283948)</text>
   <rect fill="blue" height="2770.3" stroke="black" width="12" x="2850" y="487.5"/>
   <text x="2850" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2850,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202409 (277026)</text>
-  <rect fill="blue" height="2773.6" stroke="black" width="12" x="2865" y="484.2"/>
-  <text x="2865" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2865,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202410 (277356)</text>
+  <rect fill="blue" height="2820.4" stroke="black" width="12" x="2865" y="437.3"/>
+  <text x="2865" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2865,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202410 (282045)</text>
+  <rect fill="blue" height="2799.7" stroke="black" width="12" x="2880" y="458.1"/>
+  <text x="2880" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2880,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202411 (279966)</text>
+  <rect fill="blue" height="2662.5" stroke="black" width="12" x="2895" y="595.2"/>
+  <text x="2895" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2895,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202412 (266251)</text>
+  <rect fill="blue" height="2674.8" stroke="black" width="12" x="2910" y="583.0"/>
+  <text x="2910" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2910,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202501 (267475)</text>
+  <rect fill="blue" height="2720.4" stroke="black" width="12" x="2925" y="537.4"/>
+  <text x="2925" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2925,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202502 (272036)</text>
+  <rect fill="blue" height="2810.5" stroke="black" width="12" x="2940" y="447.3"/>
+  <text x="2940" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2940,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202503 (281048)</text>
+  <rect fill="blue" height="2801.7" stroke="black" width="12" x="2955" y="456.1"/>
+  <text x="2955" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2955,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202504 (280168)</text>
+  <rect fill="blue" height="2047.6" stroke="black" width="12" x="2970" y="1210.1"/>
+  <text x="2970" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202505 (204762)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Jenkins installations</text>
 </svg>

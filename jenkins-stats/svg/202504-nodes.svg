@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 1295 60420.1">
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="15" y="60120.0"/>
+  <text x="15" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 15,60125.1)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (PA_RISC2.0W) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="30" y="60120.0"/>
+  <text x="30" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 30,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (s390) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="45" y="60120.0"/>
+  <text x="45" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 45,60125.1)" text-rendering="optimizeSpeed" fill="#000000">NetBSD (i386) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="60" y="60120.0"/>
+  <text x="60" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 60,60125.1)" text-rendering="optimizeSpeed" fill="#000000">OS/400 (ppc) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="75" y="60120.0"/>
+  <text x="75" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 75,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 10 (aarch64) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="90" y="60120.0"/>
+  <text x="90" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 90,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2022 (aarch64) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="105" y="60120.0"/>
+  <text x="105" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 105,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2025 (x86) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="120" y="60120.0"/>
+  <text x="120" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 120,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Vista (x86) (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="135" y="60120.0"/>
+  <text x="135" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 135,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows XP (amd64) (1)</text>
+  <rect fill="blue" height="0.2" stroke="black" width="12" x="150" y="60119.9"/>
+  <text x="150" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 150,60125.1)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (ia64) (2)</text>
+  <rect fill="blue" height="0.2" stroke="black" width="12" x="165" y="60119.9"/>
+  <text x="165" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 165,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (e2k) (2)</text>
+  <rect fill="blue" height="0.2" stroke="black" width="12" x="180" y="60119.9"/>
+  <text x="180" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 180,60125.1)" text-rendering="optimizeSpeed" fill="#000000">NONSTOP_KERNEL (x86_64N) (2)</text>
+  <rect fill="blue" height="0.2" stroke="black" width="12" x="195" y="60119.9"/>
+  <text x="195" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 195,60125.1)" text-rendering="optimizeSpeed" fill="#000000">OpenBSD (aarch64) (2)</text>
+  <rect fill="blue" height="0.3" stroke="black" width="12" x="210" y="60119.8"/>
+  <text x="210" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 210,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Mac OS X (arm64) (3)</text>
+  <rect fill="blue" height="0.3" stroke="black" width="12" x="225" y="60119.8"/>
+  <text x="225" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 225,60125.1)" text-rendering="optimizeSpeed" fill="#000000">NONSTOP_KERNEL (IA64N) (3)</text>
+  <rect fill="blue" height="0.4" stroke="black" width="12" x="240" y="60119.7"/>
+  <text x="240" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 240,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2016 Standard (amd64) (4)</text>
+  <rect fill="blue" height="0.5" stroke="black" width="12" x="255" y="60119.6"/>
+  <text x="255" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 255,60125.1)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (PA_RISC2.0) (5)</text>
+  <rect fill="blue" height="0.5" stroke="black" width="12" x="270" y="60119.6"/>
+  <text x="270" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 270,60125.1)" text-rendering="optimizeSpeed" fill="#000000">NONSTOP_KERNEL (amd64) (5)</text>
+  <rect fill="blue" height="0.5" stroke="black" width="12" x="285" y="60119.6"/>
+  <text x="285" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 285,60125.1)" text-rendering="optimizeSpeed" fill="#000000">NetBSD (amd64) (5)</text>
+  <rect fill="blue" height="0.8" stroke="black" width="12" x="300" y="60119.3"/>
+  <text x="300" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 300,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (ppc) (8)</text>
+  <rect fill="blue" height="0.8" stroke="black" width="12" x="315" y="60119.3"/>
+  <text x="315" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 315,60125.1)" text-rendering="optimizeSpeed" fill="#000000">OS400 (ppc64) (8)</text>
+  <rect fill="blue" height="1.0" stroke="black" width="12" x="330" y="60119.1"/>
+  <text x="330" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 330,60125.1)" text-rendering="optimizeSpeed" fill="#000000">FreeBSD (i386) (10)</text>
+  <rect fill="blue" height="1.0" stroke="black" width="12" x="345" y="60119.1"/>
+  <text x="345" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 345,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 2003 (amd64) (10)</text>
+  <rect fill="blue" height="1.1" stroke="black" width="12" x="360" y="60119.0"/>
+  <text x="360" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 360,60125.1)" text-rendering="optimizeSpeed" fill="#000000">FreeBSD (aarch64) (11)</text>
+  <rect fill="blue" height="1.2" stroke="black" width="12" x="375" y="60118.9"/>
+  <text x="375" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 375,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (x86) (12)</text>
+  <rect fill="blue" height="1.8" stroke="black" width="12" x="390" y="60118.3"/>
+  <text x="390" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 390,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2008 (amd64) (18)</text>
+  <rect fill="blue" height="1.9" stroke="black" width="12" x="405" y="60118.2"/>
+  <text x="405" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 405,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 8 (x86) (19)</text>
+  <rect fill="blue" height="2.3" stroke="black" width="12" x="420" y="60117.8"/>
+  <text x="420" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 420,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server version 2009 (amd64) (23)</text>
+  <rect fill="blue" height="2.4" stroke="black" width="12" x="435" y="60117.7"/>
+  <text x="435" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 435,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (sw64) (24)</text>
+  <rect fill="blue" height="2.5" stroke="black" width="12" x="450" y="60117.6"/>
+  <text x="450" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 450,60125.1)" text-rendering="optimizeSpeed" fill="#000000">SunOS (sparc) (25)</text>
+  <rect fill="blue" height="2.6" stroke="black" width="12" x="465" y="60117.5"/>
+  <text x="465" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 465,60125.1)" text-rendering="optimizeSpeed" fill="#000000">OpenBSD (amd64) (26)</text>
+  <rect fill="blue" height="3.0" stroke="black" width="12" x="480" y="60117.1"/>
+  <text x="480" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 480,60125.1)" text-rendering="optimizeSpeed" fill="#000000">AIX (ppc) (30)</text>
+  <rect fill="blue" height="3.1" stroke="black" width="12" x="495" y="60117.0"/>
+  <text x="495" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 495,60125.1)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (IA64W) (31)</text>
+  <rect fill="blue" height="3.6" stroke="black" width="12" x="510" y="60116.5"/>
+  <text x="510" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 510,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (mips64el) (36)</text>
+  <rect fill="blue" height="3.7" stroke="black" width="12" x="525" y="60116.4"/>
+  <text x="525" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 525,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 11 (aarch64) (37)</text>
+  <rect fill="blue" height="3.8" stroke="black" width="12" x="540" y="60116.3"/>
+  <text x="540" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 540,60125.1)" text-rendering="optimizeSpeed" fill="#000000">WindowsServer2016 (amd64) (38)</text>
+  <rect fill="blue" height="3.9" stroke="black" width="12" x="555" y="60116.2"/>
+  <text x="555" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 555,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 8 (amd64) (39)</text>
+  <rect fill="blue" height="4.3" stroke="black" width="12" x="570" y="60115.8"/>
+  <text x="570" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 570,60125.1)" text-rendering="optimizeSpeed" fill="#000000">SunOS (x86) (43)</text>
+  <rect fill="blue" height="4.3" stroke="black" width="12" x="585" y="60115.8"/>
+  <text x="585" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 585,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2008 (x86) (43)</text>
+  <rect fill="blue" height="5.0" stroke="black" width="12" x="600" y="60115.1"/>
+  <text x="600" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 600,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (ppc64) (50)</text>
+  <rect fill="blue" height="6.8" stroke="black" width="12" x="615" y="60113.3"/>
+  <text x="615" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 615,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 2003 (x86) (68)</text>
+  <rect fill="blue" height="7.6" stroke="black" width="12" x="630" y="60112.5"/>
+  <text x="630" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 630,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows XP (x86) (76)</text>
+  <rect fill="blue" height="10.3" stroke="black" width="12" x="645" y="60109.8"/>
+  <text x="645" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 645,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (loongarch64) (103)</text>
+  <rect fill="blue" height="11.8" stroke="black" width="12" x="660" y="60108.3"/>
+  <text x="660" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 660,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 (x86) (118)</text>
+  <rect fill="blue" height="12.4" stroke="black" width="12" x="675" y="60107.7"/>
+  <text x="675" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 675,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (riscv64) (124)</text>
+  <rect fill="blue" height="13.5" stroke="black" width="12" x="690" y="60106.6"/>
+  <text x="690" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 690,60125.1)" text-rendering="optimizeSpeed" fill="#000000">OS/400 (ppc64) (135)</text>
+  <rect fill="blue" height="15.9" stroke="black" width="12" x="705" y="60104.2"/>
+  <text x="705" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 705,60125.1)" text-rendering="optimizeSpeed" fill="#000000">HP-UX (IA64N) (159)</text>
+  <rect fill="blue" height="17.0" stroke="black" width="12" x="720" y="60103.1"/>
+  <text x="720" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 720,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 8.1 (x86) (170)</text>
+  <rect fill="blue" height="23.3" stroke="black" width="12" x="735" y="60096.8"/>
+  <text x="735" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 735,60125.1)" text-rendering="optimizeSpeed" fill="#000000">SunOS (amd64) (233)</text>
+  <rect fill="blue" height="23.6" stroke="black" width="12" x="750" y="60096.5"/>
+  <text x="750" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 750,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 8.1 (amd64) (236)</text>
+  <rect fill="blue" height="24.8" stroke="black" width="12" x="765" y="60095.3"/>
+  <text x="765" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 765,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2022 (x86) (248)</text>
+  <rect fill="blue" height="28.9" stroke="black" width="12" x="780" y="60091.2"/>
+  <text x="780" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 780,60125.1)" text-rendering="optimizeSpeed" fill="#000000">z/OS (s390x) (289)</text>
+  <rect fill="blue" height="31.1" stroke="black" width="12" x="795" y="60089.0"/>
+  <text x="795" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 795,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (s390x) (311)</text>
+  <rect fill="blue" height="32.0" stroke="black" width="12" x="810" y="60088.1"/>
+  <text x="810" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 810,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 11 (x86) (320)</text>
+  <rect fill="blue" height="32.7" stroke="black" width="12" x="825" y="60087.4"/>
+  <text x="825" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 825,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2025 (amd64) (327)</text>
+  <rect fill="blue" height="35.7" stroke="black" width="12" x="840" y="60084.4"/>
+  <text x="840" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 840,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows NT (unknown) (x86) (357)</text>
+  <rect fill="blue" height="40.5" stroke="black" width="12" x="855" y="60079.6"/>
+  <text x="855" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 855,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2008 R2 (x86) (405)</text>
+  <rect fill="blue" height="42.1" stroke="black" width="12" x="870" y="60078.0"/>
+  <text x="870" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 870,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 (amd64) (421)</text>
+  <rect fill="blue" height="54.9" stroke="black" width="12" x="885" y="60065.2"/>
+  <text x="885" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 885,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (ppc64le) (549)</text>
+  <rect fill="blue" height="57.4" stroke="black" width="12" x="900" y="60062.7"/>
+  <text x="900" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 900,60125.1)" text-rendering="optimizeSpeed" fill="#000000">SunOS (sparcv9) (574)</text>
+  <rect fill="blue" height="59.6" stroke="black" width="12" x="915" y="60060.5"/>
+  <text x="915" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 915,60125.1)" text-rendering="optimizeSpeed" fill="#000000">FreeBSD (amd64) (596)</text>
+  <rect fill="blue" height="73.6" stroke="black" width="12" x="930" y="60046.5"/>
+  <text x="930" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 930,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows NT (unknown) (amd64) (736)</text>
+  <rect fill="blue" height="75.3" stroke="black" width="12" x="945" y="60044.8"/>
+  <text x="945" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 945,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 7 (x86) (753)</text>
+  <rect fill="blue" height="104.9" stroke="black" width="12" x="960" y="60015.2"/>
+  <text x="960" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 960,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 R2 (x86) (1049)</text>
+  <rect fill="blue" height="112.2" stroke="black" width="12" x="975" y="60007.9"/>
+  <text x="975" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 975,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2019 (x86) (1122)</text>
+  <rect fill="blue" height="115.1" stroke="black" width="12" x="990" y="60005.0"/>
+  <text x="990" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 990,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (arm) (1151)</text>
+  <rect fill="blue" height="138.4" stroke="black" width="12" x="1005" y="59981.7"/>
+  <text x="1005" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1005,60125.1)" text-rendering="optimizeSpeed" fill="#000000">AIX (ppc64) (1384)</text>
+  <rect fill="blue" height="145.7" stroke="black" width="12" x="1020" y="59974.4"/>
+  <text x="1020" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1020,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2008 R2 (amd64) (1457)</text>
+  <rect fill="blue" height="183.8" stroke="black" width="12" x="1035" y="59936.3"/>
+  <text x="1035" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1035,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 7 (amd64) (1838)</text>
+  <rect fill="blue" height="206.1" stroke="black" width="12" x="1050" y="59914.0"/>
+  <text x="1050" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1050,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2016 (x86) (2061)</text>
+  <rect fill="blue" height="268.2" stroke="black" width="12" x="1065" y="59851.9"/>
+  <text x="1065" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1065,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (i386) (2682)</text>
+  <rect fill="blue" height="330.1" stroke="black" width="12" x="1080" y="59790.0"/>
+  <text x="1080" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1080,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 10 (x86) (3301)</text>
+  <rect fill="blue" height="577.8" stroke="black" width="12" x="1095" y="59542.3"/>
+  <text x="1095" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1095,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2012 R2 (amd64) (5778)</text>
+  <rect fill="blue" height="1390.7" stroke="black" width="12" x="1110" y="58729.4"/>
+  <text x="1110" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1110,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Mac OS X (x86_64) (13907)</text>
+  <rect fill="blue" height="1470.3" stroke="black" width="12" x="1125" y="58649.8"/>
+  <text x="1125" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1125,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Mac OS X (aarch64) (14703)</text>
+  <rect fill="blue" height="1639.3" stroke="black" width="12" x="1140" y="58480.8"/>
+  <text x="1140" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1140,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (aarch64) (16393)</text>
+  <rect fill="blue" height="2038.9" stroke="black" width="12" x="1155" y="58081.2"/>
+  <text x="1155" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1155,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2022 (amd64) (20389)</text>
+  <rect fill="blue" height="2465.1" stroke="black" width="12" x="1170" y="57655.0"/>
+  <text x="1170" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1170,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2016 (amd64) (24651)</text>
+  <rect fill="blue" height="2874.5" stroke="black" width="12" x="1185" y="57245.6"/>
+  <text x="1185" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1185,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 11 (amd64) (28745)</text>
+  <rect fill="blue" height="3203.2" stroke="black" width="12" x="1200" y="56916.9"/>
+  <text x="1200" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1200,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows Server 2019 (amd64) (32032)</text>
+  <rect fill="blue" height="6015.5" stroke="black" width="12" x="1215" y="54104.6"/>
+  <text x="1215" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1215,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Windows 10 (amd64) (60155)</text>
+  <rect fill="blue" height="35913.8" stroke="black" width="12" x="1230" y="24206.3"/>
+  <text x="1230" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1230,60125.1)" text-rendering="optimizeSpeed" fill="#000000">N/A (359138)</text>
+  <rect fill="blue" height="60070.1" stroke="black" width="12" x="1245" y="50.0"/>
+  <text x="1245" y="60125.1" font-family="Tahoma" font-size="12" transform="rotate(90 1245,60125.1)" text-rendering="optimizeSpeed" fill="#000000">Linux (amd64) (600701)</text>
+  <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Nodes (total: 1200528)</text>
+</svg>

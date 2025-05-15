@@ -853,8 +853,8 @@
   <text x="6390" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 6390,2853.8)" text-rendering="optimizeSpeed" fill="#000000">gradle (219904)</text>
   <rect fill="blue" height="2290.0" stroke="black" width="12" x="6405" y="558.8"/>
   <text x="6405" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 6405,2853.8)" text-rendering="optimizeSpeed" fill="#000000">build-timeout (229003)</text>
-  <rect fill="blue" height="2320.9" stroke="black" width="12" x="6420" y="527.8"/>
-  <text x="6420" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 6420,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232095)</text>
+  <rect fill="blue" height="2320.9" stroke="black" width="12" x="6420" y="527.9"/>
+  <text x="6420" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 6420,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232094)</text>
   <rect fill="blue" height="2327.9" stroke="black" width="12" x="6435" y="520.8"/>
   <text x="6435" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 6435,2853.8)" text-rendering="optimizeSpeed" fill="#000000">okhttp-api (232795)</text>
   <rect fill="blue" height="2336.1" stroke="black" width="12" x="6450" y="512.7"/>

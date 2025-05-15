@@ -1,0 +1,15 @@
+{
+    "name": "cloudaeye",
+    "installations": {
+        "1738368000000": 1,
+        "1743465600000": 1,
+        "1746057600000": 1
+    },
+    "installationsPercentage": {
+        "1738368000000": 0.0003675984,
+        "1743465600000": 0.0003569287,
+        "1746057600000": 0.0004883719
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}
