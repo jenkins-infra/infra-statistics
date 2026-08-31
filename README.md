@@ -2,6 +2,9 @@
 
 [![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Infra/infra-statistics/master)](https://ci.jenkins.io/job/Infra/job/infra-statistics/job/master/)
 
+> [!IMPORTANT]
+> Replaced by https://github.com/jenkins-infra/jenkins-usage-stats
+
 These scripts generate various data from existing census JSON files collected by the jenkins.io infrastructure.
 More specifically:
 
