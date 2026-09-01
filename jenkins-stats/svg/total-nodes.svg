@@ -393,7 +393,7 @@
   <text x="2940" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 2940,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202503 (1217024)</text>
   <rect fill="blue" height="12005.3" stroke="black" width="12" x="2955" y="825.3"/>
   <text x="2955" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 2955,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202504 (1200528)</text>
-  <rect fill="blue" height="9903.1" stroke="black" width="12" x="2970" y="2927.5"/>
-  <text x="2970" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 2970,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202505 (990311)</text>
+  <rect fill="blue" height="9134.8" stroke="black" width="12" x="2970" y="3695.8"/>
+  <text x="2970" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 2970,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202506 (913479)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total nodes</text>
 </svg>

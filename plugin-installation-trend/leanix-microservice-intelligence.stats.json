@@ -52,6 +52,10 @@
         "1706745600000": 0.0003503756,
         "1743465600000": 0.0003569287
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "1.0.13-rc209.455d336ddb_a_e": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.13-rc209.455d336ddb_a_e": 0.0003569287
+    }
 }

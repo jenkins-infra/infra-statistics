@@ -393,7 +393,7 @@
   <text x="2940" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2940,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202503 (83902079)</text>
   <rect fill="blue" height="83886.6" stroke="black" width="12" x="2955" y="3109.8"/>
   <text x="2955" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2955,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202504 (83886617)</text>
-  <rect fill="blue" height="72317.0" stroke="black" width="12" x="2970" y="14679.4"/>
-  <text x="2970" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2970,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202505 (72316959)</text>
+  <rect fill="blue" height="67754.1" stroke="black" width="12" x="2970" y="19242.3"/>
+  <text x="2970" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2970,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202506 (67754095)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total jobs</text>
 </svg>

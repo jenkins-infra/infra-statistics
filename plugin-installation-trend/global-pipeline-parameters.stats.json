@@ -1,13 +1,15 @@
 {
     "name": "global-pipeline-parameters",
     "installations": {
-        "1743465600000": 4,
-        "1746057600000": 3
+        "1743465600000": 4
     },
     "installationsPercentage": {
-        "1743465600000": 0.0014277148,
-        "1746057600000": 0.0014651156
+        "1743465600000": 0.0014277148
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "64.v0422ef148e18": 4
+    },
+    "installationsPercentagePerVersion": {
+        "64.v0422ef148e18": 0.0014277148
+    }
 }

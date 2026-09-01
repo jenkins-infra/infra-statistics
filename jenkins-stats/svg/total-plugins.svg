@@ -370,7 +370,7 @@
   <rect fill="blue" height="32429.3" stroke="black" width="12" x="2775" y="2345.4"/>
   <text x="2775" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2775,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202404 (32429297)</text>
   <rect fill="blue" height="31939.1" stroke="black" width="12" x="2790" y="2835.7"/>
-  <text x="2790" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2790,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202405 (31939073)</text>
+  <text x="2790" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2790,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202405 (31939074)</text>
   <rect fill="blue" height="31890.0" stroke="black" width="12" x="2805" y="2884.7"/>
   <text x="2805" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2805,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202406 (31890048)</text>
   <rect fill="blue" height="32227.9" stroke="black" width="12" x="2820" y="2546.8"/>
@@ -393,7 +393,7 @@
   <text x="2940" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2940,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202503 (32088354)</text>
   <rect fill="blue" height="31958.5" stroke="black" width="12" x="2955" y="2816.2"/>
   <text x="2955" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2955,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202504 (31958517)</text>
-  <rect fill="blue" height="24027.4" stroke="black" width="12" x="2970" y="10747.3"/>
-  <text x="2970" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202505 (24027430)</text>
+  <rect fill="blue" height="21893.3" stroke="black" width="12" x="2970" y="12881.4"/>
+  <text x="2970" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202506 (21893294)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Plugin installations</text>
 </svg>

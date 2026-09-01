@@ -4235,8 +4235,8 @@
   <text x="31755" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 31755,2853.8)" text-rendering="optimizeSpeed" fill="#000000">gradle (219904)</text>
   <rect fill="blue" height="2290.0" stroke="black" width="12" x="31770" y="558.8"/>
   <text x="31770" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 31770,2853.8)" text-rendering="optimizeSpeed" fill="#000000">build-timeout (229003)</text>
-  <rect fill="blue" height="2320.9" stroke="black" width="12" x="31785" y="527.9"/>
-  <text x="31785" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 31785,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232094)</text>
+  <rect fill="blue" height="2320.9" stroke="black" width="12" x="31785" y="527.8"/>
+  <text x="31785" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 31785,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232095)</text>
   <rect fill="blue" height="2327.9" stroke="black" width="12" x="31800" y="520.8"/>
   <text x="31800" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 31800,2853.8)" text-rendering="optimizeSpeed" fill="#000000">okhttp-api (232795)</text>
   <rect fill="blue" height="2336.1" stroke="black" width="12" x="31815" y="512.7"/>
@@ -4371,5 +4371,5 @@
   <text x="32775" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 32775,2853.8)" text-rendering="optimizeSpeed" fill="#000000">structs (279423)</text>
   <rect fill="blue" height="2798.8" stroke="black" width="12" x="32790" y="50.0"/>
   <text x="32790" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 32790,2853.8)" text-rendering="optimizeSpeed" fill="#000000">script-security (279879)</text>
-  <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Plugin installations (total: 31939073)</text>
+  <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Plugin installations (total: 31939074)</text>
 </svg>

@@ -1309,8 +1309,8 @@
   <text x="9810" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 9810,2853.8)" text-rendering="optimizeSpeed" fill="#000000">gradle (219904)</text>
   <rect fill="blue" height="2290.0" stroke="black" width="12" x="9825" y="558.8"/>
   <text x="9825" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 9825,2853.8)" text-rendering="optimizeSpeed" fill="#000000">build-timeout (229003)</text>
-  <rect fill="blue" height="2320.9" stroke="black" width="12" x="9840" y="527.9"/>
-  <text x="9840" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 9840,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232094)</text>
+  <rect fill="blue" height="2320.9" stroke="black" width="12" x="9840" y="527.8"/>
+  <text x="9840" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 9840,2853.8)" text-rendering="optimizeSpeed" fill="#000000">javax-mail-api (232095)</text>
   <rect fill="blue" height="2327.9" stroke="black" width="12" x="9855" y="520.8"/>
   <text x="9855" y="2853.8" font-family="Tahoma" font-size="12" transform="rotate(90 9855,2853.8)" text-rendering="optimizeSpeed" fill="#000000">okhttp-api (232795)</text>
   <rect fill="blue" height="2336.1" stroke="black" width="12" x="9870" y="512.7"/>

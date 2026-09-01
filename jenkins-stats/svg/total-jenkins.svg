@@ -393,7 +393,7 @@
   <text x="2940" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2940,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202503 (281048)</text>
   <rect fill="blue" height="2801.7" stroke="black" width="12" x="2955" y="456.1"/>
   <text x="2955" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2955,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202504 (280168)</text>
-  <rect fill="blue" height="2047.6" stroke="black" width="12" x="2970" y="1210.1"/>
-  <text x="2970" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202505 (204762)</text>
+  <rect fill="blue" height="1855.4" stroke="black" width="12" x="2970" y="1402.3"/>
+  <text x="2970" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202506 (185544)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Jenkins installations</text>
 </svg>
