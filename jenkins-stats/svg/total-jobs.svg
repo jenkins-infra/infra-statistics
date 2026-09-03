@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3020 87296.4">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3035 87296.4">
   <rect fill="blue" height="16.3" stroke="black" width="12" x="15" y="86980.0"/>
   <text x="15" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 15,87001.4)" text-rendering="optimizeSpeed" fill="#000000">200812 (16323)</text>
   <rect fill="blue" height="57.0" stroke="black" width="12" x="30" y="86939.4"/>
@@ -393,7 +393,9 @@
   <text x="2940" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2940,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202503 (83902079)</text>
   <rect fill="blue" height="83886.6" stroke="black" width="12" x="2955" y="3109.8"/>
   <text x="2955" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2955,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202504 (83886617)</text>
-  <rect fill="blue" height="67754.1" stroke="black" width="12" x="2970" y="19242.3"/>
-  <text x="2970" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2970,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202506 (67754095)</text>
+  <rect fill="blue" height="85337.5" stroke="black" width="12" x="2970" y="1658.8"/>
+  <text x="2970" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2970,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202505 (85337545)</text>
+  <rect fill="blue" height="83596.7" stroke="black" width="12" x="2985" y="3399.7"/>
+  <text x="2985" y="87001.4" font-family="Tahoma" font-size="12" transform="rotate(90 2985,87001.4)" text-rendering="optimizeSpeed" fill="#000000">202506 (83596703)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total jobs</text>
 </svg>

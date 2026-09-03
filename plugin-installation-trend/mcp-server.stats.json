@@ -1,0 +1,17 @@
+{
+    "name": "mcp-server",
+    "installations": {
+        "1748736000000": 32
+    },
+    "installationsPercentage": {
+        "1748736000000": 0.011836508
+    },
+    "installationsPerVersion": {
+        "0.16.vc9132432728d": 29,
+        "0.17.v941ed9da_c023": 3
+    },
+    "installationsPercentagePerVersion": {
+        "0.16.vc9132432728d": 0.010726836,
+        "0.17.v941ed9da_c023": 0.0011096726
+    }
+}

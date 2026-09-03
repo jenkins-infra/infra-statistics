@@ -352,10 +352,6 @@
         "1740787200000": 0.00071162224,
         "1743465600000": 0.0007138574
     },
-    "installationsPerVersion": {
-        "1.0.1": 2
-    },
-    "installationsPercentagePerVersion": {
-        "1.0.1": 0.0007138574
-    }
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
 }

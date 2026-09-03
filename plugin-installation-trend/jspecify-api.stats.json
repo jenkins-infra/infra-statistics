@@ -1,0 +1,17 @@
+{
+    "name": "jspecify-api",
+    "installations": {
+        "1746057600000": 2,
+        "1748736000000": 2
+    },
+    "installationsPercentage": {
+        "1746057600000": 0.0007223059,
+        "1748736000000": 0.00073978177
+    },
+    "installationsPerVersion": {
+        "1.0.0-1.ve7231e6d0d15": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.0-1.ve7231e6d0d15": 0.00073978177
+    }
+}

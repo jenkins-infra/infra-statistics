@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3020 35074.7">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3035 35074.7">
   <rect fill="blue" height="7.3" stroke="black" width="12" x="15" y="34767.4"/>
   <text x="15" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,34779.7)" text-rendering="optimizeSpeed" fill="#000000">200812 (7295)</text>
   <rect fill="blue" height="23.9" stroke="black" width="12" x="30" y="34750.8"/>
@@ -393,7 +393,9 @@
   <text x="2940" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2940,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202503 (32088354)</text>
   <rect fill="blue" height="31958.5" stroke="black" width="12" x="2955" y="2816.2"/>
   <text x="2955" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2955,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202504 (31958517)</text>
-  <rect fill="blue" height="21893.3" stroke="black" width="12" x="2970" y="12881.4"/>
-  <text x="2970" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202506 (21893294)</text>
+  <rect fill="blue" height="31674.5" stroke="black" width="12" x="2970" y="3100.2"/>
+  <text x="2970" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2970,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202505 (31674519)</text>
+  <rect fill="blue" height="30914.1" stroke="black" width="12" x="2985" y="3860.7"/>
+  <text x="2985" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2985,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202506 (30914060)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Plugin installations</text>
 </svg>

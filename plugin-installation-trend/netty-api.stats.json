@@ -1,0 +1,17 @@
+{
+    "name": "netty-api",
+    "installations": {
+        "1746057600000": 570,
+        "1748736000000": 3756
+    },
+    "installationsPercentage": {
+        "1746057600000": 0.20585717,
+        "1748736000000": 1.3893101
+    },
+    "installationsPerVersion": {
+        "4.1.118.Final-9.v776038d601a_7": 3756
+    },
+    "installationsPercentagePerVersion": {
+        "4.1.118.Final-9.v776038d601a_7": 1.3893101
+    }
+}

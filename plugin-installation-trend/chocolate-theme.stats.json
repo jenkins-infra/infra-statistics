@@ -1,0 +1,19 @@
+{
+    "name": "chocolate-theme",
+    "installations": {
+        "1746057600000": 85,
+        "1748736000000": 242
+    },
+    "installationsPercentage": {
+        "1746057600000": 0.030698,
+        "1748736000000": 0.08951359
+    },
+    "installationsPerVersion": {
+        "5.v991151b_94113": 103,
+        "6.vd36b_7db_46451": 139
+    },
+    "installationsPercentagePerVersion": {
+        "5.v991151b_94113": 0.03809876,
+        "6.vd36b_7db_46451": 0.051414832
+    }
+}
