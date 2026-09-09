@@ -1,0 +1,15 @@
+{
+    "name": "jobcacher-oras-storage",
+    "installations": {
+        "1751328000000": 2
+    },
+    "installationsPercentage": {
+        "1751328000000": 0.00075162255
+    },
+    "installationsPerVersion": {
+        "42.v4e213df135f7": 2
+    },
+    "installationsPercentagePerVersion": {
+        "42.v4e213df135f7": 0.00075162255
+    }
+}

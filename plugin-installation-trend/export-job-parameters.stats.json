@@ -1,15 +1,17 @@
 {
     "name": "export-job-parameters",
     "installations": {
-        "1748736000000": 2
+        "1748736000000": 2,
+        "1751328000000": 16
     },
     "installationsPercentage": {
-        "1748736000000": 0.00073978177
+        "1748736000000": 0.00073978177,
+        "1751328000000": 0.0060129804
     },
     "installationsPerVersion": {
-        "12.v2e0754d7870c": 2
+        "12.v2e0754d7870c": 16
     },
     "installationsPercentagePerVersion": {
-        "12.v2e0754d7870c": 0.00073978177
+        "12.v2e0754d7870c": 0.0060129804
     }
 }

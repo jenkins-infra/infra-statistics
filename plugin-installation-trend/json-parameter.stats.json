@@ -1,0 +1,17 @@
+{
+    "name": "json-parameter",
+    "installations": {
+        "1751328000000": 2
+    },
+    "installationsPercentage": {
+        "1751328000000": 0.00075162255
+    },
+    "installationsPerVersion": {
+        "22.v78a_1c06a_7179": 1,
+        "26.vc0a_6039f8925": 1
+    },
+    "installationsPercentagePerVersion": {
+        "22.v78a_1c06a_7179": 0.00037581127,
+        "26.vc0a_6039f8925": 0.00037581127
+    }
+}

@@ -1,15 +1,19 @@
 {
     "name": "pipeline-cps-oras",
     "installations": {
-        "1748736000000": 6
+        "1748736000000": 6,
+        "1751328000000": 8
     },
     "installationsPercentage": {
-        "1748736000000": 0.0022193452
+        "1748736000000": 0.0022193452,
+        "1751328000000": 0.0030064902
     },
     "installationsPerVersion": {
-        "8.v5d229eb_a_22c5": 6
+        "26.v2fc834c2e7a_9": 5,
+        "8.v5d229eb_a_22c5": 3
     },
     "installationsPercentagePerVersion": {
-        "8.v5d229eb_a_22c5": 0.0022193452
+        "26.v2fc834c2e7a_9": 0.0018790564,
+        "8.v5d229eb_a_22c5": 0.0011274338
     }
 }
