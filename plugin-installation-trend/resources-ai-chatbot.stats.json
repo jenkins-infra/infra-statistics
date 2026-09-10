@@ -1,0 +1,17 @@
+{
+    "name": "resources-ai-chatbot",
+    "installations": {
+        "1754006400000": 2
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.00073860155
+    },
+    "installationsPerVersion": {
+        "1.0-rc236.5442b_6ea_e4c4": 1,
+        "340.v756b_e3731704": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0-rc236.5442b_6ea_e4c4": 0.00036930077,
+        "340.v756b_e3731704": 0.00036930077
+    }
+}

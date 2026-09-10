@@ -1,15 +1,19 @@
 {
     "name": "kubernetes-ephemeral-container",
     "installations": {
-        "1751328000000": 5
+        "1751328000000": 5,
+        "1754006400000": 55
     },
     "installationsPercentage": {
-        "1751328000000": 0.0018790564
+        "1751328000000": 0.0018790564,
+        "1754006400000": 0.020311542
     },
     "installationsPerVersion": {
-        "22.v50de9446065d": 5
+        "22.v50de9446065d": 9,
+        "28.vc9eb_a_db_2b_2a_6": 46
     },
     "installationsPercentagePerVersion": {
-        "22.v50de9446065d": 0.0018790564
+        "22.v50de9446065d": 0.0033237068,
+        "28.vc9eb_a_db_2b_2a_6": 0.016987836
     }
 }

@@ -1,0 +1,15 @@
+{
+    "name": "buildkite",
+    "installations": {
+        "1754006400000": 2
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.00073860155
+    },
+    "installationsPerVersion": {
+        "1.22.v11fef623d49e": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.22.v11fef623d49e": 0.00073860155
+    }
+}

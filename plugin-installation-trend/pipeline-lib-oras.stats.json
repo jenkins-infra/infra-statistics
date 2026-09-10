@@ -1,0 +1,15 @@
+{
+    "name": "pipeline-lib-oras",
+    "installations": {
+        "1754006400000": 2
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.00073860155
+    },
+    "installationsPerVersion": {
+        "23.v4d7c8d889a_86": 2
+    },
+    "installationsPercentagePerVersion": {
+        "23.v4d7c8d889a_86": 0.00073860155
+    }
+}

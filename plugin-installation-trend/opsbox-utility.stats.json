@@ -1,0 +1,15 @@
+{
+    "name": "opsbox-utility",
+    "installations": {
+        "1754006400000": 4
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.0014772031
+    },
+    "installationsPerVersion": {
+        "1.0.0.25.v403b_2c237e6a_": 4
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.0.25.v403b_2c237e6a_": 0.0014772031
+    }
+}

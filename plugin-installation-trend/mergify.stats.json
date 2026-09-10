@@ -1,0 +1,17 @@
+{
+    "name": "mergify",
+    "installations": {
+        "1754006400000": 2
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.00073860155
+    },
+    "installationsPerVersion": {
+        "1.2.2": 1,
+        "1.88.v1de8b_0b_9e0a_f": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.2.2": 0.00036930077,
+        "1.88.v1de8b_0b_9e0a_f": 0.00036930077
+    }
+}

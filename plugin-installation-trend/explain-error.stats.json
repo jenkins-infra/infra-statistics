@@ -1,0 +1,19 @@
+{
+    "name": "explain-error",
+    "installations": {
+        "1754006400000": 23
+    },
+    "installationsPercentage": {
+        "1754006400000": 0.008493918
+    },
+    "installationsPerVersion": {
+        "64.vd8b_0ccc843f8": 1,
+        "70.v508f5b_f64a_a_9": 11,
+        "76.v1e161791ea_77": 11
+    },
+    "installationsPercentagePerVersion": {
+        "64.vd8b_0ccc843f8": 0.00036930077,
+        "70.v508f5b_f64a_a_9": 0.0040623085,
+        "76.v1e161791ea_77": 0.0040623085
+    }
+}
