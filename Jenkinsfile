@@ -5,26 +5,39 @@
 
 final String jenkinsUsageStatsCli = '/opt/jenkins-usage-stats/build/jenkins-usage-stats'
 
-if (infra.isTrusted() && env.BRANCH_IS_PRIMARY) {
+if (infra.isTrustedCiController()) {
     node('census') {
         withEnv(["JENKINS_USAGE_STATS_CLI=${jenkinsUsageStatsCli}"]) {
-            checkout scm
+            stage('Prepare') {
+                checkout scm
+                // Sanity checks
+                sh '''
+                rsync --version
+                "${JENKINS_USAGE_STATS_CLI}" --help
+                '''
 
-            // Sanity checks
-            sh '''
-            rsync --version
-            "${JENKINS_USAGE_STATS_CLI}" --help
-            '''
+                // Determine which month/year need to be processed (current on the weekly cron execution or from parameter for manual builds?)
+            }
 
-            // Determine which month/year need to be processed (current on the weekly cron execution or from parameter for manual builds?)
+            stage('Import from usage') {
+                // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
+                echo "TBD"
+            }
 
-            // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
+            stage('Import to database') {
+                // Import log files from local census.jenkins.io disk into the local PostgreSQL database
+                echo "TBD"
+            }
 
-            // Import log files from local census.jenkins.io disk into the local PostgreSQL database
+            stage('Report from database') {
+                // Generate CSV reports from the local PostgreSQL database to local disk
+                echo "TBD"
+            }
 
-            // Generate CSV reports from the local PostgreSQL database to local disk
-
-            // Publish CSV reports from local disk to GitHub repository
+            stage('Publish breport to GitHub') {
+                // Publish CSV reports from local disk to GitHub repository
+                echo "TBD"
+            }
 
         }
     }
