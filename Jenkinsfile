@@ -4,6 +4,8 @@
 **/
 
 final String jenkinsUsageStatsCli = '/opt/jenkins-usage-stats/build/jenkins-usage-stats'
+String reportYear
+String reportMonth
 
 if (infra.isTrustedCiController()) {
     node('census') {
@@ -17,28 +19,49 @@ if (infra.isTrustedCiController()) {
                 '''
 
                 // Determine which month/year need to be processed (current on the weekly cron execution or from parameter for manual builds?)
+                if (params.TARGET_YEAR) {
+                    reportYear = params.TARGET_YEAR.toString().trim()
+                } else {
+                    reportYear = sh(script: '''
+                    date +'%Y'
+                    ''', returnStdout: true).trim()
+                }
+                if (params.TARGET_MONTH) {
+                    reportMonth = params.TARGET_MONTH.toString().trim()
+                } else {
+                    reportMonth = sh(script: '''
+                    date +'%m'
+                    ''', returnStdout: true).trim()
+                }
+                echo "== I will generate report for: ${reportYear}:${reportMonth}"
             }
 
-            stage('Import from usage') {
-                // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
-                echo "TBD"
-            }
+            withEnv([
+                "REPORT_YEAR=${reportYear}",
+                "REPORT_MONTH=${reportMonth}",
+            ]) {
+                stage('Import from usage') {
+                    // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
+                    sh '''
+                    echo rsync -av --progress "usage.jenkins.io:/srv/usage/usage-stats/*${REPORT_YEAR}${REPORT_MONTH}*" "/srv/census/usage-stats/${REPORT_YEAR}${REPORT_MONTH}"
+                    '''
+                }
 
-            stage('Import to database') {
-                // Import log files from local census.jenkins.io disk into the local PostgreSQL database
-                echo "TBD"
-            }
+                stage('Import to database') {
+                    // Import log files from local census.jenkins.io disk into the local PostgreSQL database
+                    echo "TBD"
+                }
 
-            stage('Report from database') {
-                // Generate CSV reports from the local PostgreSQL database to local disk
-                echo "TBD"
-            }
+                stage('Report from database') {
+                    // Generate CSV reports from the local PostgreSQL database to local disk
+                    echo "TBD"
+                }
 
-            stage('Publish breport to GitHub') {
-                // Publish CSV reports from local disk to GitHub repository
-                echo "TBD"
+                stage('Publish report to GitHub') {
+                    // Publish CSV reports from local disk to GitHub repository
+                    echo "TBD"
+                }
             }
-
         }
     }
 }
