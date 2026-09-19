@@ -60,7 +60,7 @@ if (infra.isTrustedCiController()) {
                             sh 'echo "${USAGE_JENKINS_IO_SSH_HOSTKEY}" > ~/.ssh/known_hosts'
                         }
                         sh '''
-                        ssh "${USAGE_SSH_USERNAME}"@usage.jenkins.io ls -l /srv/usage/usage-stats/*${IMPORT_YEAR}${IMPORT_MONTH}*
+                        rsync -avt "${USAGE_SSH_USERNAME}"@usage.jenkins.io:/srv/usage/usage-stats/*"${IMPORT_YEAR}${IMPORT_MONTH}"* /srv/census/usage-stats/"${IMPORT_YEAR}${IMPORT_MONTH}/"
                         '''
                     }
                 }
