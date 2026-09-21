@@ -103,9 +103,29 @@ if (infra.isTrustedCiController()) {
                     }
                 }
 
+                // Publish CSV reports from local disk to GitHub repository
                 stage('Publish report to GitHub') {
-                    // Publish CSV reports from local disk to GitHub repository
-                    echo "TBD"
+                    withCredentials([gitUsernamePassword(credentialsId: 'github-app-trusted.ci.jenkins.io-read-write', gitToolName: 'git-native')]) {
+                        // Always start from a fresh empty state to avoid git conflicts
+                        sh '''
+                        local_dir=infra-statistics
+                        git_branch=test-helpdesk-4666 # TODO: replace b gh-pages once testing is finished
+
+                        rm -rf "${local_dir}"
+                        git clone https://github.com/jenkins-infra/infra-statistics.git "${local_dir}"
+                        cd "${local_dir}"
+                        git checkout "${git_branch}"
+
+                        git config --global user.email "infra-statics@trusted.ci.jenkins.io"
+                        git config --global user.name "Infra Statistics job on trusted.ci.jenkins.io"
+
+                        rsync -avt "${REPORT_DIRECTORY}"/* ./
+                        git add .
+                        git commit -m "[trusted.ci.jenkins.io] Report data for ${REPORT_YEAR}-${REPORT_MONTH} (by ${BUILD_URL})"
+                        git push origin "${git_branch}"
+                        '''
+                        // Note: we don't delete the local repository to allow diagnosing if the job fails. Cleanup is done on next job as first step.
+                    }
                 }
             }
         }
