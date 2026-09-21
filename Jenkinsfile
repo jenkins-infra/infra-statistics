@@ -109,7 +109,7 @@ if (infra.isTrustedCiController()) {
                         // Always start from a fresh empty state to avoid git conflicts
                         sh '''
                         local_dir=infra-statistics
-                        git_branch=test-helpdesk-4666 # TODO: replace b gh-pages once testing is finished
+                        git_branch=gh-pages
 
                         rm -rf "${local_dir}"
                         git clone https://github.com/jenkins-infra/infra-statistics.git "${local_dir}"
