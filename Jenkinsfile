@@ -4,6 +4,13 @@
 **/
 
 final String jenkinsUsageStatsCli = '/opt/jenkins-usage-stats/build/jenkins-usage-stats'
+final Map postgresConfig = [
+    hostname: 'localhost',
+    port: '5432', // Use string to avoid casting. No one cares for integer here
+    database: 'census-data',
+    // username and password comes from credential
+]
+
 String reportYear
 String reportMonth
 String importMonth
@@ -51,6 +58,7 @@ if (infra.isTrustedCiController()) {
                 "REPORT_MONTH=${reportMonth}",
                 "IMPORT_YEAR=${importYear}",
                 "IMPORT_MONTH=${importMonth}",
+                "IMPORT_DIRECTORY=/srv/census/usage-stats/${importYear}${importMonth}",
             ]) {
                 stage('Import from usage') {
                     // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
@@ -59,15 +67,29 @@ if (infra.isTrustedCiController()) {
                             // Using a credential even if the(multi-line) value is not that sensitive
                             sh 'echo "${USAGE_JENKINS_IO_SSH_HOSTKEY}" > ~/.ssh/known_hosts'
                         }
+
+                        // Recommended: trailing slash at the end of the IMPORT_DIRECTORY for explicit rsync behavior
                         sh '''
-                        rsync -avt "${USAGE_SSH_USERNAME}"@usage.jenkins.io:/srv/usage/usage-stats/*"${IMPORT_YEAR}${IMPORT_MONTH}"* /srv/census/usage-stats/"${IMPORT_YEAR}${IMPORT_MONTH}/"
+                        rsync -avt "${USAGE_SSH_USERNAME}"@usage.jenkins.io:/srv/usage/usage-stats/*"${IMPORT_YEAR}${IMPORT_MONTH}"* "${IMPORT_DIRECTORY}"/
                         '''
                     }
                 }
 
                 stage('Import to database') {
                     // Import log files from local census.jenkins.io disk into the local PostgreSQL database
-                    echo "TBD"
+                    withEnv([
+                        // Avoid using 'PG*' (https://docs.postgresql.fr/18/libpq-envars.html) except for credentials
+                        "POSTGRES_HOSTNAME=${postgresConfig['hostname']}",
+                        "POSTGRES_PORT=${postgresConfig['port']}",
+                        "POSTGRES_DATABASE=${postgresConfig['database']}",
+                    ]) {
+                        withCredentials([usernamePassword(credentialsId: 'census-jenkins-io-postgres-census-data', passwordVariable: 'PGPASSWORD', usernameVariable: 'PGUSER')]) {
+                            // Decrease process priority with the 'nice' command to avoid OOM kils
+                            sh '''
+                            nice time "${JENKINS_USAGE_STATS_CLI}" import --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${IMPORT_DIRECTORY}"
+                            '''
+                        }
+                    }
                 }
 
                 stage('Report from database') {
