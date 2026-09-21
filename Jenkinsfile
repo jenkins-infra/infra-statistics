@@ -59,6 +59,7 @@ if (infra.isTrustedCiController()) {
                 "IMPORT_YEAR=${importYear}",
                 "IMPORT_MONTH=${importMonth}",
                 "IMPORT_DIRECTORY=/srv/census/usage-stats/${importYear}${importMonth}",
+                "REPORT_DIRECTORY=/srv/census/usage-stats-reports/${reportYear}${reportMonth}",
             ]) {
                 stage('Import from usage') {
                     // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
@@ -75,26 +76,30 @@ if (infra.isTrustedCiController()) {
                     }
                 }
 
-                stage('Import to database') {
-                    // Import log files from local census.jenkins.io disk into the local PostgreSQL database
-                    withEnv([
-                        // Avoid using 'PG*' (https://docs.postgresql.fr/18/libpq-envars.html) except for credentials
-                        "POSTGRES_HOSTNAME=${postgresConfig['hostname']}",
-                        "POSTGRES_PORT=${postgresConfig['port']}",
-                        "POSTGRES_DATABASE=${postgresConfig['database']}",
-                    ]) {
-                        withCredentials([usernamePassword(credentialsId: 'census-jenkins-io-postgres-census-data', passwordVariable: 'PGPASSWORD', usernameVariable: 'PGUSER')]) {
+                withEnv([
+                    // Avoid using 'PG*' (https://docs.postgresql.fr/18/libpq-envars.html) except for credentials
+                    "POSTGRES_HOSTNAME=${postgresConfig['hostname']}",
+                    "POSTGRES_PORT=${postgresConfig['port']}",
+                    "POSTGRES_DATABASE=${postgresConfig['database']}",
+                ]) {
+                    withCredentials([usernamePassword(credentialsId: 'census-jenkins-io-postgres-census-data', passwordVariable: 'PGPASSWORD', usernameVariable: 'PGUSER')]) {
+                        /** Import log files from local census.jenkins.io disk into the local PostgreSQL database **/
+                        stage('Import to database') {
                             // Decrease process priority with the 'nice' command to avoid OOM kils
                             sh '''
                             nice time "${JENKINS_USAGE_STATS_CLI}" import --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${IMPORT_DIRECTORY}"
                             '''
                         }
-                    }
-                }
 
-                stage('Report from database') {
-                    // Generate CSV reports from the local PostgreSQL database to local disk
-                    echo "TBD"
+                        /** Generate CSV reports from the local PostgreSQL database to local disk **/
+                        stage('Report from database') {
+                            // Decrease process priority with the 'nice' command to avoid OOM kils
+                            sh '''
+                            mkdir -p "${REPORT_DIRECTORY}"
+                            nice time "${JENKINS_USAGE_STATS_CLI}" report --latest-month "${REPORT_MONTH}" --latest-year "${REPORT_YEAR}" --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${REPORT_DIRECTORY}"
+                            '''
+                        }
+                    }
                 }
 
                 stage('Publish report to GitHub') {
