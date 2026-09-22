@@ -2,16 +2,16 @@
     "name": "finite-state-analysis",
     "installations": {
         "1754006400000": 1,
-        "1759276800000": 4
+        "1756684800000": 1
     },
     "installationsPercentage": {
         "1754006400000": 0.00036930077,
-        "1759276800000": 0.0015749892
+        "1756684800000": 0.00037301602
     },
     "installationsPerVersion": {
         "1.080.v3581649726b_8": 1
     },
     "installationsPercentagePerVersion": {
-        "1.080.v3581649726b_8": 0.00036930077
+        "1.080.v3581649726b_8": 0.00037301602
     }
 }

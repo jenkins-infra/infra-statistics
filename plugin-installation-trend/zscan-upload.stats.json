@@ -1,0 +1,15 @@
+{
+    "name": "zscan-upload",
+    "installations": {
+        "1756684800000": 1
+    },
+    "installationsPercentage": {
+        "1756684800000": 0.00037301602
+    },
+    "installationsPerVersion": {
+        "2.4.4": 1
+    },
+    "installationsPercentagePerVersion": {
+        "2.4.4": 0.00037301602
+    }
+}

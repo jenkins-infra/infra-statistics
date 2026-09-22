@@ -1,11 +1,15 @@
 {
     "name": "jakarta-xml-bind-api",
     "installations": {
-        "1759276800000": 45141
+        "1756684800000": 12
     },
     "installationsPercentage": {
-        "1759276800000": 17.774147
+        "1756684800000": 0.0044761924
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "4.0.5-3.v3d5b_a_73965b_9": 12
+    },
+    "installationsPercentagePerVersion": {
+        "4.0.5-3.v3d5b_a_73965b_9": 0.0044761924
+    }
 }
