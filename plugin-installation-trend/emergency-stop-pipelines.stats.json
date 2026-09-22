@@ -1,10 +1,12 @@
 {
     "name": "emergency-stop-pipelines",
     "installations": {
-        "1754006400000": 1
+        "1754006400000": 1,
+        "1759276800000": 2
     },
     "installationsPercentage": {
-        "1754006400000": 0.00036930077
+        "1754006400000": 0.00036930077,
+        "1759276800000": 0.0007874946
     },
     "installationsPerVersion": {
         "41.vb_e979ca_5204c": 1
