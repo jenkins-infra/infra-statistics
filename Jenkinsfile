@@ -121,6 +121,21 @@ if (infra.isTrustedCiController()) {
 
                         rsync -avt "${REPORT_DIRECTORY}"/* ./
                         git add .
+                        ## There seems to be a few plugins which changed their name's case which creates some mayhem with git OSes which are case insensitive.
+                        ## Let's merge these duplicates into the lower-case versions, assuming the "other" case has the proper content
+
+                        # Find the list of case-duplicated files (same name with different cases)
+                        find . | tr '[:upper:]' '[:lower:]' | sort | uniq -d | while read -r f
+                        do
+                            # Note: Sorting ensures lowercased is the last item
+                            lower_cased="$(find "$(dirname "$f")" -maxdepth 1 -iname "$(basename "$f")" | sort | tail -n1)"
+                            other_cased="$(find "$(dirname "$f")" -maxdepth 1 -iname "$(basename "$f")" | sort | head -n1)"
+
+                            # Remove destination file (lower case) and replace it with the "other"
+                            git rm -f "${lower_cased}"
+                            git mv "${other_cased}" "${lower_cased}"
+                        done
+
                         git commit -m "[trusted.ci.jenkins.io] Report data for ${REPORT_YEAR}-${REPORT_MONTH} (by ${BUILD_URL})"
                         git push origin "${git_branch}"
                         '''
