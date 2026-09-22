@@ -6,6 +6,14 @@
     "installationsPercentage": {
         "1759276800000": 0.005512462
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "3.0.0-3.v69a_efc2288d6": 2,
+        "3.0.0-7.vee2f20796c77": 11,
+        "3.0.1-11.v1db_b_61c8b_e4d": 1
+    },
+    "installationsPercentagePerVersion": {
+        "3.0.0-3.v69a_efc2288d6": 0.0007874946,
+        "3.0.0-7.vee2f20796c77": 0.0043312204,
+        "3.0.1-11.v1db_b_61c8b_e4d": 0.0003937473
+    }
 }

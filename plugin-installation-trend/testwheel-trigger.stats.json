@@ -1,15 +1,17 @@
 {
     "name": "testwheel-trigger",
     "installations": {
-        "1756684800000": 2
+        "1756684800000": 2,
+        "1759276800000": 1
     },
     "installationsPercentage": {
-        "1756684800000": 0.00074603205
+        "1756684800000": 0.00074603205,
+        "1759276800000": 0.0003937473
     },
     "installationsPerVersion": {
-        "71.v6d872a_73ecb_b_": 2
+        "73.v99ce33738a_86": 1
     },
     "installationsPercentagePerVersion": {
-        "71.v6d872a_73ecb_b_": 0.00074603205
+        "73.v99ce33738a_86": 0.0003937473
     }
 }

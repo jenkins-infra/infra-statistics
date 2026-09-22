@@ -6,6 +6,10 @@
     "installationsPercentage": {
         "1759276800000": 0.002756231
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "8.v96183e297829": 7
+    },
+    "installationsPercentagePerVersion": {
+        "8.v96183e297829": 0.002756231
+    }
 }

@@ -325,12 +325,12 @@
   <text x="2430" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2430,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.1.JENKINS-19453 (1)</text>
   <rect fill="blue" height="0.4" stroke="black" width="12" x="2445" y="832.4"/>
   <text x="2445" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2445,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-AMADEUS-2 (4)</text>
-  <rect fill="blue" height="53.4" stroke="black" width="12" x="2460" y="779.4"/>
-  <text x="2460" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2460,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2 (534)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="2475" y="832.7"/>
-  <text x="2475" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2475,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nokia_lte_macps-2 (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="2460" y="832.7"/>
+  <text x="2460" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2460,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-2 (1)</text>
+  <rect fill="blue" height="53.4" stroke="black" width="12" x="2475" y="779.4"/>
+  <text x="2475" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2475,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2 (534)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2490" y="832.7"/>
-  <text x="2490" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2490,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-2 (1)</text>
+  <text x="2490" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2490,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nokia_lte_macps-2 (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2505" y="832.7"/>
   <text x="2505" y="837.8" font-family="Tahoma" font-size="12" transform="rotate(90 2505,837.8)" text-rendering="optimizeSpeed" fill="#000000">1.532.3-3.257d39fe (1)</text>
   <rect fill="blue" height="43.4" stroke="black" width="12" x="2520" y="789.4"/>
