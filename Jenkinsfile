@@ -8,7 +8,7 @@ final Map postgresConfig = [
     hostname: 'localhost',
     port: '5432', // Use string to avoid casting. No one cares for integer here
     database: 'census-data',
-    // username and password comes from credential
+    // username and password come from credential
 ]
 
 String reportYear
@@ -42,7 +42,7 @@ if (infra.isTrustedCiController()) {
                     date +'%Y' -d '1 month ago'
                     ''', returnStdout: true).trim()
                 }
-                echo "== I will generate report for: ${reportYear}:${reportMonth}"
+                echo "== Generating report for: ${reportYear}:${reportMonth}"
 
                 // To publish a report for a given month means we need to import the data from month + 1
                 // Calculation is delegated to the Linux 'date' command: safer to run on agent and manages time properly.
@@ -50,7 +50,7 @@ if (infra.isTrustedCiController()) {
                 final String importDate = sh(script: calculateImportDateCmd, returnStdout: true).trim()
                 importMonth = importDate.split('-')[0]
                 importYear = importDate.split('-')[1]
-                echo "== I will import data report for: ${importYear}:${importMonth}"
+                echo "== Importing data report for: ${importYear}:${importMonth}"
             }
 
             withEnv([
@@ -83,7 +83,6 @@ if (infra.isTrustedCiController()) {
                     "POSTGRES_DATABASE=${postgresConfig['database']}",
                 ]) {
                     withCredentials([usernamePassword(credentialsId: 'census-jenkins-io-postgres-census-data', passwordVariable: 'PGPASSWORD', usernameVariable: 'PGUSER')]) {
-                        /** Import log files from local census.jenkins.io disk into the local PostgreSQL database **/
                         stage('Import to database') {
                             // Decrease process priority with the 'nice' command to avoid OOM kils
                             sh '''
@@ -103,7 +102,6 @@ if (infra.isTrustedCiController()) {
                     }
                 }
 
-                // Publish CSV reports from local disk to GitHub repository
                 stage('Publish report to GitHub') {
                     withCredentials([gitUsernamePassword(credentialsId: 'github-app-trusted.ci.jenkins.io-read-write', gitToolName: 'git-native')]) {
                         // Always start from a fresh empty state to avoid git conflicts
