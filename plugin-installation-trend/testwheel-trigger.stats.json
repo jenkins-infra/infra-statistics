@@ -10,10 +10,6 @@
         "1759276800000": 0.0003937473,
         "1761955200000": 0.00039483554
     },
-    "installationsPerVersion": {
-        "75.vb_5b_9d217a_7de": 1
-    },
-    "installationsPercentagePerVersion": {
-        "75.vb_5b_9d217a_7de": 0.00039483554
-    }
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
 }

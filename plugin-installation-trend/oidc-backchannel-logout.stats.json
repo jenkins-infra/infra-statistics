@@ -1,0 +1,17 @@
+{
+    "name": "oidc-backchannel-logout",
+    "installations": {
+        "1764547200000": 3
+    },
+    "installationsPercentage": {
+        "1764547200000": 0.0012482732
+    },
+    "installationsPerVersion": {
+        "11.v5e233b_cdf252": 1,
+        "13.vdf9ca_b_b_99fa_6": 2
+    },
+    "installationsPercentagePerVersion": {
+        "11.v5e233b_cdf252": 0.00041609106,
+        "13.vdf9ca_b_b_99fa_6": 0.0008321821
+    }
+}

@@ -3,13 +3,19 @@
     "installations": {
         "1754006400000": 2,
         "1756684800000": 2,
-        "1759276800000": 1
+        "1759276800000": 1,
+        "1764547200000": 1
     },
     "installationsPercentage": {
         "1754006400000": 0.00073860155,
         "1756684800000": 0.00074603205,
-        "1759276800000": 0.0003937473
+        "1759276800000": 0.0003937473,
+        "1764547200000": 0.00041609106
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "1.94.vc3d4b_a_5b_a_329": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.94.vc3d4b_a_5b_a_329": 0.00041609106
+    }
 }

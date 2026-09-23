@@ -1,0 +1,15 @@
+{
+    "name": "zadviser-pipeline-analysis",
+    "installations": {
+        "1764547200000": 1
+    },
+    "installationsPercentage": {
+        "1764547200000": 0.00041609106
+    },
+    "installationsPerVersion": {
+        "1.0": 1
+    },
+    "installationsPercentagePerVersion": {
+        "1.0": 0.00041609106
+    }
+}
