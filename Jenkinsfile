@@ -4,28 +4,142 @@
 **/
 
 final String jenkinsUsageStatsCli = '/opt/jenkins-usage-stats/build/jenkins-usage-stats'
+final Map postgresConfig = [
+    hostname: 'localhost',
+    port: '5432', // Use string to avoid casting. No one cares for integer here
+    database: 'census-data',
+    // username and password come from credential
+]
 
-if (infra.isTrusted() && env.BRANCH_IS_PRIMARY) {
+String reportYear
+String reportMonth
+String importMonth
+String importYear
+
+if (infra.isTrustedCiController()) {
     node('census') {
         withEnv(["JENKINS_USAGE_STATS_CLI=${jenkinsUsageStatsCli}"]) {
-            checkout scm
+            stage('Prepare') {
+                checkout scm
+                // Sanity checks
+                sh '''
+                rsync --version
+                "${JENKINS_USAGE_STATS_CLI}" --help
+                '''
 
-            // Sanity checks
-            sh '''
-            rsync --version
-            "${JENKINS_USAGE_STATS_CLI}" --help
-            '''
+                // Determine which month/year need to be published (specified by user or defaults to last month as we need N+1 data for the report of the Nth month)
+                if (params.TARGET_MONTH) {
+                    reportMonth = params.TARGET_MONTH.toString().trim()
+                } else {
+                    reportMonth = sh(script: '''
+                    date +'%m' -d '1 month ago'
+                    ''', returnStdout: true).trim()
+                }
+                if (params.TARGET_YEAR) {
+                    reportYear = params.TARGET_YEAR.toString().trim()
+                } else {
+                    reportYear = sh(script: '''
+                    date +'%Y' -d '1 month ago'
+                    ''', returnStdout: true).trim()
+                }
+                echo "== Generating report for: ${reportYear}:${reportMonth}"
 
-            // Determine which month/year need to be processed (current on the weekly cron execution or from parameter for manual builds?)
+                // To publish a report for a given month means we need to import the data from month + 1
+                // Calculation is delegated to the Linux 'date' command: safer to run on agent and manages time properly.
+                final String calculateImportDateCmd = "date +'%m-%Y' -d '${reportMonth}/01/${reportYear} + 1 month'"
+                final String importDate = sh(script: calculateImportDateCmd, returnStdout: true).trim()
+                importMonth = importDate.split('-')[0]
+                importYear = importDate.split('-')[1]
+                echo "== Importing data report for: ${importYear}:${importMonth}"
+            }
 
-            // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
+            withEnv([
+                "REPORT_YEAR=${reportYear}",
+                "REPORT_MONTH=${reportMonth}",
+                "IMPORT_YEAR=${importYear}",
+                "IMPORT_MONTH=${importMonth}",
+                "IMPORT_DIRECTORY=/srv/census/usage-stats/${importYear}${importMonth}",
+                "REPORT_DIRECTORY=/srv/census/usage-stats-reports/${reportYear}${reportMonth}",
+            ]) {
+                stage('Import from usage') {
+                    // Retrieve log files from usage.jenkins.io VM to the local census.jenkins.io VM
+                    sshagent(credentials: ['usage-jenkins-io-usagestats-ssh-key'], executable: '', usernameVariable: 'USAGE_SSH_USERNAME') {
+                        withCredentials([string(credentialsId: 'usage-jenkins-io-ssh-hostkey', variable: 'USAGE_JENKINS_IO_SSH_HOSTKEY')]) {
+                            // Using a credential even if the(multi-line) value is not that sensitive
+                            sh 'echo "${USAGE_JENKINS_IO_SSH_HOSTKEY}" > ~/.ssh/known_hosts'
+                        }
 
-            // Import log files from local census.jenkins.io disk into the local PostgreSQL database
+                        // Recommended: trailing slash at the end of the IMPORT_DIRECTORY for explicit rsync behavior
+                        sh '''
+                        rsync -avt "${USAGE_SSH_USERNAME}"@usage.jenkins.io:/srv/usage/usage-stats/*"${IMPORT_YEAR}${IMPORT_MONTH}"* "${IMPORT_DIRECTORY}"/
+                        '''
+                    }
+                }
 
-            // Generate CSV reports from the local PostgreSQL database to local disk
+                withEnv([
+                    // Avoid using 'PG*' (https://docs.postgresql.fr/18/libpq-envars.html) except for credentials
+                    "POSTGRES_HOSTNAME=${postgresConfig['hostname']}",
+                    "POSTGRES_PORT=${postgresConfig['port']}",
+                    "POSTGRES_DATABASE=${postgresConfig['database']}",
+                ]) {
+                    withCredentials([usernamePassword(credentialsId: 'census-jenkins-io-postgres-census-data', passwordVariable: 'PGPASSWORD', usernameVariable: 'PGUSER')]) {
+                        stage('Import to database') {
+                            // Decrease process priority with the 'nice' command to avoid OOM kils
+                            sh '''
+                            nice time "${JENKINS_USAGE_STATS_CLI}" import --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${IMPORT_DIRECTORY}"
+                            '''
+                        }
 
-            // Publish CSV reports from local disk to GitHub repository
+                        stage('Report from database') {
+                            // Decrease process priority with the 'nice' command to avoid OOM kils
+                            sh '''
+                            mkdir -p "${REPORT_DIRECTORY}"
+                            # There is a bug in the CLI when parsing month. Workaround is to trim the leading `0` for January -> September months. Using 'expr' and adding zero is a pure bash trick allowing this trimming.
+                            nice time "${JENKINS_USAGE_STATS_CLI}" report --latest-month "$(expr "${IMPORT_MONTH}" + 0)" --latest-year "${IMPORT_YEAR}" --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${REPORT_DIRECTORY}"
+                            '''
+                        }
+                    }
+                }
 
+                stage('Publish report to GitHub') {
+                    withCredentials([gitUsernamePassword(credentialsId: 'github-app-trusted.ci.jenkins.io-read-write', gitToolName: 'git-native')]) {
+                        // Always start from a fresh empty state to avoid git conflicts
+                        sh '''
+                        local_dir=infra-statistics
+                        git_branch=gh-pages
+
+                        rm -rf "${local_dir}"
+                        git clone https://github.com/jenkins-infra/infra-statistics.git "${local_dir}"
+                        cd "${local_dir}"
+                        git checkout "${git_branch}"
+
+                        git config --global user.email "infra-statics@trusted.ci.jenkins.io"
+                        git config --global user.name "Infra Statistics job on trusted.ci.jenkins.io"
+
+                        rsync -avt "${REPORT_DIRECTORY}"/* ./
+                        git add .
+                        ## There seems to be a few plugins which changed their name's case which creates some mayhem with git OSes which are case insensitive.
+                        ## Let's merge these duplicates into the lower-case versions, assuming the "other" case has the proper content
+
+                        # Find the list of case-duplicated files (same name with different cases)
+                        find . | tr '[:upper:]' '[:lower:]' | sort | uniq -d | while read -r f
+                        do
+                            # Note: Sorting ensures lowercased is the last item
+                            lower_cased="$(find "$(dirname "$f")" -maxdepth 1 -iname "$(basename "$f")" | sort | tail -n1)"
+                            other_cased="$(find "$(dirname "$f")" -maxdepth 1 -iname "$(basename "$f")" | sort | head -n1)"
+
+                            # Remove destination file (lower case) and replace it with the "other"
+                            git rm -f "${lower_cased}"
+                            git mv "${other_cased}" "${lower_cased}"
+                        done
+
+                        git commit -m "[trusted.ci.jenkins.io] Report data for ${REPORT_YEAR}-${REPORT_MONTH} (by ${BUILD_URL})"
+                        git push origin "${git_branch}"
+                        '''
+                        // Note: we don't delete the local repository to allow diagnosing if the job fails. Cleanup is done on next job as first step.
+                    }
+                }
+            }
         }
     }
 }
