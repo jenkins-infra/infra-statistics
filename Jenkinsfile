@@ -90,7 +90,6 @@ if (infra.isTrustedCiController()) {
                             '''
                         }
 
-                        /** Generate CSV reports from the local PostgreSQL database to local disk **/
                         stage('Report from database') {
                             // Decrease process priority with the 'nice' command to avoid OOM kils
                             sh '''
