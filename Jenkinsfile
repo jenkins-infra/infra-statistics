@@ -94,7 +94,7 @@ if (infra.isTrustedCiController()) {
                             // Decrease process priority with the 'nice' command to avoid OOM kils
                             sh '''
                             mkdir -p "${REPORT_DIRECTORY}"
-                            # Bug in the CLI (parsing month) requires removing the leading '0's. Using 'expr' and adding zero is a pure bash trick allowing this trimming.
+                            # There is a bug in the CLI when parsing month. Workaround is to trim the leading `0` for January -> September months. Using 'expr' and adding zero is a pure bash trick allowing this trimming.
                             nice time "${JENKINS_USAGE_STATS_CLI}" report --latest-month "$(expr "${IMPORT_MONTH}" + 0)" --latest-year "${IMPORT_YEAR}" --database "postgres://${PGUSER}@${POSTGRES_HOSTNAME}:${POSTGRES_PORT}/${POSTGRES_DATABASE}?sslmode=disable&timezone=UTC" --directory "${REPORT_DIRECTORY}"
                             '''
                         }
