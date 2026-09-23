@@ -1,0 +1,15 @@
+{
+    "name": "diversion-scm",
+    "installations": {
+        "1761955200000": 3
+    },
+    "installationsPercentage": {
+        "1761955200000": 0.0011845067
+    },
+    "installationsPerVersion": {
+        "34.v6ce5984fe944": 3
+    },
+    "installationsPercentagePerVersion": {
+        "34.v6ce5984fe944": 0.0011845067
+    }
+}

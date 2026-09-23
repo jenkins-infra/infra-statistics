@@ -10,10 +10,6 @@
         "1756684800000": 0.00074603205,
         "1759276800000": 0.0003937473
     },
-    "installationsPerVersion": {
-        "1.94.vc3d4b_a_5b_a_329": 1
-    },
-    "installationsPercentagePerVersion": {
-        "1.94.vc3d4b_a_5b_a_329": 0.0003937473
-    }
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
 }

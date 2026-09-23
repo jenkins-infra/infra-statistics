@@ -48,10 +48,6 @@
         "1722470400000": 0.00035217716,
         "1759276800000": 0.0003937473
     },
-    "installationsPerVersion": {
-        "66.v12c841920f7d": 1
-    },
-    "installationsPercentagePerVersion": {
-        "66.v12c841920f7d": 0.0003937473
-    }
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
 }

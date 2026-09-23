@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3095 3557.7">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3110 3557.7">
   <rect fill="blue" height="12.8" stroke="black" width="12" x="15" y="3245.0"/>
   <text x="15" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,3262.7)" text-rendering="optimizeSpeed" fill="#000000">200812 (1278)</text>
   <rect fill="blue" height="47.2" stroke="black" width="12" x="30" y="3210.5"/>
@@ -405,5 +405,7 @@
   <text x="3030" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 3030,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202509 (268085)</text>
   <rect fill="blue" height="2539.7" stroke="black" width="12" x="3045" y="718.0"/>
   <text x="3045" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 3045,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202510 (253970)</text>
+  <rect fill="blue" height="2532.7" stroke="black" width="12" x="3060" y="725.0"/>
+  <text x="3060" y="3262.7" font-family="Tahoma" font-size="12" transform="rotate(90 3060,3262.7)" text-rendering="optimizeSpeed" fill="#000000">202511 (253270)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Jenkins installations</text>
 </svg>

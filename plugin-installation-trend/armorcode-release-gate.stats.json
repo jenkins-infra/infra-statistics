@@ -1,0 +1,15 @@
+{
+    "name": "armorcode-release-gate",
+    "installations": {
+        "1761955200000": 1
+    },
+    "installationsPercentage": {
+        "1761955200000": 0.00039483554
+    },
+    "installationsPerVersion": {
+        "28.v4f731c96b_5f9": 1
+    },
+    "installationsPercentagePerVersion": {
+        "28.v4f731c96b_5f9": 0.00039483554
+    }
+}

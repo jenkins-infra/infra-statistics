@@ -1,0 +1,15 @@
+{
+    "name": "buildstash",
+    "installations": {
+        "1761955200000": 4
+    },
+    "installationsPercentage": {
+        "1761955200000": 0.0015793422
+    },
+    "installationsPerVersion": {
+        "1.58.v043482c8e823": 4
+    },
+    "installationsPercentagePerVersion": {
+        "1.58.v043482c8e823": 0.0015793422
+    }
+}

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3095 13130.6">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3110 13130.6">
   <rect fill="blue" height="18.2" stroke="black" width="12" x="15" y="12812.4"/>
   <text x="15" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 15,12835.6)" text-rendering="optimizeSpeed" fill="#000000">200812 (1818)</text>
   <rect fill="blue" height="63.3" stroke="black" width="12" x="30" y="12767.3"/>
@@ -405,5 +405,7 @@
   <text x="3030" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 3030,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202509 (1235835)</text>
   <rect fill="blue" height="11613.8" stroke="black" width="12" x="3045" y="1216.8"/>
   <text x="3045" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 3045,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202510 (1161377)</text>
+  <rect fill="blue" height="11325.8" stroke="black" width="12" x="3060" y="1504.8"/>
+  <text x="3060" y="12835.6" font-family="Tahoma" font-size="12" transform="rotate(90 3060,12835.6)" text-rendering="optimizeSpeed" fill="#000000">202511 (1132582)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total nodes</text>
 </svg>

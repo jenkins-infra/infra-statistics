@@ -1,15 +1,17 @@
 {
     "name": "simple-priority-sorter",
     "installations": {
-        "1759276800000": 7
+        "1759276800000": 7,
+        "1761955200000": 13
     },
     "installationsPercentage": {
-        "1759276800000": 0.002756231
+        "1759276800000": 0.002756231,
+        "1761955200000": 0.0051328624
     },
     "installationsPerVersion": {
-        "8.v96183e297829": 7
+        "8.v96183e297829": 13
     },
     "installationsPercentagePerVersion": {
-        "8.v96183e297829": 0.002756231
+        "8.v96183e297829": 0.0051328624
     }
 }

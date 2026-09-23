@@ -1,15 +1,17 @@
 {
     "name": "bitbucket-webhooks",
     "installations": {
-        "1759276800000": 21
+        "1759276800000": 21,
+        "1761955200000": 75
     },
     "installationsPercentage": {
-        "1759276800000": 0.008268693
+        "1759276800000": 0.008268693,
+        "1761955200000": 0.029612666
     },
     "installationsPerVersion": {
-        "1.0.0": 21
+        "1.0.0": 75
     },
     "installationsPercentagePerVersion": {
-        "1.0.0": 0.008268693
+        "1.0.0": 0.029612666
     }
 }
