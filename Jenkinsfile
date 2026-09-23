@@ -27,7 +27,7 @@ if (infra.isTrustedCiController()) {
                 "${JENKINS_USAGE_STATS_CLI}" --help
                 '''
 
-                // Determine which month/year need to be published (specified by user or defaults to last month)
+                // Determine which month/year need to be published (specified by user or defaults to last month as we need N+1 data for the report of the Nth month)
                 if (params.TARGET_MONTH) {
                     reportMonth = params.TARGET_MONTH.toString().trim()
                 } else {
