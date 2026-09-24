@@ -11,6 +11,14 @@ class Generator {
     def db
     def statsDir
 
+    // Semantic version sorting - pads version components for proper comparison
+    // This ensures versions like "2.10" sort after "2.9" instead of after "2.1"
+    def sortVersion(String version) {
+        version.split('(?=[. -])').collect {
+            it.padLeft(30 - it.length())
+        }.join()
+    }
+
     def Generator(workingDir, db){
         this.db = db
         this.statsDir = new File(workingDir, "stats")
@@ -125,6 +133,10 @@ class Generator {
 				version2number.put it.version, it.number
 				version2percentage[it.version] = (it.number as float)*100/(total[it.month] as float)
 			}
+
+			// Sort versions semantically (by semver) instead of alphanumerically
+			version2number = version2number.sort { a, b -> sortVersion(a.key) <=> sortVersion(b.key) }
+			version2percentage = version2percentage.sort { a, b -> sortVersion(a.key) <=> sortVersion(b.key) }
 			
 			def json = new groovy.json.JsonBuilder()
             json name:name, installations:month2number, installationsPercentage:month2percentage, installationsPerVersion:version2number, installationsPercentagePerVersion:version2percentage
