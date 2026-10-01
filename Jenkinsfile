@@ -24,7 +24,6 @@ if (infra.isTrustedCiController()) {
                 // Sanity checks
                 sh '''
                 rsync --version
-                "${JENKINS_USAGE_STATS_CLI}" --help
                 "${JENKINS_USAGE_STATS_CLI}" --version
                 '''
 
