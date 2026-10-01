@@ -2,11 +2,13 @@
     "name": "kobiton-integration",
     "installations": {
         "1690848000000": 1,
-        "1725148800000": 1
+        "1725148800000": 1,
+        "1772323200000": 1
     },
     "installationsPercentage": {
         "1690848000000": 0.00033034044,
-        "1725148800000": 0.00036097693
+        "1725148800000": 0.00036097693,
+        "1772323200000": 0.00042593066
     },
     "installationsPerVersion": {},
     "installationsPercentagePerVersion": {}

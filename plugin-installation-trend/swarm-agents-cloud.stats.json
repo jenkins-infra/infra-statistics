@@ -1,0 +1,19 @@
+{
+    "name": "swarm-agents-cloud",
+    "installations": {
+        "1767225600000": 6,
+        "1772323200000": 20
+    },
+    "installationsPercentage": {
+        "1767225600000": 0.0022965365,
+        "1772323200000": 0.008518613
+    },
+    "installationsPerVersion": {
+        "1.0.48": 3,
+        "1.0.51": 3
+    },
+    "installationsPercentagePerVersion": {
+        "1.0.48": 0.0011482682,
+        "1.0.51": 0.0011482682
+    }
+}

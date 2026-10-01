@@ -1,0 +1,19 @@
+{
+    "name": "multibranch-filter",
+    "installations": {
+        "1767225600000": 6,
+        "1772323200000": 12
+    },
+    "installationsPercentage": {
+        "1767225600000": 0.0022965365,
+        "1772323200000": 0.0051111677
+    },
+    "installationsPerVersion": {
+        "10.v8fa_29a_2a_ca_2c": 1,
+        "12.v0b_12911209dc": 5
+    },
+    "installationsPercentagePerVersion": {
+        "10.v8fa_29a_2a_ca_2c": 0.0003827561,
+        "12.v0b_12911209dc": 0.0019137803
+    }
+}
