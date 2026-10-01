@@ -1,11 +1,15 @@
 {
     "name": "gitlab-checks",
     "installations": {
-        "1772323200000": 122
+        "1769904000000": 57
     },
     "installationsPercentage": {
-        "1772323200000": 0.05196354
+        "1769904000000": 0.022971552
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "2.v66f9d8d3b_258": 57
+    },
+    "installationsPercentagePerVersion": {
+        "2.v66f9d8d3b_258": 0.022971552
+    }
 }

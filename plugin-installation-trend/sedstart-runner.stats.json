@@ -1,15 +1,17 @@
 {
     "name": "sedstart-runner",
     "installations": {
-        "1767225600000": 1
+        "1767225600000": 1,
+        "1769904000000": 1
     },
     "installationsPercentage": {
-        "1767225600000": 0.0003827561
+        "1767225600000": 0.0003827561,
+        "1769904000000": 0.00040300968
     },
     "installationsPerVersion": {
         "21.vf1314ea_ed8a_4": 1
     },
     "installationsPercentagePerVersion": {
-        "21.vf1314ea_ed8a_4": 0.0003827561
+        "21.vf1314ea_ed8a_4": 0.00040300968
     }
 }

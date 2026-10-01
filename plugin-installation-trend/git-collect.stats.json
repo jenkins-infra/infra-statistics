@@ -1,11 +1,15 @@
 {
     "name": "git-collect",
     "installations": {
-        "1772323200000": 2
+        "1769904000000": 2
     },
     "installationsPercentage": {
-        "1772323200000": 0.0008518613
+        "1769904000000": 0.00080601935
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "37.v06298c1f8d7c": 2
+    },
+    "installationsPercentagePerVersion": {
+        "37.v06298c1f8d7c": 0.00080601935
+    }
 }

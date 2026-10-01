@@ -1,0 +1,15 @@
+{
+    "name": "tacotruck",
+    "installations": {
+        "1769904000000": 3
+    },
+    "installationsPercentage": {
+        "1769904000000": 0.001209029
+    },
+    "installationsPerVersion": {
+        "31.vfcf6b_6e2f477": 3
+    },
+    "installationsPercentagePerVersion": {
+        "31.vfcf6b_6e2f477": 0.001209029
+    }
+}

@@ -1,11 +1,17 @@
 {
     "name": "openmfa",
     "installations": {
-        "1772323200000": 64
+        "1769904000000": 18
     },
     "installationsPercentage": {
-        "1772323200000": 0.027259562
+        "1769904000000": 0.007254174
     },
-    "installationsPerVersion": {},
-    "installationsPercentagePerVersion": {}
+    "installationsPerVersion": {
+        "104.v3a_b_a_61fd743e": 15,
+        "99.ve29395359638": 3
+    },
+    "installationsPercentagePerVersion": {
+        "104.v3a_b_a_61fd743e": 0.006045145,
+        "99.ve29395359638": 0.001209029
+    }
 }

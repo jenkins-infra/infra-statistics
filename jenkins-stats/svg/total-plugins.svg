@@ -411,7 +411,7 @@
   <text x="3075" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 3075,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202512 (27835607)</text>
   <rect fill="blue" height="30236.7" stroke="black" width="12" x="3090" y="4538.0"/>
   <text x="3090" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 3090,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202601 (30236694)</text>
-  <rect fill="blue" height="27498.8" stroke="black" width="12" x="3105" y="7275.9"/>
-  <text x="3105" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 3105,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202603 (27498843)</text>
+  <rect fill="blue" height="28948.4" stroke="black" width="12" x="3105" y="5826.3"/>
+  <text x="3105" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 3105,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202602 (28948448)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Plugin installations</text>
 </svg>
