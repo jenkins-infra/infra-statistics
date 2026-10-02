@@ -22,10 +22,8 @@ if (infra.isTrustedCiController()) {
             stage('Prepare') {
                 checkout scm
                 // Sanity checks
-                sh '''
-                rsync --version
-                "${JENKINS_USAGE_STATS_CLI}" --version
-                '''
+                sh 'rsync --version'
+                sh label: 'jenkins-usage-stats --version', script: '"${JENKINS_USAGE_STATS_CLI}" --version'
 
                 // Determine which month/year need to be published (specified by user or defaults to last month as we need N+1 data for the report of the Nth month)
                 if (params.TARGET_MONTH) {
